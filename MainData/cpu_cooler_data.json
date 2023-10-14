@@ -1,0 +1,3133 @@
+[
+    {
+        "name": "be quiet! Pure Rock Slim 2 - CPU Luftkøler - Max 26 dBA",
+        "price": 199.0,
+        "currency": "DKK",
+        "id": "2969979",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/be-quiet-Pure-Rock-Slim-2-CPU-Luftkoeler-Max-26-dBA/2969979",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Arctic Liquid Freezer II 240 - CPU Vandkøling - Max 23 dBA",
+        "price": 564.0,
+        "currency": "DKK",
+        "id": "2816724",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Liquid-Freezer-II-240-CPU-Vandkoeling-Max-23-dBA/2816724",
+        "supported_sockets": [
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "be quiet! Dark Rock PRO 4 - CPU Luftkøler - Max 24 dBA",
+        "price": 699.0,
+        "currency": "DKK",
+        "id": "2658250",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/be-quiet-Dark-Rock-PRO-4-CPU-Luftkoeler-Max-24-dBA/2658250",
+        "supported_sockets": [
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1151",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1366",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Noctua NH-D15 - CPU Luftkøler - Max 24 dBA",
+        "price": 849.0,
+        "currency": "DKK",
+        "id": "2441505",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-D15-CPU-Luftkoeler-Max-24-dBA/2441505",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DUTZO Kōri ARGB 240 - CPU Vandkøling - Max 38 dBA",
+        "price": 499.0,
+        "currency": "DKK",
+        "id": "2914307",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DUTZO-Kri-ARGB-240-CPU-Vandkoeling-Max-38-dBA/2914307",
+        "supported_sockets": [
+            "AM4",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1366",
+            "LGA1156"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "be quiet! Pure Rock 2 - Black - CPU Luftkøler - Max 27 dBA",
+        "price": 349.0,
+        "currency": "DKK",
+        "id": "2917154",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/be-quiet-Pure-Rock-2-Black-CPU-Luftkoeler-Max-27-dBA/2917154",
+        "supported_sockets": [
+            "AM4",
+            "AM3+",
+            "AM3",
+            "LGA1200",
+            "LGA1151",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Arctic Liquid Freezer II 280 - CPU Vandkøling - Max 23 dBA",
+        "price": 696.0,
+        "currency": "DKK",
+        "id": "2816726",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Liquid-Freezer-II-280-CPU-Vandkoeling-Max-23-dBA/2816726",
+        "supported_sockets": [
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "DeepCool AK400 ZERO DARK PLUS - CPU Luftkøler - Max 28 dBA",
+        "price": 295.0,
+        "currency": "DKK",
+        "id": "3117874",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-AK400-ZERO-DARK-PLUS-CPU-Luftkoeler-Max-28-dBA/3117874",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Corsair iCUE H150i RGB ELITE - Black - CPU Vandkøling - Max 31 dBA",
+        "price": 1349.0,
+        "currency": "DKK",
+        "id": "3070361",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H150i-RGB-ELITE-Black-CPU-Vandkoeling-Max-31-dBA/3070361",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "be quiet! Dark Rock 4 - CPU Luftkøler - Max 21 dBA",
+        "price": 579.0,
+        "currency": "DKK",
+        "id": "2658251",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/be-quiet-Dark-Rock-4-CPU-Luftkoeler-Max-21-dBA/2658251",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "AM3",
+            "FM1",
+            "FM2"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Arctic Freezer 34 eSports DUO - Grey - CPU Luftkøler - Max 25 dBA",
+        "price": 343.0,
+        "currency": "DKK",
+        "id": "2812579",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Freezer-34-eSports-DUO-Grey-CPU-Luftkoeler-Max-25-dBA/2812579",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Corsair iCUE H100i RGB ELITE - Black - CPU Vandkøling - Max 31 dBA",
+        "price": 1079.0,
+        "currency": "DKK",
+        "id": "3070359",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H100i-RGB-ELITE-Black-CPU-Vandkoeling-Max-31-dBA/3070359",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "NZXT Kraken 120 - CPU Vandkøling - Max 36 dBA",
+        "price": 589.0,
+        "currency": "DKK",
+        "id": "2989193",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/NZXT-Kraken-120-CPU-Vandkoeling-Max-36-dBA/2989193",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Lian Li Galahad II Trinity Performance 360 Black - CPU Vandkøling - Max 40 dBA",
+        "price": 1299.0,
+        "currency": "DKK",
+        "id": "3190112",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Lian-Li-Galahad-II-Trinity-Performance-360-Black-CPU-Vandkoeling-Max-40-dBA/3190112",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Cooler Master Hyper 212 Black Edition - CPU Luftkøler",
+        "price": 343.0,
+        "currency": "DKK",
+        "id": "3061506",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Cooler-Master-Hyper-212-Black-Edition-CPU-Luftkoeler/3061506",
+        "supported_sockets": [
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1366",
+            "LGA1156"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Thermalright Assassin X 120 Refined SE White ARGB - CPU Luftkøler - Max 26 dBA",
+        "price": 179.0,
+        "currency": "DKK",
+        "id": "3179158",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Thermalright-Assassin-X-120-Refined-SE-White-ARGB-CPU-Luftkoeler-Max-26-dBA/3179158",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Arctic Liquid Freezer II 360 A-RGB - CPU Vandkøling - Max 25 dBA",
+        "price": 889.0,
+        "currency": "DKK",
+        "id": "2957240",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Liquid-Freezer-II-360-A-RGB-CPU-Vandkoeling-Max-25-dBA/2957240",
+        "supported_sockets": [
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Noctua SecuFirm2 NM-i17xx-MP83 - CPU Monteringsbeslag",
+        "price": 59.0,
+        "currency": "DKK",
+        "id": "3009816",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-SecuFirm2-NM-i17xx-MP83-CPU-Monteringsbeslag/3009816",
+        "supported_sockets": [
+            "AM4",
+            "LGA1700"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "be quiet! Pure Rock LP - CPU Luftkøler - Max 31 dBA",
+        "price": 369.0,
+        "currency": "DKK",
+        "id": "3128843",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/be-quiet-Pure-Rock-LP-CPU-Luftkoeler-Max-31-dBA/3128843",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Noctua NH-L12S - CPU Luftkøler - Max 24 dBA",
+        "price": 539.0,
+        "currency": "DKK",
+        "id": "2632566",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-L12S-CPU-Luftkoeler-Max-24-dBA/2632566",
+        "supported_sockets": [
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA775",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool AK500 ZERO DARK - CPU Luftkøler - Max 32 dBA",
+        "price": 423.0,
+        "currency": "DKK",
+        "id": "3141738",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-AK500-ZERO-DARK-CPU-Luftkoeler-Max-32-dBA/3141738",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "NZXT Kraken Elite 280 White RGB - CPU Vandkøling - Max 32 dBA",
+        "price": 1858.0,
+        "currency": "DKK",
+        "id": "3130787",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/NZXT-Kraken-Elite-280-White-RGB-CPU-Vandkoeling-Max-32-dBA/3130787",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Arctic Liquid Freezer II 280 A-RGB - CPU Vandkøling - Max 23 dBA",
+        "price": 851.0,
+        "currency": "DKK",
+        "id": "3008646",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Liquid-Freezer-II-280-A-RGB-CPU-Vandkoeling-Max-23-dBA/3008646",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Thermalright SI-100 - Black - CPU Luftkøler - Max 28 dBA",
+        "price": 299.0,
+        "currency": "DKK",
+        "id": "3179167",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Thermalright-SI-100-Black-CPU-Luftkoeler-Max-28-dBA/3179167",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "NZXT Kraken Elite 240 Black - CPU Vandkøling - Max 31 dBA",
+        "price": 1472.0,
+        "currency": "DKK",
+        "id": "3125037",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/NZXT-Kraken-Elite-240-Black-CPU-Vandkoeling-Max-31-dBA/3125037",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "NZXT Kraken 360 Black RGB - CPU Vandkøling - Max 31 dBA",
+        "price": 1641.0,
+        "currency": "DKK",
+        "id": "3130778",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/NZXT-Kraken-360-Black-RGB-CPU-Vandkoeling-Max-31-dBA/3130778",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Corsair H100x RGB ELITE - CPU Vandkøling - Max 1 dBA",
+        "price": 1099.0,
+        "currency": "DKK",
+        "id": "3160613",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-H100x-RGB-ELITE-CPU-Vandkoeling-Max-1-dBA/3160613",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "ASUS ROG RYUJIN 360 - CPU Vandkøling - Max 30 dBA",
+        "price": 1589.0,
+        "currency": "DKK",
+        "id": "2681975",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/ASUS-ROG-RYUJIN-360-CPU-Vandkoeling-Max-30-dBA/2681975",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Arctic Freezer 7 X - CPU Luftkøler - Max 23 dBA",
+        "price": 129.0,
+        "currency": "DKK",
+        "id": "2835635",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Freezer-7-X-CPU-Luftkoeler-Max-23-dBA/2835635",
+        "supported_sockets": [
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "be quiet! Pure Rock 2 - Silver - CPU Luftkøler - Max 27 dBA",
+        "price": 299.0,
+        "currency": "DKK",
+        "id": "2876775",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/be-quiet-Pure-Rock-2-Silver-CPU-Luftkoeler-Max-27-dBA/2876775",
+        "supported_sockets": [
+            "AM4",
+            "AM3"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Cooler Master MasterLiquid ML240L V2 RGB - CPU Vandkøling - Max 27 dBA",
+        "price": 585.0,
+        "currency": "DKK",
+        "id": "2860941",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Cooler-Master-MasterLiquid-ML240L-V2-RGB-CPU-Vandkoeling-Max-27-dBA/2860941",
+        "supported_sockets": [
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "be quiet! Dark Rock Slim - CPU Luftkøler - Max 23 dBA",
+        "price": 449.0,
+        "currency": "DKK",
+        "id": "2788874",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/be-quiet-Dark-Rock-Slim-CPU-Luftkoeler-Max-23-dBA/2788874",
+        "supported_sockets": [
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Thermal Grizzly Carbonaut - 38x38mm - Termisk Plade",
+        "price": 129.0,
+        "currency": "DKK",
+        "id": "2790138",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Thermal-Grizzly-Carbonaut-38x38mm-Termisk-Plade/2790138",
+        "supported_sockets": [
+            "AM4"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "be quiet! Pure Rock 2 FX - CPU Luftkøler - Max 27 dBA",
+        "price": 379.0,
+        "currency": "DKK",
+        "id": "3098737",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/be-quiet-Pure-Rock-2-FX-CPU-Luftkoeler-Max-27-dBA/3098737",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Noctua NH-L9i - CPU Luftkøler - Max 23 dBA",
+        "price": 379.0,
+        "currency": "DKK",
+        "id": "2394159",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-L9i-CPU-Luftkoeler-Max-23-dBA/2394159",
+        "supported_sockets": [
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Arctic Freezer 34 eSports DUO - Red - CPU Luftkøler - Max 25 dBA",
+        "price": 343.0,
+        "currency": "DKK",
+        "id": "2721332",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Freezer-34-eSports-DUO-Red-CPU-Luftkoeler-Max-25-dBA/2721332",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "NZXT Kraken 280 Black RGB - CPU Vandkøling - Max 32 dBA",
+        "price": 1350.0,
+        "currency": "DKK",
+        "id": "3130777",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/NZXT-Kraken-280-Black-RGB-CPU-Vandkoeling-Max-32-dBA/3130777",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "NZXT Kraken Elite 240 Black RGB - CPU Vandkøling - Max 31 dBA",
+        "price": 1571.0,
+        "currency": "DKK",
+        "id": "3130783",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/NZXT-Kraken-Elite-240-Black-RGB-CPU-Vandkoeling-Max-31-dBA/3130783",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "ASUS ROG Ryujin III 360 ARGB - CPU Vandkøling - Max 37 dBA",
+        "price": 3249.0,
+        "currency": "DKK",
+        "id": "3180411",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/ASUS-ROG-Ryujin-III-360-ARGB-CPU-Vandkoeling-Max-37-dBA/3180411",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool LS720 SE - White - CPU Vandkøling - Max 33 dBA",
+        "price": 792.0,
+        "currency": "DKK",
+        "id": "3162300",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-LS720-SE-White-CPU-Vandkoeling-Max-33-dBA/3162300",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "NZXT Kraken Elite 360 White RGB - CPU Vandkøling - Max 31 dBA",
+        "price": 2072.0,
+        "currency": "DKK",
+        "id": "3130788",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/NZXT-Kraken-Elite-360-White-RGB-CPU-Vandkoeling-Max-31-dBA/3130788",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool AG400 BK ARGB - CPU Luftkøler - Max 32 dBA",
+        "price": 232.0,
+        "currency": "DKK",
+        "id": "3122915",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-AG400-BK-ARGB-CPU-Luftkoeler-Max-32-dBA/3122915",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Lian Li Galahad II Trinity SL INF 240mm Black - ARGB - CPU Vandkøling - Max 29 dBA",
+        "price": 1127.0,
+        "currency": "DKK",
+        "id": "3190100",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Lian-Li-Galahad-II-Trinity-SL-INF-240mm-Black-ARGB-CPU-Vandkoeling-Max-29-dBA/3190100",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Noctua NH-L12 Ghost S1 - CPU Luftkøler - Max 18 dBA",
+        "price": 539.0,
+        "currency": "DKK",
+        "id": "2930858",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-L12-Ghost-S1-CPU-Luftkoeler-Max-18-dBA/2930858",
+        "supported_sockets": [
+            "AM4",
+            "AM3+",
+            "AM3",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool LS720 SE - Black - CPU Vandkøling - Max 33 dBA",
+        "price": 781.0,
+        "currency": "DKK",
+        "id": "3155315",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-LS720-SE-Black-CPU-Vandkoeling-Max-33-dBA/3155315",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Lian Li GALAHAD AIO 240 SL RGB V2 - Black - CPU Vandkøling - Max 32 dBA",
+        "price": 849.0,
+        "currency": "DKK",
+        "id": "3053885",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Lian-Li-GALAHAD-AIO-240-SL-RGB-V2-Black-CPU-Vandkoeling-Max-32-dBA/3053885",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA775",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Cooler Master Hyper 212 Evo V2 - CPU Luftkøler",
+        "price": 285.0,
+        "currency": "DKK",
+        "id": "3061508",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Cooler-Master-Hyper-212-Evo-V2-CPU-Luftkoeler/3061508",
+        "supported_sockets": [
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA775",
+            "LGA2011",
+            "LGA1366",
+            "LGA1156"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Lian Li Galahad II Trinity 360mm White - ARGB - CPU Vandkøling - Max 36 dBA",
+        "price": 1129.0,
+        "currency": "DKK",
+        "id": "3190106",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Lian-Li-Galahad-II-Trinity-360mm-White-ARGB-CPU-Vandkoeling-Max-36-dBA/3190106",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool LE520 ARGB - CPU Vandkøling - Max 33 dBA",
+        "price": 599.0,
+        "currency": "DKK",
+        "id": "3181873",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-LE520-ARGB-CPU-Vandkoeling-Max-33-dBA/3181873",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Noctua NH-U12A - CPU Luftkøler - Max 22 dBA",
+        "price": 899.0,
+        "currency": "DKK",
+        "id": "2742487",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-U12A-CPU-Luftkoeler-Max-22-dBA/2742487",
+        "supported_sockets": [
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Lian Li Galahad II Trinity 360mm Black - ARGB - CPU Vandkøling - Max 36 dBA",
+        "price": 1129.0,
+        "currency": "DKK",
+        "id": "3190105",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Lian-Li-Galahad-II-Trinity-360mm-Black-ARGB-CPU-Vandkoeling-Max-36-dBA/3190105",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Noctua NH-D15S - CPU Luftkøler - Max 25 dBA",
+        "price": 749.0,
+        "currency": "DKK",
+        "id": "2517016",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-D15S-CPU-Luftkoeler-Max-25-dBA/2517016",
+        "supported_sockets": [
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Corsair H60x RGB ELITE - CPU Vandkøling - Max 28 dBA",
+        "price": 690.0,
+        "currency": "DKK",
+        "id": "3160591",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-H60x-RGB-ELITE-CPU-Vandkoeling-Max-28-dBA/3160591",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Noctua NH-U12S chromax.black - CPU Luftkøler - Max 22 dBA",
+        "price": 699.0,
+        "currency": "DKK",
+        "id": "2804309",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-U12S-chromaxblack-CPU-Luftkoeler-Max-22-dBA/2804309",
+        "supported_sockets": [
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "NZXT Kraken Elite 280 Black RGB - CPU Vandkøling - Max 32 dBA",
+        "price": 1583.0,
+        "currency": "DKK",
+        "id": "3130784",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/NZXT-Kraken-Elite-280-Black-RGB-CPU-Vandkoeling-Max-32-dBA/3130784",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Noctua NA-STPG1 - Thermal Paste Guard and Cleaning Set - Thermal Paste Guard",
+        "price": 79.0,
+        "currency": "DKK",
+        "id": "3112574",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NA-STPG1-Thermal-Paste-Guard-and-Cleaning-Set-Thermal-Paste-Guard/3112574",
+        "supported_sockets": [
+            "AM5"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "DeepCool AK620 WH - CPU Luftkøler - Max 28 dBA",
+        "price": 528.0,
+        "currency": "DKK",
+        "id": "3077087",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-AK620-WH-CPU-Luftkoeler-Max-28-dBA/3077087",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Corsair iCUE H150i ELITE CAPELLIX XT - White - CPU Vandkøling - Max 34 dBA",
+        "price": 1769.0,
+        "currency": "DKK",
+        "id": "3135964",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H150i-ELITE-CAPELLIX-XT-White-CPU-Vandkoeling-Max-34-dBA/3135964",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Lian Li GALAHAD AIO 360 RGB V2 - Black - CPU Vandkøling - Max 32 dBA",
+        "price": 1218.0,
+        "currency": "DKK",
+        "id": "2913268",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Lian-Li-GALAHAD-AIO-360-RGB-V2-Black-CPU-Vandkoeling-Max-32-dBA/2913268",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA775",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Noctua NH-L9a-AM4 chromax.black - CPU Luftkøler - Max 24 dBA",
+        "price": 449.0,
+        "currency": "DKK",
+        "id": "2828127",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-L9a-AM4-chromaxblack-CPU-Luftkoeler-Max-24-dBA/2828127",
+        "supported_sockets": [
+            "AM4"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "NZXT Kraken 280 - CPU Vandkøling - Max 32 dBA",
+        "price": 1149.0,
+        "currency": "DKK",
+        "id": "3125034",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/NZXT-Kraken-280-CPU-Vandkoeling-Max-32-dBA/3125034",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "ASUS ROG STRIX LC II 360 ARGB - CPU Vandkøling - Max 37 dBA",
+        "price": 1717.0,
+        "currency": "DKK",
+        "id": "3142500",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/ASUS-ROG-STRIX-LC-II-360-ARGB-CPU-Vandkoeling-Max-37-dBA/3142500",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Arctic Liquid Freezer II 240 A-RGB - CPU Vandkøling - Max 23 dBA",
+        "price": 766.0,
+        "currency": "DKK",
+        "id": "2957238",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Liquid-Freezer-II-240-A-RGB-CPU-Vandkoeling-Max-23-dBA/2957238",
+        "supported_sockets": [
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Arctic Liquid Freezer II 420 - CPU Vandkøling - Max 23 dBA",
+        "price": 849.0,
+        "currency": "DKK",
+        "id": "2887027",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Liquid-Freezer-II-420-CPU-Vandkoeling-Max-23-dBA/2887027",
+        "supported_sockets": [
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Noctua NH-L9i-17xx - CPU Luftkøler - Max 24 dBA",
+        "price": 379.0,
+        "currency": "DKK",
+        "id": "3016303",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-L9i-17xx-CPU-Luftkoeler-Max-24-dBA/3016303",
+        "supported_sockets": [
+            "LGA1700"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "be quiet! Shadow Rock 3 - CPU Luftkøler - Max 25 dBA",
+        "price": 408.0,
+        "currency": "DKK",
+        "id": "2835860",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/be-quiet-Shadow-Rock-3-CPU-Luftkoeler-Max-25-dBA/2835860",
+        "supported_sockets": [
+            "AM4",
+            "AM3"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Lian Li Galahad II Trinity Performance 360 White - CPU Vandkøling - Max 40 dBA",
+        "price": 1299.0,
+        "currency": "DKK",
+        "id": "3190114",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Lian-Li-Galahad-II-Trinity-Performance-360-White-CPU-Vandkoeling-Max-40-dBA/3190114",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Lian Li Galahad II Trinity 240mm Black - ARGB - CPU Vandkøling - Max 36 dBA",
+        "price": 920.0,
+        "currency": "DKK",
+        "id": "3190092",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Lian-Li-Galahad-II-Trinity-240mm-Black-ARGB-CPU-Vandkoeling-Max-36-dBA/3190092",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool LE720 ARGB - CPU Vandkøling - Max 33 dBA",
+        "price": 690.0,
+        "currency": "DKK",
+        "id": "3181874",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-LE720-ARGB-CPU-Vandkoeling-Max-33-dBA/3181874",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Corsair iCUE LINK H150i RGB - Black - CPU Vandkøling - Max 37 dBA",
+        "price": 2190.0,
+        "currency": "DKK",
+        "id": "3176713",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-LINK-H150i-RGB-Black-CPU-Vandkoeling-Max-37-dBA/3176713",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool LS720 - Black - CPU Vandkøling - Max 33 dBA",
+        "price": 904.0,
+        "currency": "DKK",
+        "id": "3099748",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-LS720-Black-CPU-Vandkoeling-Max-33-dBA/3099748",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool AG620 BK ARGB - CPU Luftkøler - Max 29 dBA",
+        "price": 437.0,
+        "currency": "DKK",
+        "id": "3122916",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-AG620-BK-ARGB-CPU-Luftkoeler-Max-29-dBA/3122916",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Arctic Freezer 34 eSports DUO - White/Black - CPU Luftkøler - Max 25 dBA",
+        "price": 343.0,
+        "currency": "DKK",
+        "id": "2735139",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Freezer-34-eSports-DUO-WhiteBlack-CPU-Luftkoeler-Max-25-dBA/2735139",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Noctua SecuFirm2 NM-i17xx-MP78 - CPU Monteringsbeslag",
+        "price": 59.0,
+        "currency": "DKK",
+        "id": "3009814",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-SecuFirm2-NM-i17xx-MP78-CPU-Monteringsbeslag/3009814",
+        "supported_sockets": [
+            "AM4",
+            "LGA1700"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Arctic Freezer 34 eSports DUO - White/Grey - CPU Luftkøler - Max 25 dBA",
+        "price": 353.0,
+        "currency": "DKK",
+        "id": "2829121",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Freezer-34-eSports-DUO-WhiteGrey-CPU-Luftkoeler-Max-25-dBA/2829121",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Corsair iCUE LINK H170i RGB - Black - CPU Vandkøling - Max 37 dBA",
+        "price": 2390.0,
+        "currency": "DKK",
+        "id": "3176715",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-LINK-H170i-RGB-Black-CPU-Vandkoeling-Max-37-dBA/3176715",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "NZXT Kraken 280 White RGB - CPU Vandkøling - Max 32 dBA",
+        "price": 1350.0,
+        "currency": "DKK",
+        "id": "3130780",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/NZXT-Kraken-280-White-RGB-CPU-Vandkoeling-Max-32-dBA/3130780",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Arctic Liquid Freezer II 420 A-RGB - CPU Vandkøling - Max 23 dBA",
+        "price": 1051.0,
+        "currency": "DKK",
+        "id": "3010020",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Liquid-Freezer-II-420-A-RGB-CPU-Vandkoeling-Max-23-dBA/3010020",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Corsair iCUE H150i ELITE LCD XT - CPU Vandkøling - Max 34 dBA",
+        "price": 2519.0,
+        "currency": "DKK",
+        "id": "3136014",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H150i-ELITE-LCD-XT-CPU-Vandkoeling-Max-34-dBA/3136014",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "be quiet! Silent Loop 2 360mm - CPU Vandkøling - Max 40 dBA",
+        "price": 1311.0,
+        "currency": "DKK",
+        "id": "2969984",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/be-quiet-Silent-Loop-2-360mm-CPU-Vandkoeling-Max-40-dBA/2969984",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "AM3",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "DeepCool LE500 Marrs - CPU Vandkøling - Max 33 dBA",
+        "price": 517.0,
+        "currency": "DKK",
+        "id": "3181819",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-LE500-Marrs-CPU-Vandkoeling-Max-33-dBA/3181819",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Enermax Liqmax III - CPU Vandkøling",
+        "price": 377.0,
+        "currency": "DKK",
+        "id": "2773704",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Enermax-Liqmax-III-CPU-Vandkoeling/2773704",
+        "supported_sockets": [
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA1356",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Corsair iCUE H115i RGB ELITE - Black - CPU Vandkøling - Max 31 dBA",
+        "price": 1249.0,
+        "currency": "DKK",
+        "id": "3070360",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H115i-RGB-ELITE-Black-CPU-Vandkoeling-Max-31-dBA/3070360",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Noctua NH-D9L - CPU Luftkøler - Max 22 dBA",
+        "price": 449.0,
+        "currency": "DKK",
+        "id": "2511526",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-D9L-CPU-Luftkoeler-Max-22-dBA/2511526",
+        "supported_sockets": [
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1151",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool LS520 SE - White - CPU Vandkøling - Max 33 dBA",
+        "price": 689.0,
+        "currency": "DKK",
+        "id": "3162299",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-LS520-SE-White-CPU-Vandkoeling-Max-33-dBA/3162299",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Corsair iCUE LINK H150i RGB - White - CPU Vandkøling - Max 37 dBA",
+        "price": 2190.0,
+        "currency": "DKK",
+        "id": "3176714",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-LINK-H150i-RGB-White-CPU-Vandkoeling-Max-37-dBA/3176714",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Noctua NH-U9S chromax.black - CPU Luftkøler - Max 22 dBA",
+        "price": 599.0,
+        "currency": "DKK",
+        "id": "2912681",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-U9S-chromaxblack-CPU-Luftkoeler-Max-22-dBA/2912681",
+        "supported_sockets": [
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Thermalright Frozen Notte 360 ARGB - Black - CPU Vandkøling - Max 28 dBA",
+        "price": 779.0,
+        "currency": "DKK",
+        "id": "3180399",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Thermalright-Frozen-Notte-360-ARGB-Black-CPU-Vandkoeling-Max-28-dBA/3180399",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Arctic Freezer i35 - CPU Luftkøler",
+        "price": 206.0,
+        "currency": "DKK",
+        "id": "3040282",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Freezer-i35-CPU-Luftkoeler/3040282",
+        "supported_sockets": [
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Noctua NH-L9i-17xx chromax.black - CPU Luftkøler - Max 24 dBA",
+        "price": 449.0,
+        "currency": "DKK",
+        "id": "3016304",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-L9i-17xx-chromaxblack-CPU-Luftkoeler-Max-24-dBA/3016304",
+        "supported_sockets": [
+            "LGA1700"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Corsair iCUE H150i ELITE CAPELLIX XT - Black - CPU Vandkøling - Max 34 dBA",
+        "price": 1769.0,
+        "currency": "DKK",
+        "id": "3135963",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H150i-ELITE-CAPELLIX-XT-Black-CPU-Vandkoeling-Max-34-dBA/3135963",
+        "supported_sockets": [
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Noctua NH-U12S redux - CPU Luftkøler - Max 25 dBA",
+        "price": 419.0,
+        "currency": "DKK",
+        "id": "2944545",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-U12S-redux-CPU-Luftkoeler-Max-25-dBA/2944545",
+        "supported_sockets": [
+            "AM4",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Thermalright Frozen Notte 360 ARGB - White - CPU Vandkøling - Max 28 dBA",
+        "price": 763.0,
+        "currency": "DKK",
+        "id": "3180400",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Thermalright-Frozen-Notte-360-ARGB-White-CPU-Vandkoeling-Max-28-dBA/3180400",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool AN600 - CPU Luftkøler - Max 25 dBA",
+        "price": 340.0,
+        "currency": "DKK",
+        "id": "3181875",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-AN600-CPU-Luftkoeler-Max-25-dBA/3181875",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool LT720 - Black - CPU Vandkøling - Max 33 dBA",
+        "price": 1058.0,
+        "currency": "DKK",
+        "id": "3143603",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-LT720-Black-CPU-Vandkoeling-Max-33-dBA/3143603",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "NZXT Kraken Elite 280 Black - CPU Vandkøling - Max 32 dBA",
+        "price": 1676.0,
+        "currency": "DKK",
+        "id": "3125038",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/NZXT-Kraken-Elite-280-Black-CPU-Vandkoeling-Max-32-dBA/3125038",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Corsair iCUE H100i ELITE CAPELLIX XT - Black - CPU Vandkøling - Max 34 dBA",
+        "price": 1369.0,
+        "currency": "DKK",
+        "id": "3135960",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H100i-ELITE-CAPELLIX-XT-Black-CPU-Vandkoeling-Max-34-dBA/3135960",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Thermalright Assassin King 120 SE White ARGB - CPU Luftkøler - Max 26 dBA",
+        "price": 217.0,
+        "currency": "DKK",
+        "id": "3179156",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Thermalright-Assassin-King-120-SE-White-ARGB-CPU-Luftkoeler-Max-26-dBA/3179156",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Cooler Master Hyper H412R - CPU Luftkøler - Max 29 dBA *DEMO*",
+        "price": 197.0,
+        "currency": "DKK",
+        "id": "2631808d",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Cooler-Master-Hyper-H412R-CPU-Luftkoeler-Max-29-dBA-DEMO/2631808d",
+        "supported_sockets": [
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA775",
+            "LGA2011",
+            "LGA1366",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Thermalright Frozen Prism 360 ARGB - Black - CPU Vandkøling - Max 27 dBA",
+        "price": 699.0,
+        "currency": "DKK",
+        "id": "3180402",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Thermalright-Frozen-Prism-360-ARGB-Black-CPU-Vandkoeling-Max-27-dBA/3180402",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool AK500 WH - CPU Luftkøler - Max 32 dBA",
+        "price": 439.0,
+        "currency": "DKK",
+        "id": "3136475",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-AK500-WH-CPU-Luftkoeler-Max-32-dBA/3136475",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Lian Li Galahad II Trinity SL INF 240mm White - ARGB - CPU Vandkøling - Max 29 dBA",
+        "price": 1139.0,
+        "currency": "DKK",
+        "id": "3190102",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Lian-Li-Galahad-II-Trinity-SL-INF-240mm-White-ARGB-CPU-Vandkoeling-Max-29-dBA/3190102",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "ASUS TUF Gaming LC 240 ARGB - CPU Vandkøling - Max 29 dBA",
+        "price": 1046.0,
+        "currency": "DKK",
+        "id": "3140876",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/ASUS-TUF-Gaming-LC-240-ARGB-CPU-Vandkoeling-Max-29-dBA/3140876",
+        "supported_sockets": [
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1366",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Lian Li GALAHAD AIO 360 RGB V2 - White - CPU Vandkøling - Max 32 dBA *DEMO*",
+        "price": 1130.0,
+        "currency": "DKK",
+        "id": "2913269d",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Lian-Li-GALAHAD-AIO-360-RGB-V2-White-CPU-Vandkoeling-Max-32-dBA-DEMO/2913269d",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA775",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Thermalright AXP120-X67 - White ARGB - CPU Luftkøler - Max 26 dBA",
+        "price": 379.0,
+        "currency": "DKK",
+        "id": "3179166",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Thermalright-AXP120-X67-White-ARGB-CPU-Luftkoeler-Max-26-dBA/3179166",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Thermalright Frozen Prism 360 ARGB - White - CPU Vandkøling - Max 27 dBA",
+        "price": 719.0,
+        "currency": "DKK",
+        "id": "3180403",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Thermalright-Frozen-Prism-360-ARGB-White-CPU-Vandkoeling-Max-27-dBA/3180403",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool LT520 - Black - CPU Vandkøling - Max 33 dBA",
+        "price": 812.0,
+        "currency": "DKK",
+        "id": "3127368",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-LT520-Black-CPU-Vandkoeling-Max-33-dBA/3127368",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Corsair iCUE LINK H100i RGB - White - CPU Vandkøling - Max 37 dBA",
+        "price": 1790.0,
+        "currency": "DKK",
+        "id": "3176711",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-LINK-H100i-RGB-White-CPU-Vandkoeling-Max-37-dBA/3176711",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool AK400 WH - CPU Luftkøler - Max 29 dBA",
+        "price": 267.0,
+        "currency": "DKK",
+        "id": "3099716",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-AK400-WH-CPU-Luftkoeler-Max-29-dBA/3099716",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "AMD Wraith Stealth for AM4 - CPU Luftkøler",
+        "price": 141.0,
+        "currency": "DKK",
+        "id": "3102772",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/AMD-Wraith-Stealth-for-AM4-CPU-Luftkoeler/3102772",
+        "supported_sockets": [
+            "AM4"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Corsair iCUE H170i ELITE CAPELLIX XT - Black - CPU Vandkøling - Max 34 dBA",
+        "price": 1990.0,
+        "currency": "DKK",
+        "id": "3135965",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H170i-ELITE-CAPELLIX-XT-Black-CPU-Vandkoeling-Max-34-dBA/3135965",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Corsair iCUE H150i ELITE LCD XT - White - CPU Vandkøling - Max 34 dBA",
+        "price": 2569.0,
+        "currency": "DKK",
+        "id": "3136015",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H150i-ELITE-LCD-XT-White-CPU-Vandkoeling-Max-34-dBA/3136015",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "DeepCool AK500 - CPU Luftkøler - Max 32 dBA",
+        "price": 400.0,
+        "currency": "DKK",
+        "id": "3117869",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-AK500-CPU-Luftkoeler-Max-32-dBA/3117869",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Noctua NH-C14S - CPU Luftkøler - Max 24 dBA",
+        "price": 699.0,
+        "currency": "DKK",
+        "id": "2519511",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-C14S-CPU-Luftkoeler-Max-24-dBA/2519511",
+        "supported_sockets": [
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Noctua NH-U9 TR4-SP3 - CPU Luftkøler - Max 23 dBA",
+        "price": 699.0,
+        "currency": "DKK",
+        "id": "2611848",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-U9-TR4-SP3-CPU-Luftkoeler-Max-23-dBA/2611848",
+        "supported_sockets": [
+            "TR4"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Arctic Freezer i35 A-RGB - CPU Luftkøler - Max 38 dBA",
+        "price": 231.0,
+        "currency": "DKK",
+        "id": "3008780",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Freezer-i35-A-RGB-CPU-Luftkoeler-Max-38-dBA/3008780",
+        "supported_sockets": [
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Thermalright SI-100 - White ARGB - CPU Luftkøler - Max 28 dBA",
+        "price": 319.0,
+        "currency": "DKK",
+        "id": "3179168",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Thermalright-SI-100-White-ARGB-CPU-Luftkoeler-Max-28-dBA/3179168",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool LT720 - White - CPU Vandkøling - Max 33 dBA",
+        "price": 959.0,
+        "currency": "DKK",
+        "id": "3166064",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-LT720-White-CPU-Vandkoeling-Max-33-dBA/3166064",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "NZXT Kraken Elite 240 White RGB - CPU Vandkøling - Max 31 dBA",
+        "price": 1712.0,
+        "currency": "DKK",
+        "id": "3130786",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/NZXT-Kraken-Elite-240-White-RGB-CPU-Vandkoeling-Max-31-dBA/3130786",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool LS520 SE - Black - CPU Vandkøling - Max 33 dBA",
+        "price": 729.0,
+        "currency": "DKK",
+        "id": "3155314",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-LS520-SE-Black-CPU-Vandkoeling-Max-33-dBA/3155314",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Corsair iCUE H100i RGB ELITE - White - CPU Vandkøling - Max 32 dBA",
+        "price": 1079.0,
+        "currency": "DKK",
+        "id": "3176718",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H100i-RGB-ELITE-White-CPU-Vandkoeling-Max-32-dBA/3176718",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Noctua NH-D15 SE-AM4 - CPU Luftkøler - Max 24 dBA",
+        "price": 849.0,
+        "currency": "DKK",
+        "id": "2583116",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-D15-SE-AM4-CPU-Luftkoeler-Max-24-dBA/2583116",
+        "supported_sockets": [
+            "AM4"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Thermal Grizzly Lapping Tool for Ryzen 7000 - Modding",
+        "price": 139.0,
+        "currency": "DKK",
+        "id": "3150985",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Thermal-Grizzly-Lapping-Tool-for-Ryzen-7000-Modding/3150985",
+        "supported_sockets": [
+            "AM5"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Cooler Master MasterLiquid Lite 240L Core ARGB - CPU Vandkøling",
+        "price": 717.0,
+        "currency": "DKK",
+        "id": "3186383",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Cooler-Master-MasterLiquid-Lite-240L-Core-ARGB-CPU-Vandkoeling/3186383",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Corsair iCUE LINK H100i RGB - Black - CPU Vandkøling - Max 37 dBA",
+        "price": 1790.0,
+        "currency": "DKK",
+        "id": "3176710",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-LINK-H100i-RGB-Black-CPU-Vandkoeling-Max-37-dBA/3176710",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool LS520 SE - White - CPU Vandkøling - Max 33 dBA *DEMO*",
+        "price": 662.0,
+        "currency": "DKK",
+        "id": "3162299d",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-LS520-SE-White-CPU-Vandkoeling-Max-33-dBA-DEMO/3162299d",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Enermax Liqmax III - CPU Vandkøling",
+        "price": 625.0,
+        "currency": "DKK",
+        "id": "2922128",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Enermax-Liqmax-III-CPU-Vandkoeling/2922128",
+        "supported_sockets": [
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1366",
+            "LGA1156"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Noctua NH-L9a-AM4 - CPU Luftkøler - Max 24 dBA",
+        "price": 379.0,
+        "currency": "DKK",
+        "id": "2636348",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-L9a-AM4-CPU-Luftkoeler-Max-24-dBA/2636348",
+        "supported_sockets": [
+            "AM4"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Arctic Freezer A35 CO - CPU Luftkøler",
+        "price": 166.0,
+        "currency": "DKK",
+        "id": "3040280",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Arctic-Freezer-A35-CO-CPU-Luftkoeler/3040280",
+        "supported_sockets": [
+            "AM4"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Corsair iCUE H100i ELITE LCD XT - CPU Vandkøling - Max 34 dBA",
+        "price": 1992.0,
+        "currency": "DKK",
+        "id": "3136012",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H100i-ELITE-LCD-XT-CPU-Vandkoeling-Max-34-dBA/3136012",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "DUTZO Kōri LGA1700 Bracket",
+        "price": 60.0,
+        "currency": "DKK",
+        "id": "3012644",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DUTZO-Kri-LGA1700-Bracket/3012644",
+        "supported_sockets": [
+            "LGA1700"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Montech METAL DT24 PREMIUM - CPU Luftkøler",
+        "price": 548.0,
+        "currency": "DKK",
+        "id": "3189123",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Montech-METAL-DT24-PREMIUM-CPU-Luftkoeler/3189123",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Corsair iCUE H100i ELITE CAPELLIX XT - White - CPU Vandkøling - Max 34 dBA",
+        "price": 1369.0,
+        "currency": "DKK",
+        "id": "3135961",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H100i-ELITE-CAPELLIX-XT-White-CPU-Vandkoeling-Max-34-dBA/3135961",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "DeepCool AK400 ZERO DARK - CPU Luftkøler - Max 29 dBA",
+        "price": 300.0,
+        "currency": "DKK",
+        "id": "3117875",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-AK400-ZERO-DARK-CPU-Luftkoeler-Max-29-dBA/3117875",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Lian Li GALAHAD AIO 240 SL RGB V2 - White - CPU Vandkøling - Max 32 dBA",
+        "price": 1123.0,
+        "currency": "DKK",
+        "id": "3053886",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Lian-Li-GALAHAD-AIO-240-SL-RGB-V2-White-CPU-Vandkoeling-Max-32-dBA/3053886",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA775",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Thermal Grizzly Delid-Die-Mate For Intel 12th & 13th Gen - Modding",
+        "price": 499.0,
+        "currency": "DKK",
+        "id": "3150993",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Thermal-Grizzly-Delid-Die-Mate-For-Intel-12th-13th-Gen-Modding/3150993",
+        "supported_sockets": [
+            "LGA1700"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "DeepCool AG400 - CPU Luftkøler - Max 32 dBA",
+        "price": 222.0,
+        "currency": "DKK",
+        "id": "3117868",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-AG400-CPU-Luftkoeler-Max-32-dBA/3117868",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Lian Li Galahad II Trinity 240mm White - ARGB - CPU Vandkøling - Max 36 dBA",
+        "price": 923.0,
+        "currency": "DKK",
+        "id": "3190098",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Lian-Li-Galahad-II-Trinity-240mm-White-ARGB-CPU-Vandkoeling-Max-36-dBA/3190098",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Lian Li GALAHAD AIO 240 RGB V2 - Black - CPU Vandkøling - Max 32 dBA",
+        "price": 990.0,
+        "currency": "DKK",
+        "id": "2913266",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Lian-Li-GALAHAD-AIO-240-RGB-V2-Black-CPU-Vandkoeling-Max-32-dBA/2913266",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA775",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Noctua NH-U14S TR4-SP3 - CPU Luftkøler - Max 25 dBA",
+        "price": 749.0,
+        "currency": "DKK",
+        "id": "2611850",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-NH-U14S-TR4-SP3-CPU-Luftkoeler-Max-25-dBA/2611850",
+        "supported_sockets": [
+            "TR4"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Corsair iCUE H115i ELITE CAPELLIX XT - Black - CPU Vandkøling - Max 34 dBA",
+        "price": 1569.0,
+        "currency": "DKK",
+        "id": "3135962",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H115i-ELITE-CAPELLIX-XT-Black-CPU-Vandkoeling-Max-34-dBA/3135962",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Cooler Master MasterLiquid PL360 FLUX - CPU Vandkøling",
+        "price": 1394.0,
+        "currency": "DKK",
+        "id": "3150925",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Cooler-Master-MasterLiquid-PL360-FLUX-CPU-Vandkoeling/3150925",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "ASUS ROG RYUO III 360 ARGB - CPU Vandkøling - Max 36 dBA",
+        "price": 2344.0,
+        "currency": "DKK",
+        "id": "3142498",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/ASUS-ROG-RYUO-III-360-ARGB-CPU-Vandkoeling-Max-36-dBA/3142498",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Corsair iCUE H100i ELITE CAPELLIX XT - White - CPU Vandkøling - Max 34 dBA *DEMO*",
+        "price": 1141.0,
+        "currency": "DKK",
+        "id": "3135961d",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H100i-ELITE-CAPELLIX-XT-White-CPU-Vandkoeling-Max-34-dBA-DEMO/3135961d",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "ASUS ROG STRIX LC II 240 - CPU Vandkøling - Max 38 dBA",
+        "price": 1216.0,
+        "currency": "DKK",
+        "id": "3037029",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/ASUS-ROG-STRIX-LC-II-240-CPU-Vandkoeling-Max-38-dBA/3037029",
+        "supported_sockets": [
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1151",
+            "LGA2066",
+            "LGA2011-v3",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "vand"
+    },
+    {
+        "name": "Enermax Aquafusion ADV series ELC-AQFA360-SQA - processor liquid cooling system - 360mm cpu liquid cooler - CPU Vandkøling",
+        "price": 745.0,
+        "currency": "DKK",
+        "id": "3140449",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Enermax-Aquafusion-ADV-series-ELC-AQFA360-SQA-processor-liquid-cooling-system-360mm-cpu-liquid-cooler-CPU-Vandkoeling/3140449",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1700",
+            "LGA1200",
+            "LGA2066",
+            "LGA2011",
+            "LGA1366"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "SilverStone Nitrogon NT09-115X - CPU Luftkøler",
+        "price": 149.0,
+        "currency": "DKK",
+        "id": "2708660",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/SilverStone-Nitrogon-NT09-115X-CPU-Luftkoeler/2708660",
+        "supported_sockets": [
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Fractal Design Lumen S36 V2 RGB - CPU Vandkøling",
+        "price": 1169.0,
+        "currency": "DKK",
+        "id": "3151922",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Fractal-Design-Lumen-S36-V2-RGB-CPU-Vandkoeling/3151922",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1366",
+            "LGA1156"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Corsair iCUE H150i RGB ELITE - White - CPU Vandkøling - Max 32 dBA",
+        "price": 1379.0,
+        "currency": "DKK",
+        "id": "3176719",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Corsair-iCUE-H150i-RGB-ELITE-White-CPU-Vandkoeling-Max-32-dBA/3176719",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "DeepCool LS720 - White - CPU Vandkøling - Max 33 dBA",
+        "price": 1054.0,
+        "currency": "DKK",
+        "id": "3123755",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-LS720-White-CPU-Vandkoeling-Max-33-dBA/3123755",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Inter-Tech Argus SU-280 RGB - CPU Luftkøler",
+        "price": 252.0,
+        "currency": "DKK",
+        "id": "2925551",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Inter-Tech-Argus-SU-280-RGB-CPU-Luftkoeler/2925551",
+        "supported_sockets": [
+            "AM4",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1366",
+            "LGA1156"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "Noctua SecuFirm2 NM-i17xx-MP78 CH.BK - CPU Monteringsbeslag",
+        "price": 69.0,
+        "currency": "DKK",
+        "id": "3009815",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Noctua-SecuFirm2-NM-i17xx-MP78-CHBK-CPU-Monteringsbeslag/3009815",
+        "supported_sockets": [
+            "AM4",
+            "LGA1700"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "DeepCool LS520 - White - CPU Vandkøling - Max 33 dBA",
+        "price": 852.0,
+        "currency": "DKK",
+        "id": "3117853",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/DeepCool-LS520-White-CPU-Vandkoeling-Max-33-dBA/3117853",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "TR4",
+            "sTRX4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA2066",
+            "LGA1150",
+            "LGA1155",
+            "LGA2011",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Scythe Choten - CPU Luftkøler",
+        "price": 283.0,
+        "currency": "DKK",
+        "id": "2712506",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Scythe-Choten-CPU-Luftkoeler/2712506",
+        "supported_sockets": [
+            "AM4",
+            "FM2+",
+            "AM3+",
+            "AM3",
+            "FM1",
+            "FM2",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA775",
+            "LGA2011",
+            "LGA1366",
+            "LGA1156"
+        ],
+        "cooling_type": null
+    },
+    {
+        "name": "ASUS ROG Ryujin III 240 ARGB - CPU Vandkøling - Max 37 dBA",
+        "price": 2475.0,
+        "currency": "DKK",
+        "id": "3180410",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/ASUS-ROG-Ryujin-III-240-ARGB-CPU-Vandkoeling-Max-37-dBA/3180410",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    },
+    {
+        "name": "Montech METAL DT24 BASE - CPU Luftkøler",
+        "price": 483.0,
+        "currency": "DKK",
+        "id": "3189122",
+        "valid": true,
+        "url": "https://www.proshop.dk/CPU-Koeler/Montech-METAL-DT24-BASE-CPU-Luftkoeler/3189122",
+        "supported_sockets": [
+            "AM5",
+            "AM4",
+            "LGA1700",
+            "LGA1200",
+            "LGA1151",
+            "LGA1150",
+            "LGA1155",
+            "LGA1156"
+        ],
+        "cooling_type": "luft"
+    }
+]

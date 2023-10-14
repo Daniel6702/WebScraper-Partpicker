@@ -1,4 +1,3 @@
-from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -60,6 +59,7 @@ class ProductURLFetcher:
                 'ram': (11209, 'hukommelse-ram'),
                 'bundkort': (10111, 'bundkort'),
                 'psu': (10057, 'stroemforsyninger'),
+                'cpu_cooler': (10462, 'blaesere/koelere')
             },
             'computersalg': {
                 'grafikkort': (5444, 'alle-grafikkort'),
@@ -67,6 +67,7 @@ class ProductURLFetcher:
                 'ram': (1480, 'ram-hukommelse'),
                 'bundkort': (1481, 'bundkort'),
                 'psu': (1957, 'strømforsyning'),
+                'cpu_cooler': (1338, 'cpu-køling')
             },
             'proshop': {
                 'grafikkort': (None, 'Grafikkort'),
@@ -74,6 +75,7 @@ class ProductURLFetcher:
                 'ram': (None, 'RAM'),
                 'bundkort': (None, 'Bundkort'),
                 'psu': (None, 'Stroemforsyning'),
+                'cpu_cooler': (None, 'CPU-Koeler')
             }
         }
         website_type = self.get_website_type()
