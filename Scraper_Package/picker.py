@@ -1,6 +1,17 @@
 #Independent components: gpu, drive, case, psu
 #cpu dependent components: cpu, mb, ram, cooler
 import json
+from dataclasses import dataclass, asdict
+import os
+
+
+@dataclass
+class Component:
+    name: str
+    price: int
+    performance: float
+    url: str
+    
 
 budget = {
     'cpu': 0.2,     
@@ -17,8 +28,11 @@ def get_component_list(path):
     with open(path, 'r') as f:
         return json.load(f)
 
-def controller(budget_distribution, budget=10000):
-    cpu = get_cpu_component(get_component_list('MainData\\cpu_data.json'),budget_distribution['cpu']*budget)
+def select_components(budget_distribution, budget=10000):
+    current_dir = os.path.dirname(os.path.abspath(__file__))  
+    main_path = os.path.join(current_dir, 'MainData')  
+  
+    cpu = get_cpu_component(get_component_list(os.path.join(main_path, 'cpu_data.json')),budget_distribution['cpu']*budget)
     #mb = get_mb_component(get_component_list('MainData\\motherboard_data.json'),budget['mb'], cpu['socket'])
     #ram = get_ram_component(get_component_list('MainData\\ram_data.json'),budget['ram'], mb['ram_type'])
     #cooler = get_cooler_component(get_component_list('MainData\\cpu_cooler_data.json'),budget['cooler'], cpu['socket'])
@@ -28,7 +42,7 @@ def controller(budget_distribution, budget=10000):
     #psu = get_psu_component(get_component_list('MainData\\psu_data.json'),budget['psu'])
 
     return {
-        'cpu': cpu,
+        'cpu': asdict(cpu),
         'mb': None,
         'ram': None,
         'cooler': None,
@@ -45,7 +59,7 @@ def get_cpu_component(cpu_list, cpu_budget):
     for cpu in cpu_list:
         cpu_info = {
             'name': cpu['name'],
-            'socket': None,  
+            'socket': cpu['socket'],
             'performance': cpu['performance'],  
         }
         if not cpu['variants']:
@@ -53,7 +67,8 @@ def get_cpu_component(cpu_list, cpu_budget):
         lowest_price_variant = min(cpu['variants'], key=lambda variant: variant['price'])
         if lowest_price_variant['price'] <= cpu_budget:
             cpu_info['variant'] = lowest_price_variant
-            return cpu_info
+            cpu_data = Component(cpu_info['name'], cpu_info['variant']['price'], cpu_info['performance'], cpu_info['variant']['url'])
+            return cpu_data
     return None
 
         
@@ -76,4 +91,4 @@ def get_psu_component(psu_list, psu_budget):
 def get_cooler_component(cooler_list, cooler_budget, socket):
     pass
 
-print(controller(budget))
+print(select_components(budget))

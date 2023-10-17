@@ -16,7 +16,9 @@ class Info:
     price: float
     currency: str
     id: str
+    url: str 
     valid: bool = True
+    
 
 def request_url(url: str) -> requests.Response:
     request_timeout = 25
@@ -43,7 +45,7 @@ class BaseWebsiteHandler(ABC):
             price = self._get_product_price()
             currency = self._get_product_currency()
             id = self._get_product_id()
-            self.info = Info(raw_name, price, currency, id)
+            self.info = Info(raw_name, price, currency, id, self.url)
             return self.info
         except (AttributeError, ValueError, TypeError):
             logging.getLogger(__name__).exception(f"Could not get all the data needed from url: {self.url}")

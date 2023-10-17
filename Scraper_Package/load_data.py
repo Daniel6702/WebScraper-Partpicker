@@ -11,6 +11,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
+import os
 
 def update_all_data():
     RAM().retrieve_data()
@@ -26,8 +27,9 @@ class LoadData():
     def __init__(self, category, sources):
         self.category = category
         self.sources = sources
-        self.filepath = 'MainData\\'
-        self.benchmark_filepath = 'BenchmarkData\\'
+        current_dir = os.path.dirname(os.path.abspath(__file__))  
+        self.filepath = os.path.join(current_dir, 'MainData')  
+        self.benchmark_filepath = os.path.join(current_dir, 'BenchmarkData')
 
     def load_urls(self):
         product_urls = []
@@ -47,7 +49,7 @@ class LoadData():
         raise NotImplementedError("Subclasses must implement this method.")
     
     def save_data(self,data):
-        with open(f'{self.filepath}{self.category}_data.json', 'w') as outfile:
+        with open(f'{self.filepath}\\{self.category}_data.json', 'w') as outfile:
             json.dump(data, outfile, indent=4)
 
     def create_id(self,name):
@@ -318,13 +320,13 @@ class GPU(LoadData):
 
     def retrieve_data(self):
         gpu_data = []  
-        for name in self.get_names(f'{self.benchmark_filepath}GPU_UserBenchmarks.csv'):
+        for name in self.get_names(f'{self.benchmark_filepath}\\GPU_UserBenchmarks.csv'):
             data = {
                 "name": name,
                 "keys": self.get_keys(name),
                 "anti_keys": self.get_anti_keys(name),
                 "id": self.create_id(name),
-                "performance": self.get_performance(self.get_keys(name), self.get_anti_keys(name), f'{self.benchmark_filepath}GPU_UserBenchmarks.csv'),
+                "performance": self.get_performance(self.get_keys(name), self.get_anti_keys(name), f'{self.benchmark_filepath}\\GPU_UserBenchmarks.csv'),
                 "variants": []
             }
             gpu_data.append(data)
@@ -385,14 +387,14 @@ class CPU(LoadData):
 
     def retrieve_data(self):
         cpu_data = [] 
-        for name in self.get_names(f'{self.benchmark_filepath}CPU_UserBenchmarks.csv'):
+        for name in self.get_names(f'{self.benchmark_filepath}\\CPU_UserBenchmarks.csv'):
             keys = self.get_keys(name)
             cpu_data.append({
                 "name": name,
                 "keys": keys,
                 "anti_keys": [], 
                 "id": self.create_id(name),
-                "performance": self.get_performance(keys, f'{self.benchmark_filepath}CPU_UserBenchmarks.csv'),
+                "performance": self.get_performance(keys, f'{self.benchmark_filepath}\\CPU_UserBenchmarks.csv'),
                 "variants": [],
                 "socket": None 
             })
@@ -417,7 +419,7 @@ class CPU(LoadData):
         self.save_data(cpu_data)
 
     def get_socket(self,name):
-        with open('util_data.json', 'r') as f:
+        with open(f'{os.path.dirname(os.path.abspath(__file__))}\\util_data.json', 'r') as f:
             cpu_sockets = json.load(f)['sockets']
         socket = next((socket for socket in cpu_sockets if socket.lower() in name.lower()), None)
         return socket
