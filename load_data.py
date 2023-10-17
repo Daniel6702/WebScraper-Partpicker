@@ -12,6 +12,16 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
+def update_all_data():
+    RAM().retrieve_data()
+    PSU().retrieve_data()
+    Motherboards().retrieve_data()
+    Drives().retrieve_data()
+    Coolers().retrieve_data()
+    Cases().retrieve_data()
+    GPU().retrieve_data()
+    CPU().retrieve_data()
+
 class LoadData():
     def __init__(self, category, sources):
         self.category = category
@@ -383,16 +393,34 @@ class CPU(LoadData):
                 "anti_keys": [], 
                 "id": self.create_id(name),
                 "performance": self.get_performance(keys, f'{self.benchmark_filepath}CPU_UserBenchmarks.csv'),
-                "variants": []
+                "variants": [],
+                "socket": None 
             })
+
         for info in tqdm(self.load_product_info(), desc="Processing Data", unit="product"):
             if info.name is None:
                 continue
             name_upper = info.name.upper()
             for cpu in cpu_data:
                 if self.match(name_upper, cpu['keys']):
-                    cpu['variants'].append(asdict(info))  
+                    cpu['variants'].append(asdict(info))
+
+                    if cpu['socket'] is None:
+                        socket_info = self.get_socket(info.name)
+                        if socket_info is not None:
+                            cpu['socket'] = socket_info
+
+        for cpu in cpu_data:
+            if cpu['socket'] is None:
+                cpu['socket'] = "Unknown"
+
         self.save_data(cpu_data)
+
+    def get_socket(self,name):
+        with open('util_data.json', 'r') as f:
+            cpu_sockets = json.load(f)['sockets']
+        socket = next((socket for socket in cpu_sockets if socket.lower() in name.lower()), None)
+        return socket
 
     def get_names(self,csv_filepath):
         names = []
@@ -424,10 +452,10 @@ class CPU(LoadData):
             return True
         
 
-#CPU().retrieve_data()
+CPU().retrieve_data()
 #GPU().retrieve_data()
 #Cases().retrieve_data()
 #Drives().retrieve_data()
 #Motherboards().retrieve_data()
-PSU().retrieve_data()
-RAM().retrieve_data()
+#PSU().retrieve_data()
+#RAM().retrieve_data()
