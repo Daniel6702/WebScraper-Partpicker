@@ -59,7 +59,8 @@ class ProductURLFetcher:
                 'ram': (11209, 'hukommelse-ram'),
                 'bundkort': (10111, 'bundkort'),
                 'psu': (10057, 'stroemforsyninger'),
-                'cpu_cooler': (10462, 'blaesere/koelere')
+                'cpu_cooler': (10462, 'blaesere/koelere'),
+                'cases': (10149, 'kabinetter/barebone')
             },
             'computersalg': {
                 'grafikkort': (5444, 'alle-grafikkort'),
@@ -67,7 +68,9 @@ class ProductURLFetcher:
                 'ram': (1480, 'ram-hukommelse'),
                 'bundkort': (1481, 'bundkort'),
                 'psu': (1957, 'strømforsyning'),
-                'cpu_cooler': (1338, 'cpu-køling')
+                'cpu_cooler': (1338, 'cpu-køling'),
+                'cases': (5446, 'alle-kabinetter'),
+                'drives': (1319,'harddisk-lagring')
             },
             'proshop': {
                 'grafikkort': (None, 'Grafikkort'),
@@ -75,7 +78,9 @@ class ProductURLFetcher:
                 'ram': (None, 'RAM'),
                 'bundkort': (None, 'Bundkort'),
                 'psu': (None, 'Stroemforsyning'),
-                'cpu_cooler': (None, 'CPU-Koeler')
+                'cpu_cooler': (None, 'CPU-Koeler'),
+                'cases': (None, 'Kabinet'),
+                'drives': (None, 'SSD')
             }
         }
         website_type = self.get_website_type()
