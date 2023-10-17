@@ -94,7 +94,10 @@ class KomplettHandler(BaseWebsiteHandler):
 
     def _get_product_currency(self) -> str:
         script_tag = self.request_data.find("script", type="application/ld+json").contents[0]
-        currency = json.loads(script_tag).get("offers").get("priceCurrency")
+        try:
+            currency = json.loads(script_tag).get("offers").get("priceCurrency")
+        except:
+            currency = "DKK"
         return currency
 
     def _get_product_id(self) -> str:
