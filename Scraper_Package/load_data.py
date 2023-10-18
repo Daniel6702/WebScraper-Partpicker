@@ -172,7 +172,7 @@ class Motherboards(LoadData):
         self.save_data(motherboard_data)
 
     def extract_motherboard_info(self,name):
-        with open('util_data.json', 'r') as f:
+        with open(f'{os.path.dirname(os.path.abspath(__file__))}\\util_data.json', 'r') as f:
             data = json.load(f)
             cpu_sockets = data['sockets']
             chipsets = data['chipsets']
@@ -183,9 +183,9 @@ class Motherboards(LoadData):
         extracted_info["chipset"] = next((chipset for chipset in chipsets if chipset.lower() in name_lower), None)
         extracted_info["ram_type"] = next((ram_type for ram_type in ram_types if ram_type.lower() in name_lower), None)
         if extracted_info["chipset"] == "Z790" or extracted_info["chipset"] == "B760" or extracted_info["chipset"] == "H770" or extracted_info["chipset"] == "Z690" or extracted_info["chipset"] == "B660" or extracted_info["chipset"] == "H670":
-            extracted_info["socket"] = "LGA 1700"
+            extracted_info["socket"] = "LGA1700"
         elif extracted_info["chipset"] == "Z590" or extracted_info["chipset"] == "B560" or extracted_info["chipset"] == "H570":
-            extracted_info["socket"] = "LGA 1200"
+            extracted_info["socket"] = "LGA1200"
         elif extracted_info["chipset"] == "x670" or extracted_info["chipset"] == "X670e" or extracted_info["chipset"] == "A5620" or extracted_info["chipset"] == "B650":
             extracted_info["socket"] = "AM5"
         if "ddr4" in name_lower and "ddr5" in name_lower:
@@ -236,10 +236,13 @@ class Drives(LoadData):
         for pattern in capacity_patterns:
             match = re.search(pattern, product_name)
             if match:
-                capacity = float(match.group(1))
-                unit = match.group(3)
+                capacity = float(match.group(1))  
+                unit = match.group(3)       
                 if unit in ['tb', 'terabyte']:
-                    capacity *= 1000
+                    capacity *= 1000 
+                capacity = int(capacity)
+                break
+
         return {'type': type, 'capacity': capacity, 'interface': interface}
     
 class Coolers(LoadData):
@@ -274,7 +277,7 @@ class Coolers(LoadData):
         return description
 
     def get_cpu_cooler_data(self,description: str):
-        with open('util_data.json', 'r') as f:
+        with open(f'{os.path.dirname(os.path.abspath(__file__))}\\util_data.json', 'r') as f:
             cpu_sockets = json.load(f)['sockets']
         supported_sockets = []
         cooling_type = None
@@ -454,10 +457,10 @@ class CPU(LoadData):
             return True
         
 
-CPU().retrieve_data()
+#CPU().retrieve_data()
 #GPU().retrieve_data()
 #Cases().retrieve_data()
-#Drives().retrieve_data()
+Drives().retrieve_data()
 #Motherboards().retrieve_data()
 #PSU().retrieve_data()
 #RAM().retrieve_data()

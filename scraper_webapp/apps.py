@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class ScraperAppConfig(AppConfig):
+class ScraperWebappConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'scraper_app'
+    name = 'scraper_webapp'

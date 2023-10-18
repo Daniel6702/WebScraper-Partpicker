@@ -21,9 +21,9 @@ def scraper_view(request):
             dict_with_components_data = select_components(budget_distribution,budget)
             print(dict_with_components_data)
 
-            return render(request, 'scraper_app/scraper.html', {'form': form})
+            return render(request, 'scraper_webapp/scraper.html', {'form': form})
 
     else:
         form = ScraperForm()
 
-    return render(request, 'scraper_app/scraper.html', {'form': form})
+    return render(request, 'scraper_webapp/scraper.html', {'form': form})
