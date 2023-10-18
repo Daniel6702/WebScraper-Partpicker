@@ -1,0 +1,5362 @@
+[
+    {
+        "name": "nvidia l40",
+        "score": "353037"
+    },
+    {
+        "name": "nvidia geforce rtx 4090",
+        "score": "321828"
+    },
+    {
+        "name": "nvidia rtx 6000 ada generation",
+        "score": "309824"
+    },
+    {
+        "name": "nvidia h100 pcie",
+        "score": "252532"
+    },
+    {
+        "name": "nvidia geforce rtx 4080",
+        "score": "243773"
+    },
+    {
+        "name": "nvidia a100 80gb pcie",
+        "score": "218517"
+    },
+    {
+        "name": "nvidia geforce rtx 3090 ti",
+        "score": "209484"
+    },
+    {
+        "name": "nvidia graphics device",
+        "score": "209163"
+    },
+    {
+        "name": "nvidia a100 pcie 80gb",
+        "score": "207124"
+    },
+    {
+        "name": "nvidia geforce rtx 4070 ti",
+        "score": "206739"
+    },
+    {
+        "name": "nvidia a100 sxm4 40gb",
+        "score": "201421"
+    },
+    {
+        "name": "rtx a6000",
+        "score": "200330"
+    },
+    {
+        "name": "nvidia a100 pcie 40gb",
+        "score": "197521"
+    },
+    {
+        "name": "grid a100 7 40c mig 7g.40gb",
+        "score": "196825"
+    },
+    {
+        "name": "amd radeon rx 7900 xtx",
+        "score": "195508"
+    },
+    {
+        "name": "nvidia geforce rtx 3090",
+        "score": "194755"
+    },
+    {
+        "name": "nvidia rtx a6000",
+        "score": "191647"
+    },
+    {
+        "name": "nvidia geforce rtx 3080 ti",
+        "score": "191304"
+    },
+    {
+        "name": "amd radeon pro w7900",
+        "score": "189703"
+    },
+    {
+        "name": "geforce rtx 3090",
+        "score": "187804"
+    },
+    {
+        "name": "radeon rx 7900 xtx",
+        "score": "186034"
+    },
+    {
+        "name": "nvidia a100 sxm4 80gb",
+        "score": "185638"
+    },
+    {
+        "name": "nvidia a40",
+        "score": "184379"
+    },
+    {
+        "name": "nvidia geforce rtx 4090 laptop gpu",
+        "score": "181665"
+    },
+    {
+        "name": "nvidia a40 24q",
+        "score": "179029"
+    },
+    {
+        "name": "tesla v100 sxm2 16gb",
+        "score": "176525"
+    },
+    {
+        "name": "nvidia rtx a5500",
+        "score": "175262"
+    },
+    {
+        "name": "nvidia a40 12q",
+        "score": "175252"
+    },
+    {
+        "name": "nvidia rtx 5000 ada generation laptop gpu",
+        "score": "174538"
+    },
+    {
+        "name": "amd radeon rx 7900 xt",
+        "score": "174199"
+    },
+    {
+        "name": "nvidia geforce rtx 3080",
+        "score": "173539"
+    },
+    {
+        "name": "amd radeon rx 6950 xt",
+        "score": "171469"
+    },
+    {
+        "name": "nvidia a10g",
+        "score": "171385"
+    },
+    {
+        "name": "geforce rtx 3080",
+        "score": "169988"
+    },
+    {
+        "name": "nvidia geforce rtx 4070",
+        "score": "167896"
+    },
+    {
+        "name": "quadro gv100",
+        "score": "166525"
+    },
+    {
+        "name": "nvidia a40 48q",
+        "score": "161993"
+    },
+    {
+        "name": "amd radeon rx 6900 xt",
+        "score": "161383"
+    },
+    {
+        "name": "nvidia geforce rtx 4080 laptop gpu",
+        "score": "160158"
+    },
+    {
+        "name": "nvidia a10",
+        "score": "159218"
+    },
+    {
+        "name": "rx 6800 xt",
+        "score": "158867"
+    },
+    {
+        "name": "a40 12q",
+        "score": "156643"
+    },
+    {
+        "name": "rx6800 xt",
+        "score": "155147"
+    },
+    {
+        "name": "tesla v100 pcie 32gb",
+        "score": "154799"
+    },
+    {
+        "name": "grid v100s 32q",
+        "score": "154397"
+    },
+    {
+        "name": "nvidia rtx a5000",
+        "score": "152716"
+    },
+    {
+        "name": "amd radeon rx 6800 xt",
+        "score": "150043"
+    },
+    {
+        "name": "a40",
+        "score": "149033"
+    },
+    {
+        "name": "nvidia titan rtx",
+        "score": "148029"
+    },
+    {
+        "name": "nvidia geforce rtx 2080 ti",
+        "score": "146896"
+    },
+    {
+        "name": "nvidia titan v",
+        "score": "146179"
+    },
+    {
+        "name": "nvidia rtx a4500",
+        "score": "143684"
+    },
+    {
+        "name": "navi 21 [radeon rx 6800/6800 xt / 6900 xt]",
+        "score": "143171"
+    },
+    {
+        "name": "grid a100d 8c",
+        "score": "142867"
+    },
+    {
+        "name": "amd radeon rx 7800 xt",
+        "score": "141768"
+    },
+    {
+        "name": "amd radeon pro w6900x",
+        "score": "141178"
+    },
+    {
+        "name": "nvidia l4",
+        "score": "140432"
+    },
+    {
+        "name": "geforce rtx 2080 ti",
+        "score": "140244"
+    },
+    {
+        "name": "nvidia rtx 4000 ada generation laptop gpu",
+        "score": "139411"
+    },
+    {
+        "name": "nvidia geforce rtx 3070 ti",
+        "score": "138509"
+    },
+    {
+        "name": "grid v100d 4q",
+        "score": "136323"
+    },
+    {
+        "name": "device 73bf",
+        "score": "134606"
+    },
+    {
+        "name": "grid rtx6000 2q",
+        "score": "133165"
+    },
+    {
+        "name": "amd radeon pro w6800",
+        "score": "132450"
+    },
+    {
+        "name": "quadro rtx 6000",
+        "score": "132423"
+    },
+    {
+        "name": "quadro rtx 8000",
+        "score": "132380"
+    },
+    {
+        "name": "tesla v100 sxm2 32gb ls",
+        "score": "131696"
+    },
+    {
+        "name": "nvidia rtx a5500 laptop gpu",
+        "score": "131671"
+    },
+    {
+        "name": "nvidia geforce rtx 4060 ti",
+        "score": "130679"
+    },
+    {
+        "name": "nvidia a30",
+        "score": "129786"
+    },
+    {
+        "name": "nvidia geforce rtx 3070",
+        "score": "128499"
+    },
+    {
+        "name": "nvidia a40 8q",
+        "score": "127291"
+    },
+    {
+        "name": "geforce rtx 3070",
+        "score": "126378"
+    },
+    {
+        "name": "amd radeon rx 6900xt compute engine",
+        "score": "126314"
+    },
+    {
+        "name": "amd radeon rx 6800",
+        "score": "125856"
+    },
+    {
+        "name": "nvidia quadro rtx 8000",
+        "score": "125554"
+    },
+    {
+        "name": "amd radeon rx 7700 xt",
+        "score": "125155"
+    },
+    {
+        "name": "rtx a5000 laptop gpu",
+        "score": "122155"
+    },
+    {
+        "name": "nvidia rtx a4000",
+        "score": "121991"
+    },
+    {
+        "name": "rtx a4000",
+        "score": "121359"
+    },
+    {
+        "name": "nvidia rtx 3500 ada generation laptop gpu",
+        "score": "121110"
+    },
+    {
+        "name": "amd radeon pro 6900xt compute engine",
+        "score": "120830"
+    },
+    {
+        "name": "nvidia rtx 4000 sff ada generation",
+        "score": "120547"
+    },
+    {
+        "name": "nvidia geforce rtx 2080 super",
+        "score": "119637"
+    },
+    {
+        "name": "grid rtx8000p 6q",
+        "score": "119079"
+    },
+    {
+        "name": "apple m2 ultra",
+        "score": "118899"
+    },
+    {
+        "name": "geforce rtx 2080 super",
+        "score": "117324"
+    },
+    {
+        "name": "nvidia geforce rtx 3080 ti laptop gpu",
+        "score": "116986"
+    },
+    {
+        "name": "nvidia geforce rtx 3080 laptop gpu",
+        "score": "116693"
+    },
+    {
+        "name": "amd radeon pro w6900x compute engine",
+        "score": "116332"
+    },
+    {
+        "name": "amd radeon navi21 compute engine",
+        "score": "115680"
+    },
+    {
+        "name": "amd radeon pro w6800x duo",
+        "score": "113306"
+    },
+    {
+        "name": "nvidia geforce rtx 2080",
+        "score": "112552"
+    },
+    {
+        "name": "nvidia geforce rtx 3060 ti",
+        "score": "112404"
+    },
+    {
+        "name": "amd radeon rx 6950 xt compute engine",
+        "score": "110549"
+    },
+    {
+        "name": "nvidia rtx a5000 laptop gpu",
+        "score": "110388"
+    },
+    {
+        "name": "nvidia rtx a4500 laptop gpu",
+        "score": "109400"
+    },
+    {
+        "name": "geforce rtx 3060 ti",
+        "score": "109096"
+    },
+    {
+        "name": "intel(r) graphics [0x56a0]",
+        "score": "108121"
+    },
+    {
+        "name": "quadro rtx 5000",
+        "score": "107377"
+    },
+    {
+        "name": "nvidia geforce rtx 3070 ti laptop gpu",
+        "score": "107273"
+    },
+    {
+        "name": "intel(r) arc(tm) a770 graphics",
+        "score": "107045"
+    },
+    {
+        "name": "geforce rtx 3080 laptop gpu",
+        "score": "105640"
+    },
+    {
+        "name": "amd radeon rx 6750 xt",
+        "score": "104611"
+    },
+    {
+        "name": "nvidia geforce rtx 3070 laptop gpu",
+        "score": "104033"
+    },
+    {
+        "name": "nvidia geforce rtx 4070 laptop gpu",
+        "score": "103829"
+    },
+    {
+        "name": "nvidia l4 8q",
+        "score": "103708"
+    },
+    {
+        "name": "nvidia geforce rtx 2070 super",
+        "score": "103319"
+    },
+    {
+        "name": "nvidia geforce rtx 4060",
+        "score": "101915"
+    },
+    {
+        "name": "amd radeon rx 6900 xt compute engine",
+        "score": "101143"
+    },
+    {
+        "name": "geforce rtx 2080",
+        "score": "100254"
+    },
+    {
+        "name": "amd radeon pro vega ii",
+        "score": "100250"
+    },
+    {
+        "name": "geforce rtx 2070 super",
+        "score": "99584"
+    },
+    {
+        "name": "intel(r) graphics [0x56a1]",
+        "score": "99141"
+    },
+    {
+        "name": "amd radeon pro vega ii duo",
+        "score": "98226"
+    },
+    {
+        "name": "nvidia rtx a4000 laptop gpu",
+        "score": "97094"
+    },
+    {
+        "name": "amd radeon rx 6700 xt",
+        "score": "96865"
+    },
+    {
+        "name": "vega 20 [radeon vii]",
+        "score": "96073"
+    },
+    {
+        "name": "amd radeon(tm) rx 6850m xt",
+        "score": "95298"
+    },
+    {
+        "name": "intel(r) arc(tm) a750 graphics",
+        "score": "95284"
+    },
+    {
+        "name": "navi 22 [radeon rx 6700/6700 xt / 6800m]",
+        "score": "93993"
+    },
+    {
+        "name": "nvidia geforce rtx 2080 with max q design",
+        "score": "93750"
+    },
+    {
+        "name": "amd radeon rx 6800 xt compute engine",
+        "score": "93675"
+    },
+    {
+        "name": "nvidia rtx 3000 ada generation laptop gpu",
+        "score": "93656"
+    },
+    {
+        "name": "amd radeont rx 6850m xt",
+        "score": "93172"
+    },
+    {
+        "name": "apple m1 ultra",
+        "score": "92223"
+    },
+    {
+        "name": "amd radeon pro vii",
+        "score": "91987"
+    },
+    {
+        "name": "nvidia geforce rtx 2070",
+        "score": "91463"
+    },
+    {
+        "name": "nvidia quadro rtx 5000 with max q design",
+        "score": "91343"
+    },
+    {
+        "name": "amd radeon 6700",
+        "score": "90557"
+    },
+    {
+        "name": "nvidia geforce rtx 2060 super",
+        "score": "90518"
+    },
+    {
+        "name": "amd radeon pro w6800x duo compute engine",
+        "score": "90444"
+    },
+    {
+        "name": "nvidia geforce rtx 2080 super with max q design",
+        "score": "89945"
+    },
+    {
+        "name": "amd radeon vii",
+        "score": "89896"
+    },
+    {
+        "name": "amd radeon rx 6850m xt",
+        "score": "89840"
+    },
+    {
+        "name": "nvidia geforce rtx 3060",
+        "score": "89207"
+    },
+    {
+        "name": "geforce rtx 2070",
+        "score": "88989"
+    },
+    {
+        "name": "nvidia geforce rtx 4060 laptop gpu",
+        "score": "88690"
+    },
+    {
+        "name": "geforce rtx 3060",
+        "score": "88589"
+    },
+    {
+        "name": "amd radeon pro w6800x compute engine",
+        "score": "88573"
+    },
+    {
+        "name": "rtx a3000 laptop gpu",
+        "score": "87942"
+    },
+    {
+        "name": "nvidia a30 6c",
+        "score": "87683"
+    },
+    {
+        "name": "amd radeon rx 6700",
+        "score": "87521"
+    },
+    {
+        "name": "amd radeon rx 6800m",
+        "score": "86819"
+    },
+    {
+        "name": "intel(r) arc(tm) a770m graphics",
+        "score": "86819"
+    },
+    {
+        "name": "quadro rtx 5000 with max q design",
+        "score": "86478"
+    },
+    {
+        "name": "geforce rtx 2060 super",
+        "score": "86243"
+    },
+    {
+        "name": "quadro rtx 4000",
+        "score": "86225"
+    },
+    {
+        "name": "nvidia rtx a3000 12gb laptop gpu",
+        "score": "86094"
+    },
+    {
+        "name": "nvidia quadro rtx 4000",
+        "score": "85184"
+    },
+    {
+        "name": "nvidia geforce rtx 2070 super with max q design",
+        "score": "84998"
+    },
+    {
+        "name": "amd radeon rx 6650 xt",
+        "score": "84739"
+    },
+    {
+        "name": "nvidia geforce rtx 3060 laptop gpu",
+        "score": "84099"
+    },
+    {
+        "name": "geforce rtx 2080 with max q design",
+        "score": "83053"
+    },
+    {
+        "name": "amd radeon rx 7600",
+        "score": "82948"
+    },
+    {
+        "name": "geforce rtx 3070 laptop gpu",
+        "score": "82654"
+    },
+    {
+        "name": "ati radeon pro vega ii compute engine",
+        "score": "81785"
+    },
+    {
+        "name": "ati radeon pro vega ii duo compute engine",
+        "score": "81498"
+    },
+    {
+        "name": "amd radeon rx 6700 xt (navi22, llvm 15.0.7, drm 3.54, 6.5.0 x64v3 xanmod1)",
+        "score": "80946"
+    },
+    {
+        "name": "amd radeon pro vii compute engine",
+        "score": "80653"
+    },
+    {
+        "name": "amd radeon rx 6600 xt",
+        "score": "80582"
+    },
+    {
+        "name": "apple m2 max",
+        "score": "79961"
+    },
+    {
+        "name": "quadro gp100",
+        "score": "79717"
+    },
+    {
+        "name": "grid rtx6000p 8q",
+        "score": "79528"
+    },
+    {
+        "name": "amd radeon pro w5700x",
+        "score": "79409"
+    },
+    {
+        "name": "tesla p100 pcie 16gb",
+        "score": "79178"
+    },
+    {
+        "name": "grid a100 2 10c mig 2g.10gb",
+        "score": "78806"
+    },
+    {
+        "name": "nvidia a40 4q",
+        "score": "78764"
+    },
+    {
+        "name": "nvidia rtx 2000 ada generation laptop gpu",
+        "score": "78549"
+    },
+    {
+        "name": "amd radeon pro vega ii compute engine",
+        "score": "78407"
+    },
+    {
+        "name": "geforce rtx 2070 with max q design",
+        "score": "78392"
+    },
+    {
+        "name": "geforce rtx 3060 laptop gpu",
+        "score": "78329"
+    },
+    {
+        "name": "radeon rx vega",
+        "score": "78214"
+    },
+    {
+        "name": "amd radeon unknown prototype compute engine",
+        "score": "78014"
+    },
+    {
+        "name": "nvidia rtx a3000 laptop gpu",
+        "score": "77609"
+    },
+    {
+        "name": "amd radeon rx 5700 xt",
+        "score": "77325"
+    },
+    {
+        "name": "amd radeon pro w6800 compute engine",
+        "score": "77292"
+    },
+    {
+        "name": "amd radeon pro vega ii duo compute engine",
+        "score": "77231"
+    },
+    {
+        "name": "amd radeon rx 6700m",
+        "score": "76795"
+    },
+    {
+        "name": "amd radeon rx 6800 compute engine",
+        "score": "76586"
+    },
+    {
+        "name": "nvidia geforce rtx 2070 with max q design",
+        "score": "76357"
+    },
+    {
+        "name": "tesla p100 sxm2 16gb",
+        "score": "76222"
+    },
+    {
+        "name": "amd radeon rx 5700 xt 50th anniversary",
+        "score": "75826"
+    },
+    {
+        "name": "nvidia geforce rtx 2060",
+        "score": "75613"
+    },
+    {
+        "name": "radeon vega frontier edition",
+        "score": "75421"
+    },
+    {
+        "name": "geforce rtx 2080 super with max q design",
+        "score": "75410"
+    },
+    {
+        "name": "tesla t4",
+        "score": "75150"
+    },
+    {
+        "name": "amd radeon rx 7700s",
+        "score": "75082"
+    },
+    {
+        "name": "grid p40 2b",
+        "score": "74559"
+    },
+    {
+        "name": "nvidia a10 12q",
+        "score": "74522"
+    },
+    {
+        "name": "grid t4 4q",
+        "score": "74413"
+    },
+    {
+        "name": "nvidia quadro rtx 6000",
+        "score": "74179"
+    },
+    {
+        "name": "grid t4 8q",
+        "score": "73912"
+    },
+    {
+        "name": "nvidia rtx a2000 12gb",
+        "score": "73024"
+    },
+    {
+        "name": "quadro rtx 4000 with max q design",
+        "score": "72896"
+    },
+    {
+        "name": "nvidia rtx a2000",
+        "score": "72865"
+    },
+    {
+        "name": "amd radeon rx 6800s",
+        "score": "72815"
+    },
+    {
+        "name": "radeon pro vega 64",
+        "score": "71291"
+    },
+    {
+        "name": "radeon instinct mi25",
+        "score": "70991"
+    },
+    {
+        "name": "amd radeon rx 6600",
+        "score": "70964"
+    },
+    {
+        "name": "amd radeon pro rx6600xt compute engine",
+        "score": "70927"
+    },
+    {
+        "name": "nvidia geforce rtx 4050 laptop gpu",
+        "score": "70400"
+    },
+    {
+        "name": "geforce rtx 2060",
+        "score": "69995"
+    },
+    {
+        "name": "amd radeon rx 6900 xtxh compute engine",
+        "score": "69862"
+    },
+    {
+        "name": "amd radeon pro w5700",
+        "score": "69809"
+    },
+    {
+        "name": "radeon rx 5700",
+        "score": "69737"
+    },
+    {
+        "name": "amd radeon(tm) rx 7600s",
+        "score": "68926"
+    },
+    {
+        "name": "geforce rtx 2070 super with max q design",
+        "score": "68466"
+    },
+    {
+        "name": "nvidia quadro rtx 3000 with max q design",
+        "score": "68305"
+    },
+    {
+        "name": "amd radeon rx 7600m xt",
+        "score": "68166"
+    },
+    {
+        "name": "grid t4 16c",
+        "score": "67838"
+    },
+    {
+        "name": "amd radeon rx vega",
+        "score": "67624"
+    },
+    {
+        "name": "amd radeon pro w6600x",
+        "score": "67420"
+    },
+    {
+        "name": "radeon (tm) pro wx 9100",
+        "score": "66932"
+    },
+    {
+        "name": "amd radeon pro w6600",
+        "score": "66803"
+    },
+    {
+        "name": "amd radeon rx 6600s",
+        "score": "66774"
+    },
+    {
+        "name": "amd radeon rx 5700",
+        "score": "66539"
+    },
+    {
+        "name": "nvidia geforce rtx 3050",
+        "score": "66236"
+    },
+    {
+        "name": "amd radeon rx 7600s",
+        "score": "66207"
+    },
+    {
+        "name": "nvidia geforce gtx 1660 ti",
+        "score": "66161"
+    },
+    {
+        "name": "amd radeon pro v520 mxgpu",
+        "score": "66108"
+    },
+    {
+        "name": "ati radeon pro vega 64x compute engine",
+        "score": "66033"
+    },
+    {
+        "name": "amd radeon rx 6650 xt compute engine",
+        "score": "65861"
+    },
+    {
+        "name": "titan xp collectors edition",
+        "score": "65520"
+    },
+    {
+        "name": "radeon (tm) pro wx 9100 graphics",
+        "score": "65210"
+    },
+    {
+        "name": "nvidia titan xp collectors edition",
+        "score": "65069"
+    },
+    {
+        "name": "amd radeon rx 5600 oem",
+        "score": "65062"
+    },
+    {
+        "name": "amd radeon rx 5600 xt",
+        "score": "65030"
+    },
+    {
+        "name": "apple m1 max",
+        "score": "64922"
+    },
+    {
+        "name": "amd radeon 5700xt compute engine",
+        "score": "64666"
+    },
+    {
+        "name": "radeon pro wx 9100",
+        "score": "64388"
+    },
+    {
+        "name": "amd radeon pro 5700",
+        "score": "64325"
+    },
+    {
+        "name": "intel(r) arc(tm) pro a60 graphics",
+        "score": "64223"
+    },
+    {
+        "name": "amd radeon rx 6600m",
+        "score": "63936"
+    },
+    {
+        "name": "amd radeon rx5700xt compute engine",
+        "score": "63708"
+    },
+    {
+        "name": "quadro rtx 3000",
+        "score": "63645"
+    },
+    {
+        "name": "nvidia geforce gtx 1660 super",
+        "score": "63585"
+    },
+    {
+        "name": "geforce gtx 1660 ti",
+        "score": "63016"
+    },
+    {
+        "name": "amd radeon rx 6700s",
+        "score": "62678"
+    },
+    {
+        "name": "amd radeon rx 6600 xt compute engine",
+        "score": "62542"
+    },
+    {
+        "name": "nvidia p102 100",
+        "score": "62406"
+    },
+    {
+        "name": "nvidia geforce rtx 2060 with max q design",
+        "score": "62296"
+    },
+    {
+        "name": "radeon pro vega 56",
+        "score": "62165"
+    },
+    {
+        "name": "geforce gtx 1660 super",
+        "score": "62012"
+    },
+    {
+        "name": "ati radeon pro vega 64 compute engine",
+        "score": "61980"
+    },
+    {
+        "name": "amd radeon pro v520",
+        "score": "61570"
+    },
+    {
+        "name": "nvidia titan xp",
+        "score": "61285"
+    },
+    {
+        "name": "nvidia tesla t4",
+        "score": "61276"
+    },
+    {
+        "name": "amd radeon rx 6700 xt compute engine",
+        "score": "61274"
+    },
+    {
+        "name": "nvidia geforce rtx 3050 oem",
+        "score": "61091"
+    },
+    {
+        "name": "vega 10 xl/xt [radeon rx vega 56/64]",
+        "score": "60605"
+    },
+    {
+        "name": "amd radeon pro w5700x compute engine",
+        "score": "60432"
+    },
+    {
+        "name": "nvidia titan x (pascal)",
+        "score": "60332"
+    },
+    {
+        "name": "intel(r) arc(tm) a730m graphics",
+        "score": "60291"
+    },
+    {
+        "name": "fiji [radeon r9 fury / nano series]",
+        "score": "59624"
+    },
+    {
+        "name": "nvidia geforce gtx 1660",
+        "score": "59564"
+    },
+    {
+        "name": "amd radeon pro 5700 xt",
+        "score": "59438"
+    },
+    {
+        "name": "nvidia geforce gtx 1080 ti",
+        "score": "59353"
+    },
+    {
+        "name": "geforce gtx 1080 ti",
+        "score": "59345"
+    },
+    {
+        "name": "amd radeon rx 6650m",
+        "score": "59146"
+    },
+    {
+        "name": "ati radeon hd vega10 xt prototype compute engine",
+        "score": "58926"
+    },
+    {
+        "name": "navi 10 [radeon rx 5600 oem/5600 xt / 5700/5700 xt]",
+        "score": "58558"
+    },
+    {
+        "name": "ati radeon pro w5700x compute engine",
+        "score": "58479"
+    },
+    {
+        "name": "amd radeon navi23 compute engine",
+        "score": "58027"
+    },
+    {
+        "name": "grid t4 4c",
+        "score": "57969"
+    },
+    {
+        "name": "amd radeon pro w6600x compute engine",
+        "score": "57931"
+    },
+    {
+        "name": "quadro p6000",
+        "score": "57685"
+    },
+    {
+        "name": "amd radeon rx 5600m",
+        "score": "57661"
+    },
+    {
+        "name": "intel(r) arc(tm) a570m graphics",
+        "score": "57512"
+    },
+    {
+        "name": "nvidia cmp 30hx",
+        "score": "57474"
+    },
+    {
+        "name": "amd radeon rx 5700 xt compute engine",
+        "score": "57359"
+    },
+    {
+        "name": "nvidia geforce gtx 1660 ti with max q design",
+        "score": "57330"
+    },
+    {
+        "name": "amd radeon (tm) pro vii",
+        "score": "57186"
+    },
+    {
+        "name": "nvidia geforce rtx 3050 ti laptop gpu",
+        "score": "57150"
+    },
+    {
+        "name": "geforce gtx 1660",
+        "score": "57060"
+    },
+    {
+        "name": "nvidia rtx a2000 8gb laptop gpu",
+        "score": "56882"
+    },
+    {
+        "name": "nvidia rtx a2000 laptop gpu",
+        "score": "56568"
+    },
+    {
+        "name": "amd radeon pro vega 64x compute engine",
+        "score": "56282"
+    },
+    {
+        "name": "nvidia geforce gtx 1650 super",
+        "score": "56082"
+    },
+    {
+        "name": "ati radeon pro vega 56 compute engine",
+        "score": "55927"
+    },
+    {
+        "name": "geforce gtx 1650 super",
+        "score": "55192"
+    },
+    {
+        "name": "grid rtx6000p 6q",
+        "score": "55072"
+    },
+    {
+        "name": "amd radeon pro w6600 compute engine",
+        "score": "55054"
+    },
+    {
+        "name": "amd radeon(tm) rx 5600m series",
+        "score": "55024"
+    },
+    {
+        "name": "geforce gtx 1660 ti with max q design",
+        "score": "54660"
+    },
+    {
+        "name": "amd radeon (tm) r9 fury series",
+        "score": "54308"
+    },
+    {
+        "name": "amd radeon pro vega 64 compute engine",
+        "score": "54231"
+    },
+    {
+        "name": "nvidia geforce rtx 3050 6gb laptop gpu",
+        "score": "54080"
+    },
+    {
+        "name": "amd radeon rx 5700xt compute engine",
+        "score": "53692"
+    },
+    {
+        "name": "geforce rtx 3050 ti laptop gpu",
+        "score": "53494"
+    },
+    {
+        "name": "radeon pro vega 48",
+        "score": "53430"
+    },
+    {
+        "name": "ati radeon rx vega10 unknown prototype compute engine",
+        "score": "53388"
+    },
+    {
+        "name": "quadro rtx 3000 with max q design",
+        "score": "53287"
+    },
+    {
+        "name": "ati radeon pro 5700x compute engine",
+        "score": "53286"
+    },
+    {
+        "name": "amd radeon pro 5700 xt compute engine",
+        "score": "53238"
+    },
+    {
+        "name": "amd radeon pro 5600xt compute engine",
+        "score": "52917"
+    },
+    {
+        "name": "nvidia rtx a1000 6gb laptop gpu",
+        "score": "52832"
+    },
+    {
+        "name": "amd radeon rx 6600 compute engine",
+        "score": "52725"
+    },
+    {
+        "name": "nvidia geforce gtx 1080",
+        "score": "52563"
+    },
+    {
+        "name": "ati radeon vega frontier edition compute engine",
+        "score": "52132"
+    },
+    {
+        "name": "nvidia p104 100",
+        "score": "52088"
+    },
+    {
+        "name": "amd radeon pro w5700xt compute engine",
+        "score": "51910"
+    },
+    {
+        "name": "amd radeon pro amd radeon rx 5700 xt compute engine",
+        "score": "51559"
+    },
+    {
+        "name": "ati radeon rx vega 64 compute engine",
+        "score": "51447"
+    },
+    {
+        "name": "rtx a2000 laptop gpu",
+        "score": "51414"
+    },
+    {
+        "name": "amd radeon rx vega 64 compute engine",
+        "score": "51184"
+    },
+    {
+        "name": "ati radeon vega compute engine",
+        "score": "50683"
+    },
+    {
+        "name": "nvidia geforce rtx 3050 laptop gpu",
+        "score": "50351"
+    },
+    {
+        "name": "nvidia geforce gtx 1070 ti",
+        "score": "50247"
+    },
+    {
+        "name": "amd radeon rx 5700 xt 50th anniversary compute engine",
+        "score": "50087"
+    },
+    {
+        "name": "amd radeon pro vega 56 compute engine",
+        "score": "49961"
+    },
+    {
+        "name": "amd radeon rx6500 xt",
+        "score": "49910"
+    },
+    {
+        "name": "amd radeon pro w5700 compute engine",
+        "score": "49866"
+    },
+    {
+        "name": "geforce gtx 1080",
+        "score": "49722"
+    },
+    {
+        "name": "nvidia a10 8q",
+        "score": "49680"
+    },
+    {
+        "name": "amd radeon vii compute engine",
+        "score": "49602"
+    },
+    {
+        "name": "p102 100",
+        "score": "49602"
+    },
+    {
+        "name": "ati radeon vii compute engine",
+        "score": "49525"
+    },
+    {
+        "name": "device 6863",
+        "score": "49493"
+    },
+    {
+        "name": "geforce rtx 3050 laptop gpu",
+        "score": "49408"
+    },
+    {
+        "name": "geforce gtx 1070 ti",
+        "score": "49341"
+    },
+    {
+        "name": "amd radeon(tm) rx 6500 xt",
+        "score": "49147"
+    },
+    {
+        "name": "ati radeon rx vega 56 compute engine",
+        "score": "49112"
+    },
+    {
+        "name": "nvidia a10 4q",
+        "score": "48964"
+    },
+    {
+        "name": "amd radeon rx 5500 xt",
+        "score": "48820"
+    },
+    {
+        "name": "amd radeon vega frontier edition compute engine",
+        "score": "48755"
+    },
+    {
+        "name": "ati radeon pro wx 9100 compute engine",
+        "score": "48656"
+    },
+    {
+        "name": "amd radeon rx 5700 compute engine",
+        "score": "48656"
+    },
+    {
+        "name": "amd radeon pro vega 48 compute engine",
+        "score": "48503"
+    },
+    {
+        "name": "amd radeon pro wx 9100 compute engine",
+        "score": "48427"
+    },
+    {
+        "name": "amd radeon rx vega 56 compute engine",
+        "score": "48388"
+    },
+    {
+        "name": "amd radeon pro 5600m",
+        "score": "48306"
+    },
+    {
+        "name": "ati radeon rx 5700 xt 50th anniversary compute engine",
+        "score": "47952"
+    },
+    {
+        "name": "nvidia rtx a1000 laptop gpu",
+        "score": "47910"
+    },
+    {
+        "name": "amd radeon rx 6500 xt",
+        "score": "47889"
+    },
+    {
+        "name": "amd radeon rx 5600 xt compute engine",
+        "score": "47589"
+    },
+    {
+        "name": "ati radeon pro vega 48 compute engine",
+        "score": "47418"
+    },
+    {
+        "name": "ati radeon unknown prototype compute engine",
+        "score": "47143"
+    },
+    {
+        "name": "nvidia geforce gtx 1080 with max q design",
+        "score": "47101"
+    },
+    {
+        "name": "intel(r) arc(tm) a550m graphics",
+        "score": "47068"
+    },
+    {
+        "name": "tesla p40",
+        "score": "46994"
+    },
+    {
+        "name": "amd radeon rx 590 compute engine",
+        "score": "46973"
+    },
+    {
+        "name": "radeon rx 590 series",
+        "score": "46777"
+    },
+    {
+        "name": "intel(r) data center gpu flex series 170",
+        "score": "46748"
+    },
+    {
+        "name": "apple m2 pro",
+        "score": "46549"
+    },
+    {
+        "name": "quadro p5000",
+        "score": "46017"
+    },
+    {
+        "name": "ati radeon rx 5700 xt compute engine",
+        "score": "45995"
+    },
+    {
+        "name": "amd radeon pro 5700 compute engine",
+        "score": "45662"
+    },
+    {
+        "name": "amd radeon vega compute engine",
+        "score": "45660"
+    },
+    {
+        "name": "nvidia geforce rtx 3050 4gb laptop gpu",
+        "score": "45506"
+    },
+    {
+        "name": "amd radeon rx 580 series",
+        "score": "45471"
+    },
+    {
+        "name": "amd radeon pro w5500",
+        "score": "45255"
+    },
+    {
+        "name": "nvidia geforce gtx 1070",
+        "score": "45097"
+    },
+    {
+        "name": "radeon rx 5500 xt",
+        "score": "44719"
+    },
+    {
+        "name": "amd radeon pro 5600 xt compute engine",
+        "score": "44486"
+    },
+    {
+        "name": "amd radeon (tm) r9 390 series",
+        "score": "44298"
+    },
+    {
+        "name": "nvidia geforce gtx 1650 ti",
+        "score": "44292"
+    },
+    {
+        "name": "ati radeon rx 590 compute engine",
+        "score": "44246"
+    },
+    {
+        "name": "amd radeon pro rx580 compute engine",
+        "score": "44066"
+    },
+    {
+        "name": "radeon pro w5700x",
+        "score": "43810"
+    },
+    {
+        "name": "grid p40 24q",
+        "score": "43171"
+    },
+    {
+        "name": "geforce gtx 1070",
+        "score": "43125"
+    },
+    {
+        "name": "radeon rx 5500",
+        "score": "43079"
+    },
+    {
+        "name": "amd firepro w9100",
+        "score": "43046"
+    },
+    {
+        "name": "quadro p5200 with max q design",
+        "score": "42988"
+    },
+    {
+        "name": "nvidia t1200 laptop gpu",
+        "score": "42797"
+    },
+    {
+        "name": "grid a100 1 5c mig 1g.5gb",
+        "score": "42750"
+    },
+    {
+        "name": "amd radeon (tm) rx 480 graphics",
+        "score": "42732"
+    },
+    {
+        "name": "amd radeon (tm) rx 580",
+        "score": "42723"
+    },
+    {
+        "name": "amd radeon(tm) r9 290x",
+        "score": "42428"
+    },
+    {
+        "name": "geforce gtx 1650 ti",
+        "score": "42347"
+    },
+    {
+        "name": "amd radeon (tm) rx 480",
+        "score": "42302"
+    },
+    {
+        "name": "nvidia quadro p4000",
+        "score": "42289"
+    },
+    {
+        "name": "nvidia geforce mx570 a",
+        "score": "41843"
+    },
+    {
+        "name": "radeon(tm) rx 580x",
+        "score": "41822"
+    },
+    {
+        "name": "amd radeon pro 580x compute engine",
+        "score": "41812"
+    },
+    {
+        "name": "amd radeon rx 5500",
+        "score": "41717"
+    },
+    {
+        "name": "quadro p5200",
+        "score": "41685"
+    },
+    {
+        "name": "amd radeon hd ellesmere prototype compute engine",
+        "score": "41558"
+    },
+    {
+        "name": "radeon rx 580 series",
+        "score": "41444"
+    },
+    {
+        "name": "nvidia rtx a500 laptop gpu",
+        "score": "41325"
+    },
+    {
+        "name": "amd radeon pro 5500 xt",
+        "score": "41265"
+    },
+    {
+        "name": "ati radeon hd hawaii xt prototype compute engine",
+        "score": "41187"
+    },
+    {
+        "name": "nvidia geforce gtx 1650 ti with max q design",
+        "score": "41092"
+    },
+    {
+        "name": "amd radeon rx590 gme",
+        "score": "41070"
+    },
+    {
+        "name": "amd radeon hd hawaii pro prototype compute engine",
+        "score": "41028"
+    },
+    {
+        "name": "nvidia quadro p5000",
+        "score": "40953"
+    },
+    {
+        "name": "quadro t2000 with max q design",
+        "score": "40908"
+    },
+    {
+        "name": "amd radeon pro 580x",
+        "score": "40704"
+    },
+    {
+        "name": "quadro t2000",
+        "score": "40677"
+    },
+    {
+        "name": "nvidia geforce rtx 2050",
+        "score": "40661"
+    },
+    {
+        "name": "amd radeon rx 580 compute engine",
+        "score": "40638"
+    },
+    {
+        "name": "ati radeon rx 5600 xt compute engine",
+        "score": "40624"
+    },
+    {
+        "name": "ati radeon pro 5500 xt compute engine",
+        "score": "40620"
+    },
+    {
+        "name": "amd radeon navi10 compute engine",
+        "score": "40385"
+    },
+    {
+        "name": "ati radeon rx 580 compute engine",
+        "score": "40224"
+    },
+    {
+        "name": "amd radeon pro 580 compute engine",
+        "score": "40079"
+    },
+    {
+        "name": "navi 14 [radeon rx 5500/5500m / pro 5500m]",
+        "score": "39899"
+    },
+    {
+        "name": "grid t4 2q",
+        "score": "39659"
+    },
+    {
+        "name": "amd radeon rx rx 5600 xt compute engine",
+        "score": "39545"
+    },
+    {
+        "name": "radeon(tm) rx 580",
+        "score": "39489"
+    },
+    {
+        "name": "amd radeon pro rx6600m compute engine",
+        "score": "39417"
+    },
+    {
+        "name": "nvidia geforce gtx 1650",
+        "score": "39406"
+    },
+    {
+        "name": "nvidia rtx a500 embedded gpu",
+        "score": "39389"
+    },
+    {
+        "name": "amd radeont rx 5300",
+        "score": "39363"
+    },
+    {
+        "name": "radeon pro 580",
+        "score": "39359"
+    },
+    {
+        "name": "geforce gtx 1650",
+        "score": "39281"
+    },
+    {
+        "name": "amd radeon pro w5500 compute engine",
+        "score": "39207"
+    },
+    {
+        "name": "nvidia geforce mx570",
+        "score": "39179"
+    },
+    {
+        "name": "radeon (tm) rx 480 graphics",
+        "score": "39157"
+    },
+    {
+        "name": "ati radeon hd hawaii pro prototype compute engine",
+        "score": "39145"
+    },
+    {
+        "name": "amd radeon pro w5500x compute engine",
+        "score": "38991"
+    },
+    {
+        "name": "amd radeon (tm) rx 570x",
+        "score": "38939"
+    },
+    {
+        "name": "radeon (tm) pro wx 7100 graphics",
+        "score": "38938"
+    },
+    {
+        "name": "amd radeon pro 5300",
+        "score": "38900"
+    },
+    {
+        "name": "amd radeon pro 5500xt compute engine",
+        "score": "38896"
+    },
+    {
+        "name": "apple m1 pro",
+        "score": "38887"
+    },
+    {
+        "name": "nvidia quadro t2000",
+        "score": "38863"
+    },
+    {
+        "name": "amd radeon pro 5500 xt compute engine",
+        "score": "38813"
+    },
+    {
+        "name": "radeon pro 580x",
+        "score": "38775"
+    },
+    {
+        "name": "radeon rx 5500m",
+        "score": "38555"
+    },
+    {
+        "name": "geforce gtx 1650 ti with max q design",
+        "score": "38406"
+    },
+    {
+        "name": "amd radeon rx 6500m",
+        "score": "38339"
+    },
+    {
+        "name": "amd radeon pro 5600m compute engine",
+        "score": "38176"
+    },
+    {
+        "name": "ati radeon hd hawaii unknown prototype compute engine",
+        "score": "38084"
+    },
+    {
+        "name": "radeon (tm) rx 570",
+        "score": "37824"
+    },
+    {
+        "name": "amd radeon (tm) pro wx 7100 graphics",
+        "score": "37732"
+    },
+    {
+        "name": "nvidia t1000 8gb",
+        "score": "37712"
+    },
+    {
+        "name": "tesla m40",
+        "score": "37577"
+    },
+    {
+        "name": "ati radeon rx 5700 compute engine",
+        "score": "37443"
+    },
+    {
+        "name": "nvidia t1000",
+        "score": "37431"
+    },
+    {
+        "name": "amd radeon(tm) rx 6500m",
+        "score": "37405"
+    },
+    {
+        "name": "nvidia geforce gtx titan x",
+        "score": "37326"
+    },
+    {
+        "name": "amd radeonpro 580x compute engine",
+        "score": "37160"
+    },
+    {
+        "name": "geforce gtx 1070 with max q design",
+        "score": "37095"
+    },
+    {
+        "name": "amd radeon rx 5500m series",
+        "score": "36948"
+    },
+    {
+        "name": "intel(r) arc(tm) a380 graphics",
+        "score": "36918"
+    },
+    {
+        "name": "nvidia geforce gtx 1070 with max q design",
+        "score": "36886"
+    },
+    {
+        "name": "ati radeon rx 480 compute engine",
+        "score": "36813"
+    },
+    {
+        "name": "amd radeon (tm) e9550",
+        "score": "36624"
+    },
+    {
+        "name": "quadro p4000",
+        "score": "36599"
+    },
+    {
+        "name": "radeon (tm) rx 570 graphics",
+        "score": "36512"
+    },
+    {
+        "name": "amd radeon pro 575x compute engine",
+        "score": "36499"
+    },
+    {
+        "name": "amd radeon rx 480 compute engine",
+        "score": "36288"
+    },
+    {
+        "name": "nvidia geforce gtx 980 ti",
+        "score": "36266"
+    },
+    {
+        "name": "amd radeon pro 5500m",
+        "score": "36261"
+    },
+    {
+        "name": "radeon rx 570 series",
+        "score": "36259"
+    },
+    {
+        "name": "nvidia geforce gtx 1650 with max q design",
+        "score": "36243"
+    },
+    {
+        "name": "grid p4 4q",
+        "score": "36038"
+    },
+    {
+        "name": "amd radeon pro 575 compute engine",
+        "score": "35979"
+    },
+    {
+        "name": "ati radeon pro wx 7100 compute engine",
+        "score": "35790"
+    },
+    {
+        "name": "ati radeon rx 570 compute engine",
+        "score": "35784"
+    },
+    {
+        "name": "ati radeon pro 580x compute engine",
+        "score": "35767"
+    },
+    {
+        "name": "quadro m6000",
+        "score": "35698"
+    },
+    {
+        "name": "amd radeon(tm) pro duo",
+        "score": "35596"
+    },
+    {
+        "name": "amd radeon pro w6400",
+        "score": "35443"
+    },
+    {
+        "name": "nvidia a30 1 6c mig 1g.6gb",
+        "score": "35435"
+    },
+    {
+        "name": "nvidia t550 laptop gpu",
+        "score": "35198"
+    },
+    {
+        "name": "radeon (tm) rx 470 graphics",
+        "score": "35110"
+    },
+    {
+        "name": "nvidia a2",
+        "score": "35083"
+    },
+    {
+        "name": "amd radeon pro wx8200 compute engine",
+        "score": "35060"
+    },
+    {
+        "name": "amd radeon rx 580 2048sp",
+        "score": "35002"
+    },
+    {
+        "name": "ati radeon hd fiji xt prototype compute engine",
+        "score": "34993"
+    },
+    {
+        "name": "amd radeon hd hawaii xt prototype compute engine",
+        "score": "34825"
+    },
+    {
+        "name": "geforce gtx 1650 with max q design",
+        "score": "34807"
+    },
+    {
+        "name": "ati radeon pro 580 compute engine",
+        "score": "34801"
+    },
+    {
+        "name": "amd radeon rx 5500 xt compute engine",
+        "score": "34739"
+    },
+    {
+        "name": "amd radeon rx 6500",
+        "score": "34692"
+    },
+    {
+        "name": "amd radeon pro 5300 compute engine",
+        "score": "34593"
+    },
+    {
+        "name": "amd radeon hd 7970",
+        "score": "34541"
+    },
+    {
+        "name": "radeon pro 575",
+        "score": "34493"
+    },
+    {
+        "name": "nvidia geforce mx550",
+        "score": "34433"
+    },
+    {
+        "name": "nvidia t600 laptop gpu",
+        "score": "34313"
+    },
+    {
+        "name": "amd radeon r9 200 / hd 7900 series",
+        "score": "34300"
+    },
+    {
+        "name": "ati radeon rx 470 compute engine",
+        "score": "34251"
+    },
+    {
+        "name": "nvidia a16 4q",
+        "score": "34247"
+    },
+    {
+        "name": "nvidia a16 1q",
+        "score": "34213"
+    },
+    {
+        "name": "amd radeon r9 200 series",
+        "score": "34161"
+    },
+    {
+        "name": "nvidia a16 16q",
+        "score": "34117"
+    },
+    {
+        "name": "geforce gtx 980 ti",
+        "score": "34105"
+    },
+    {
+        "name": "nvidia geforce gtx 1060 6gb",
+        "score": "33846"
+    },
+    {
+        "name": "ati radeon hd tahiti xt prototype compute engine",
+        "score": "33845"
+    },
+    {
+        "name": "nvidia p106 100",
+        "score": "33802"
+    },
+    {
+        "name": "quadro t1000 with max q design",
+        "score": "33739"
+    },
+    {
+        "name": "amd radeon rx 570 compute engine",
+        "score": "33579"
+    },
+    {
+        "name": "nvidia a16 8q",
+        "score": "33564"
+    },
+    {
+        "name": "quadro t1000",
+        "score": "33493"
+    },
+    {
+        "name": "nvidia a16",
+        "score": "33450"
+    },
+    {
+        "name": "radeon rx 5300m",
+        "score": "33353"
+    },
+    {
+        "name": "amd radeon (tm) rx 570",
+        "score": "33060"
+    },
+    {
+        "name": "asus r9 280 series",
+        "score": "33027"
+    },
+    {
+        "name": "amd radeon(tm) rx 6400",
+        "score": "32985"
+    },
+    {
+        "name": "nvidia quadro t1000",
+        "score": "32981"
+    },
+    {
+        "name": "nvidia quadro p2200",
+        "score": "32972"
+    },
+    {
+        "name": "amd radeon hd tahiti xt prototype compute engine",
+        "score": "32957"
+    },
+    {
+        "name": "geforce gtx 980",
+        "score": "32945"
+    },
+    {
+        "name": "asus radeon rx 470 series",
+        "score": "32718"
+    },
+    {
+        "name": "tesla m40 24gb",
+        "score": "32715"
+    },
+    {
+        "name": "amd radeon rx 470 compute engine",
+        "score": "32700"
+    },
+    {
+        "name": "p106 100",
+        "score": "32556"
+    },
+    {
+        "name": "intel(r) arc(tm) pro a40/a50 graphics",
+        "score": "32440"
+    },
+    {
+        "name": "amd radeon rx 6400",
+        "score": "32305"
+    },
+    {
+        "name": "geforce gtx 1060 6gb",
+        "score": "32222"
+    },
+    {
+        "name": "amd radeon hd 7900 series",
+        "score": "32084"
+    },
+    {
+        "name": "nvidia geforce gtx 1060 5gb",
+        "score": "31929"
+    },
+    {
+        "name": "amd radeon navi14 compute engine",
+        "score": "31898"
+    },
+    {
+        "name": "quadro p4200",
+        "score": "31830"
+    },
+    {
+        "name": "quadro p3200 with max q design",
+        "score": "31780"
+    },
+    {
+        "name": "intel(r) arc(tm) pro a30m graphics",
+        "score": "31537"
+    },
+    {
+        "name": "nvidia geforce gtx 1060 3gb",
+        "score": "31514"
+    },
+    {
+        "name": "ati radeon pro 575 compute engine",
+        "score": "31460"
+    },
+    {
+        "name": "ati radeon pro 575x compute engine",
+        "score": "31319"
+    },
+    {
+        "name": "geforce gtx 1060 3gb",
+        "score": "31200"
+    },
+    {
+        "name": "radeon rx 560 xt",
+        "score": "31193"
+    },
+    {
+        "name": "quadro p3200",
+        "score": "30833"
+    },
+    {
+        "name": "radeon rx 470 series",
+        "score": "30698"
+    },
+    {
+        "name": "amd firepro s10000",
+        "score": "30631"
+    },
+    {
+        "name": "amd radeon pro 570x compute engine",
+        "score": "30564"
+    },
+    {
+        "name": "amd radeon 780m graphics",
+        "score": "30432"
+    },
+    {
+        "name": "radeon rx 570",
+        "score": "30417"
+    },
+    {
+        "name": "amd radeon pro 570 compute engine",
+        "score": "30374"
+    },
+    {
+        "name": "nvidia geforce mx450",
+        "score": "30238"
+    },
+    {
+        "name": "nvidia geforce gtx 980",
+        "score": "30224"
+    },
+    {
+        "name": "ati radeon rx 5500 xt compute engine",
+        "score": "30154"
+    },
+    {
+        "name": "amd radeon hd fiji xt prototype compute engine",
+        "score": "29670"
+    },
+    {
+        "name": "amd radeon pro 5500m compute engine",
+        "score": "29661"
+    },
+    {
+        "name": "amd firepro s7150",
+        "score": "29623"
+    },
+    {
+        "name": "amd radeont 780m",
+        "score": "29527"
+    },
+    {
+        "name": "amd radeon graphics",
+        "score": "29436"
+    },
+    {
+        "name": "amd radeon pro 5300m",
+        "score": "29287"
+    },
+    {
+        "name": "nvidia geforce gtx 1060",
+        "score": "29248"
+    },
+    {
+        "name": "nvidia a10 2q",
+        "score": "29242"
+    },
+    {
+        "name": "amd radeon (tm) pro wx 7130 graphics",
+        "score": "29043"
+    },
+    {
+        "name": "nvidia t500",
+        "score": "28968"
+    },
+    {
+        "name": "geforce gtx 780 ti",
+        "score": "28862"
+    },
+    {
+        "name": "intel(r) arc(tm) a310 graphics",
+        "score": "28836"
+    },
+    {
+        "name": "geforce mx450",
+        "score": "28724"
+    },
+    {
+        "name": "quadro p2200",
+        "score": "28716"
+    },
+    {
+        "name": "nvidia geforce gtx 1060 with max q design",
+        "score": "28524"
+    },
+    {
+        "name": "ati radeon hd   firepro d700 compute engine",
+        "score": "28514"
+    },
+    {
+        "name": "amd radeon rx 570 series (polaris10, llvm 15.0.7, drm 3.49, 6.2.0 20 generic)",
+        "score": "28454"
+    },
+    {
+        "name": "amd radeon(tm) 780m",
+        "score": "28426"
+    },
+    {
+        "name": "geforce gtx 1060",
+        "score": "28339"
+    },
+    {
+        "name": "intel(r) arc(tm) a370m graphics",
+        "score": "28268"
+    },
+    {
+        "name": "ati radeon pro wx 5100 compute engine",
+        "score": "28072"
+    },
+    {
+        "name": "ati radeon pro 5500m compute engine",
+        "score": "28053"
+    },
+    {
+        "name": "amd firepro (tm) s9300 x2",
+        "score": "27971"
+    },
+    {
+        "name": "amd radeon hd 7950 compute engine",
+        "score": "27822"
+    },
+    {
+        "name": "amd radeon r9 m395x compute engine",
+        "score": "27704"
+    },
+    {
+        "name": "nvidia t600",
+        "score": "27671"
+    },
+    {
+        "name": "amd radeon (tm) r9 380 series",
+        "score": "27567"
+    },
+    {
+        "name": "radeon rx vega m gh graphics",
+        "score": "27558"
+    },
+    {
+        "name": "tesla p4",
+        "score": "27541"
+    },
+    {
+        "name": "radeon pro 570",
+        "score": "27409"
+    },
+    {
+        "name": "amd radeont 680m",
+        "score": "27332"
+    },
+    {
+        "name": "ati radeon r9 m395x compute engine",
+        "score": "27323"
+    },
+    {
+        "name": "amd radeon hd   firepro d700 compute engine",
+        "score": "27321"
+    },
+    {
+        "name": "ati radeon hd 7950 compute engine",
+        "score": "27319"
+    },
+    {
+        "name": "amd radeon pro wx 7100 compute engine",
+        "score": "27274"
+    },
+    {
+        "name": "quadro m5000",
+        "score": "27191"
+    },
+    {
+        "name": "amd radeon r9 m295x compute engine",
+        "score": "27150"
+    },
+    {
+        "name": "ati radeon hd tonga xt prototype compute engine",
+        "score": "27082"
+    },
+    {
+        "name": "radeon pro vega 20",
+        "score": "26913"
+    },
+    {
+        "name": "ati radeon pro 570x compute engine",
+        "score": "26899"
+    },
+    {
+        "name": "amd radeon hd tonga pro prototype compute engine",
+        "score": "26888"
+    },
+    {
+        "name": "ati radeon r9 m295x compute engine",
+        "score": "26881"
+    },
+    {
+        "name": "ati radeon pro 570 compute engine",
+        "score": "26781"
+    },
+    {
+        "name": "amd radeon (tm) 780m graphics",
+        "score": "26595"
+    },
+    {
+        "name": "ati radeon pro w5500x compute engine",
+        "score": "26480"
+    },
+    {
+        "name": "nvidia geforce gtx 970",
+        "score": "26303"
+    },
+    {
+        "name": "apple m2",
+        "score": "26112"
+    },
+    {
+        "name": "geforce gtx 1060 with max q design",
+        "score": "26050"
+    },
+    {
+        "name": "nvidia geforce gtx 780 ti",
+        "score": "25820"
+    },
+    {
+        "name": "amd firepro d700 (firegl v)",
+        "score": "25724"
+    },
+    {
+        "name": "radeon pro wx 5100",
+        "score": "25596"
+    },
+    {
+        "name": "geforce gtx 970",
+        "score": "25569"
+    },
+    {
+        "name": "radeon pro 570x",
+        "score": "25347"
+    },
+    {
+        "name": "amd firepro w7100",
+        "score": "25125"
+    },
+    {
+        "name": "nvidia geforce gtx titan",
+        "score": "25009"
+    },
+    {
+        "name": "amd radeon pro 5300m compute engine",
+        "score": "24924"
+    },
+    {
+        "name": "nvidia geforce gtx 1630",
+        "score": "24918"
+    },
+    {
+        "name": "ati radeon hd tonga pro prototype compute engine",
+        "score": "24867"
+    },
+    {
+        "name": "tesla m60",
+        "score": "24767"
+    },
+    {
+        "name": "amd radeon (tm) r9 370 series",
+        "score": "24513"
+    },
+    {
+        "name": "amd radeon pro vega 20 compute engine",
+        "score": "24468"
+    },
+    {
+        "name": "radeon (tm) pro wx 5100 graphics",
+        "score": "24347"
+    },
+    {
+        "name": "amd radeon hd amethyst xt prototype compute engine",
+        "score": "24055"
+    },
+    {
+        "name": "ati radeon pro vega 20 compute engine",
+        "score": "23888"
+    },
+    {
+        "name": "quadro p3000",
+        "score": "23761"
+    },
+    {
+        "name": "amd radeon (tm) r9 200 series",
+        "score": "23642"
+    },
+    {
+        "name": "amd radeon hd pitcairn xt prototype compute engine",
+        "score": "23600"
+    },
+    {
+        "name": "amd radeon r9 m395 compute engine",
+        "score": "23531"
+    },
+    {
+        "name": "ati radeon pro 5300m compute engine",
+        "score": "23509"
+    },
+    {
+        "name": "amd radeon r9 m295x",
+        "score": "23441"
+    },
+    {
+        "name": "ati radeon polaris compute engine",
+        "score": "23363"
+    },
+    {
+        "name": "geforce gtx 780",
+        "score": "23343"
+    },
+    {
+        "name": "ati radeon hd pitcairn pro prototype compute engine",
+        "score": "23282"
+    },
+    {
+        "name": "ati radeon hd ellesmere prototype compute engine",
+        "score": "23268"
+    },
+    {
+        "name": "ati radeon r9 m395 compute engine",
+        "score": "23189"
+    },
+    {
+        "name": "nvidia geforce gtx 980m",
+        "score": "23145"
+    },
+    {
+        "name": "amd radeon pro graphics",
+        "score": "23117"
+    },
+    {
+        "name": "amd radeon(tm) r9 370 series",
+        "score": "23041"
+    },
+    {
+        "name": "intel(r) arc(tm) a350m graphics",
+        "score": "22963"
+    },
+    {
+        "name": "geforce gtx titan",
+        "score": "22904"
+    },
+    {
+        "name": "amd radeon rx 6300",
+        "score": "22776"
+    },
+    {
+        "name": "amd radeon hd pitcairn pro prototype compute engine",
+        "score": "22736"
+    },
+    {
+        "name": "ati radeon r9 m290x compute engine",
+        "score": "22590"
+    },
+    {
+        "name": "amd radeon r9 m290x compute engine",
+        "score": "22562"
+    },
+    {
+        "name": "intel(r) iris(r) xe max graphics [0x4905]",
+        "score": "22236"
+    },
+    {
+        "name": "intel(r) graphics [0x4905]",
+        "score": "22230"
+    },
+    {
+        "name": "amd radeon graphics (rembrandt, llvm 15.0.7, drm 3.52, 6.4.7 zen1 2 zen)",
+        "score": "22230"
+    },
+    {
+        "name": "quadro k6000",
+        "score": "22113"
+    },
+    {
+        "name": "amd radeon (tm) r7 370 series",
+        "score": "21922"
+    },
+    {
+        "name": "ati radeon hd pitcairn unknown prototype compute engine",
+        "score": "21796"
+    },
+    {
+        "name": "quadro p2000",
+        "score": "21780"
+    },
+    {
+        "name": "nvidia geforce gtx 780",
+        "score": "21618"
+    },
+    {
+        "name": "ati radeon hd pitcairn xt prototype compute engine",
+        "score": "21531"
+    },
+    {
+        "name": "amd radeon hd 7800 series",
+        "score": "21459"
+    },
+    {
+        "name": "radeon instinct mi25 mxgpu",
+        "score": "21311"
+    },
+    {
+        "name": "amd radeon pro v520  mxgpu",
+        "score": "21268"
+    },
+    {
+        "name": "amd radeon(tm) r9 270",
+        "score": "21218"
+    },
+    {
+        "name": "amd radeon hd   firepro d300 compute engine",
+        "score": "20926"
+    },
+    {
+        "name": "rx 560x",
+        "score": "20889"
+    },
+    {
+        "name": "amd radeon pro vega 16 compute engine",
+        "score": "20878"
+    },
+    {
+        "name": "radeon(tm) pro wx 4170 graphics",
+        "score": "20842"
+    },
+    {
+        "name": "ati radeon hd baffin unknown prototype compute engine",
+        "score": "20764"
+    },
+    {
+        "name": "geforce gtx 980m",
+        "score": "20729"
+    },
+    {
+        "name": "ati radeon hd   firepro d300 compute engine",
+        "score": "20706"
+    },
+    {
+        "name": "nvidia geforce gtx 1050 ti",
+        "score": "20631"
+    },
+    {
+        "name": "amd radeon (tm) r7 370 series graphics",
+        "score": "20620"
+    },
+    {
+        "name": "ati radeon pro vega 16 compute engine",
+        "score": "20539"
+    },
+    {
+        "name": "ati radeon hd   firepro d500 compute engine",
+        "score": "20371"
+    },
+    {
+        "name": "amd radeon hd   firepro d500 compute engine",
+        "score": "20276"
+    },
+    {
+        "name": "radeon rx vega m gl graphics",
+        "score": "20155"
+    },
+    {
+        "name": "nvidia p106 090",
+        "score": "20091"
+    },
+    {
+        "name": "ati radeon r9 m290 compute engine",
+        "score": "20068"
+    },
+    {
+        "name": "amd radeon pro wx 5100 compute engine",
+        "score": "20035"
+    },
+    {
+        "name": "quadro m5000m",
+        "score": "20017"
+    },
+    {
+        "name": "amd radeon hd baffin prototype compute engine",
+        "score": "19937"
+    },
+    {
+        "name": "ati radeon rx 560 compute engine",
+        "score": "19923"
+    },
+    {
+        "name": "amd radeon r9 m290 compute engine",
+        "score": "19735"
+    },
+    {
+        "name": "amd firepro d300 (firegl v)",
+        "score": "19731"
+    },
+    {
+        "name": "geforce gtx 1050 ti",
+        "score": "19669"
+    },
+    {
+        "name": "amd radeon r9 m390 compute engine",
+        "score": "19604"
+    },
+    {
+        "name": "radeon rx 560x series",
+        "score": "19588"
+    },
+    {
+        "name": "67ef:c0",
+        "score": "19535"
+    },
+    {
+        "name": "radeon pro wx 4100",
+        "score": "19460"
+    },
+    {
+        "name": "ati radeon r9 m390 compute engine",
+        "score": "19360"
+    },
+    {
+        "name": "graphics device",
+        "score": "19360"
+    },
+    {
+        "name": "ati radeon pro wx 4100 compute engine",
+        "score": "19327"
+    },
+    {
+        "name": "radeon (tm) rx 560",
+        "score": "19252"
+    },
+    {
+        "name": "amd radeon rx 560 compute engine",
+        "score": "19178"
+    },
+    {
+        "name": "amd radeon hd ellesmere unknown prototype compute engine",
+        "score": "19171"
+    },
+    {
+        "name": "radeon rx 560 series",
+        "score": "19122"
+    },
+    {
+        "name": "nvidia geforce gtx 1050 ti with max q design",
+        "score": "19077"
+    },
+    {
+        "name": "p106 090",
+        "score": "18973"
+    },
+    {
+        "name": "radeon (tm) rx 460",
+        "score": "18776"
+    },
+    {
+        "name": "geforce gtx 690",
+        "score": "18700"
+    },
+    {
+        "name": "apple m1",
+        "score": "18662"
+    },
+    {
+        "name": "67ef:cf",
+        "score": "18637"
+    },
+    {
+        "name": "quadro p2000 with max q design",
+        "score": "18636"
+    },
+    {
+        "name": "amd radeon r9 m395",
+        "score": "18573"
+    },
+    {
+        "name": "geforce gtx 770",
+        "score": "18534"
+    },
+    {
+        "name": "radeon(tm) rx 460",
+        "score": "18503"
+    },
+    {
+        "name": "geforce gtx 680",
+        "score": "18474"
+    },
+    {
+        "name": "tesla k40c",
+        "score": "18416"
+    },
+    {
+        "name": "nvidia quadro m4000",
+        "score": "18372"
+    },
+    {
+        "name": "amd radeon pro 560x compute engine",
+        "score": "18327"
+    },
+    {
+        "name": "ati radeon rx 460 compute engine",
+        "score": "18308"
+    },
+    {
+        "name": "tesla k40m",
+        "score": "18212"
+    },
+    {
+        "name": "radeon(tm) rx 460 graphics",
+        "score": "18209"
+    },
+    {
+        "name": "amd firepro w7000",
+        "score": "18176"
+    },
+    {
+        "name": "nvidia geforce gtx 960",
+        "score": "18131"
+    },
+    {
+        "name": "geforce gtx 970m",
+        "score": "18002"
+    },
+    {
+        "name": "amd radeon(tm) rx 560 series",
+        "score": "17964"
+    },
+    {
+        "name": "amd firepro d500 (firegl v)",
+        "score": "17852"
+    },
+    {
+        "name": "amd radeon(tm) hd8970m",
+        "score": "17835"
+    },
+    {
+        "name": "radeon (tm) pro wx 4100",
+        "score": "17824"
+    },
+    {
+        "name": "geforce gtx 960",
+        "score": "17784"
+    },
+    {
+        "name": "nvidia geforce gtx 970m",
+        "score": "17760"
+    },
+    {
+        "name": "quadro k5200",
+        "score": "17716"
+    },
+    {
+        "name": "quadro m4000m",
+        "score": "17691"
+    },
+    {
+        "name": "radeon pro 560x",
+        "score": "17506"
+    },
+    {
+        "name": "amd radeon (tm) rx 460 graphics",
+        "score": "17482"
+    },
+    {
+        "name": "nvidia tesla k40c",
+        "score": "17468"
+    },
+    {
+        "name": "nvidia geforce gtx 770",
+        "score": "17394"
+    },
+    {
+        "name": "amd radeon rx 460 compute engine",
+        "score": "17345"
+    },
+    {
+        "name": "amd radeon(tm) 760m",
+        "score": "17329"
+    },
+    {
+        "name": "radeon pro wx vega m gl graphics",
+        "score": "17282"
+    },
+    {
+        "name": "nvidia t400 4gb",
+        "score": "17208"
+    },
+    {
+        "name": "nvidia geforce gtx 1050",
+        "score": "17050"
+    },
+    {
+        "name": "tesla k80",
+        "score": "17048"
+    },
+    {
+        "name": "quadro m4000",
+        "score": "17003"
+    },
+    {
+        "name": "nvidia t400",
+        "score": "16967"
+    },
+    {
+        "name": "amd radeon pro wx 4100 compute engine",
+        "score": "16932"
+    },
+    {
+        "name": "amd radeon pro 560 compute engine",
+        "score": "16757"
+    },
+    {
+        "name": "geforce gtx 1050 ti with max q design",
+        "score": "16634"
+    },
+    {
+        "name": "amd radeon pro 460 compute engine",
+        "score": "16585"
+    },
+    {
+        "name": "radeon rx 560x",
+        "score": "16568"
+    },
+    {
+        "name": "ati radeon pro 560x compute engine",
+        "score": "16485"
+    },
+    {
+        "name": "geforce gtx 1050",
+        "score": "16449"
+    },
+    {
+        "name": "nvidia quadro m2200",
+        "score": "16429"
+    },
+    {
+        "name": "nvidia geforce gtx 680",
+        "score": "16423"
+    },
+    {
+        "name": "nvidia geforce gtx 690",
+        "score": "16126"
+    },
+    {
+        "name": "nvidia geforce gtx 950",
+        "score": "16114"
+    },
+    {
+        "name": "radeon pro 560",
+        "score": "16046"
+    },
+    {
+        "name": "intel(r) gen12 desktop graphics controller",
+        "score": "15964"
+    },
+    {
+        "name": "amd radeon hd saturn xt prototype compute engine",
+        "score": "15886"
+    },
+    {
+        "name": "quadro m3000m",
+        "score": "15788"
+    },
+    {
+        "name": "intel(r) iris(r) xe max graphics",
+        "score": "15738"
+    },
+    {
+        "name": "intel(r) graphics [0xa7a0]",
+        "score": "15678"
+    },
+    {
+        "name": "geforce gtx 580",
+        "score": "15621"
+    },
+    {
+        "name": "geforce gtx 950",
+        "score": "15589"
+    },
+    {
+        "name": "tesla k20xm",
+        "score": "15545"
+    },
+    {
+        "name": "amd radeon(tm) graphics",
+        "score": "15313"
+    },
+    {
+        "name": "geforce gtx 880m",
+        "score": "15247"
+    },
+    {
+        "name": "radeon pro series",
+        "score": "15245"
+    },
+    {
+        "name": "geforce gtx 670",
+        "score": "15204"
+    },
+    {
+        "name": "ati radeon pro 460 compute engine",
+        "score": "15199"
+    },
+    {
+        "name": "amd radeon polaris compute engine",
+        "score": "15038"
+    },
+    {
+        "name": "nvidia geforce gtx 880m",
+        "score": "15023"
+    },
+    {
+        "name": "nvidia geforce gtx 1050 with max q design",
+        "score": "14954"
+    },
+    {
+        "name": "amd 15d8:c8",
+        "score": "14840"
+    },
+    {
+        "name": "amd radeon hd 7790 compute engine",
+        "score": "14832"
+    },
+    {
+        "name": "nvidia geforce gtx 670",
+        "score": "14756"
+    },
+    {
+        "name": "amd radeon pro wx 3200 series",
+        "score": "14727"
+    },
+    {
+        "name": "ati radeon pro 560 compute engine",
+        "score": "14709"
+    },
+    {
+        "name": "geforce gtx 660 ti",
+        "score": "14649"
+    },
+    {
+        "name": "amd radeon rx 640",
+        "score": "14647"
+    },
+    {
+        "name": "amd radeon (tm) pro wx 3200 series",
+        "score": "14637"
+    },
+    {
+        "name": "amd radeon(tm) rx vega 11 graphics",
+        "score": "14632"
+    },
+    {
+        "name": "ati radeon r9 m380 compute engine",
+        "score": "14617"
+    },
+    {
+        "name": "amd radeon (tm) r9 m380",
+        "score": "14552"
+    },
+    {
+        "name": "amd radeon (tm) r7 360 series",
+        "score": "14409"
+    },
+    {
+        "name": "intel(r) graphics [0x9a49]",
+        "score": "14403"
+    },
+    {
+        "name": "amd radeon r9 360",
+        "score": "14269"
+    },
+    {
+        "name": "geforce gtx 965m",
+        "score": "14264"
+    },
+    {
+        "name": "amd radeon hd 7770 ghz edition",
+        "score": "14263"
+    },
+    {
+        "name": "amd radeon r9 m380 compute engine",
+        "score": "14249"
+    },
+    {
+        "name": "amd radeon pro 460",
+        "score": "14207"
+    },
+    {
+        "name": "amd radeon(tm) pro graphics",
+        "score": "14192"
+    },
+    {
+        "name": "amd radeon hd baffin unknown prototype compute engine",
+        "score": "14159"
+    },
+    {
+        "name": "nvidia geforce gtx 660 ti",
+        "score": "14148"
+    },
+    {
+        "name": "geforce gtx 760",
+        "score": "14135"
+    },
+    {
+        "name": "quadro p1000",
+        "score": "14107"
+    },
+    {
+        "name": "tesla k10",
+        "score": "14029"
+    },
+    {
+        "name": "ati radeon rx 550 compute engine",
+        "score": "13952"
+    },
+    {
+        "name": "amd radeont 660m",
+        "score": "13933"
+    },
+    {
+        "name": "amd radeon pro 555x compute engine",
+        "score": "13752"
+    },
+    {
+        "name": "amd radeon hd 8950",
+        "score": "13734"
+    },
+    {
+        "name": "geforce gtx 570",
+        "score": "13692"
+    },
+    {
+        "name": "quadro m2000",
+        "score": "13627"
+    },
+    {
+        "name": "amd 15d8:d8",
+        "score": "13598"
+    },
+    {
+        "name": "ati radeon hd verde xt prototype compute engine",
+        "score": "13536"
+    },
+    {
+        "name": "amd radeon rx 550 compute engine",
+        "score": "13469"
+    },
+    {
+        "name": "asus r7 250x series",
+        "score": "13444"
+    },
+    {
+        "name": "nvidia geforce gtx 760",
+        "score": "13402"
+    },
+    {
+        "name": "amd firepro m6100",
+        "score": "13395"
+    },
+    {
+        "name": "nvidia geforce gtx 965m",
+        "score": "13375"
+    },
+    {
+        "name": "geforce gtx 480",
+        "score": "13221"
+    },
+    {
+        "name": "amd radeon pro 555 compute engine",
+        "score": "13032"
+    },
+    {
+        "name": "amd radeon(tm) vega 11 graphics",
+        "score": "12966"
+    },
+    {
+        "name": "amd 15d8:ca",
+        "score": "12963"
+    },
+    {
+        "name": "intel(r) graphics [0x46a6]",
+        "score": "12907"
+    },
+    {
+        "name": "amd radeon pro 455 compute engine",
+        "score": "12847"
+    },
+    {
+        "name": "amd radeon r9 m380",
+        "score": "12816"
+    },
+    {
+        "name": "amd radeon graphics compute engine",
+        "score": "12808"
+    },
+    {
+        "name": "geforce gtx 870m",
+        "score": "12752"
+    },
+    {
+        "name": "geforce gtx 1050 with max q design",
+        "score": "12690"
+    },
+    {
+        "name": "amd radeon (tm) graphics",
+        "score": "12669"
+    },
+    {
+        "name": "nvidia geforce mx350",
+        "score": "12577"
+    },
+    {
+        "name": "nvidia quadro p620",
+        "score": "12475"
+    },
+    {
+        "name": "amd firepro w5100",
+        "score": "12418"
+    },
+    {
+        "name": "radeon 550 series",
+        "score": "12413"
+    },
+    {
+        "name": "quadro m2200",
+        "score": "12391"
+    },
+    {
+        "name": "ati radeon pro 555x compute engine",
+        "score": "12360"
+    },
+    {
+        "name": "radeon pro 555x",
+        "score": "12339"
+    },
+    {
+        "name": "geforce gtx 780m",
+        "score": "12299"
+    },
+    {
+        "name": "geforce gtx 760 (192 bit)",
+        "score": "12246"
+    },
+    {
+        "name": "ati radeon pro 555 compute engine",
+        "score": "12044"
+    },
+    {
+        "name": "geforce gtx 680mx",
+        "score": "12041"
+    },
+    {
+        "name": "intel(r) iris(r) xe graphics",
+        "score": "12041"
+    },
+    {
+        "name": "geforce gtx 775m",
+        "score": "12024"
+    },
+    {
+        "name": "geforce mx350",
+        "score": "11973"
+    },
+    {
+        "name": "ati radeon pro 455 compute engine",
+        "score": "11888"
+    },
+    {
+        "name": "amd radeon(tm) rx vega 8 graphics",
+        "score": "11842"
+    },
+    {
+        "name": "radeon (tm) pro wx series",
+        "score": "11813"
+    },
+    {
+        "name": "nvidia geforce gtx 750 ti",
+        "score": "11809"
+    },
+    {
+        "name": "radeon pro 555",
+        "score": "11785"
+    },
+    {
+        "name": "quadro k4200",
+        "score": "11763"
+    },
+    {
+        "name": "amd radeon rx 550",
+        "score": "11738"
+    },
+    {
+        "name": "amd radeon hd verde xt prototype compute engine",
+        "score": "11722"
+    },
+    {
+        "name": "amd radeon hd 7700 series",
+        "score": "11665"
+    },
+    {
+        "name": "quadro p620",
+        "score": "11449"
+    },
+    {
+        "name": "radeon rx 550x",
+        "score": "11394"
+    },
+    {
+        "name": "apple a12z",
+        "score": "11391"
+    },
+    {
+        "name": "amd radeon pro 455",
+        "score": "11291"
+    },
+    {
+        "name": "geforce gtx 750 ti",
+        "score": "11269"
+    },
+    {
+        "name": "geforce gtx 660",
+        "score": "11246"
+    },
+    {
+        "name": "amd 15d8:c9",
+        "score": "11211"
+    },
+    {
+        "name": "radeon rx550/550 series",
+        "score": "11208"
+    },
+    {
+        "name": "nvidia geforce gtx 760 (192 bit)",
+        "score": "11206"
+    },
+    {
+        "name": "tesla k10.g1.8gb",
+        "score": "11185"
+    },
+    {
+        "name": "nvidia quadro p600",
+        "score": "11181"
+    },
+    {
+        "name": "quadro k5000",
+        "score": "11156"
+    },
+    {
+        "name": "nvidia geforce gtx 660",
+        "score": "11141"
+    },
+    {
+        "name": "geforce gtx 560 ti",
+        "score": "11117"
+    },
+    {
+        "name": "nvidia geforce gtx 960m",
+        "score": "11065"
+    },
+    {
+        "name": "tesla c2050",
+        "score": "11024"
+    },
+    {
+        "name": "quadro k2200",
+        "score": "10960"
+    },
+    {
+        "name": "unknown amd gpu",
+        "score": "10943"
+    },
+    {
+        "name": "geforce gtx 675mx",
+        "score": "10835"
+    },
+    {
+        "name": "quadro k5100m",
+        "score": "10835"
+    },
+    {
+        "name": "amd radeon rx vega10 unknown prototype compute engine",
+        "score": "10818"
+    },
+    {
+        "name": "radeon(tm) rx 550",
+        "score": "10775"
+    },
+    {
+        "name": "intel(r) iris(r) xe graphics [0x9a49]",
+        "score": "10775"
+    },
+    {
+        "name": "nvidia geforce gtx 860m",
+        "score": "10757"
+    },
+    {
+        "name": "geforce mx330",
+        "score": "10726"
+    },
+    {
+        "name": "geforce gtx 470",
+        "score": "10598"
+    },
+    {
+        "name": "nvidia quadro m1200",
+        "score": "10582"
+    },
+    {
+        "name": "amd 15d8:d9",
+        "score": "10497"
+    },
+    {
+        "name": "geforce gtx 960m",
+        "score": "10470"
+    },
+    {
+        "name": "amd radeon pro 450 compute engine",
+        "score": "10443"
+    },
+    {
+        "name": "intel(r) graphics [0x46a8]",
+        "score": "10409"
+    },
+    {
+        "name": "amd radeon(tm) 540",
+        "score": "10366"
+    },
+    {
+        "name": "amd radeon (tm) rx 640",
+        "score": "10327"
+    },
+    {
+        "name": "quadro p600",
+        "score": "10324"
+    },
+    {
+        "name": "amd firepro w5000",
+        "score": "10320"
+    },
+    {
+        "name": "ati radeon r9 m370x compute engine",
+        "score": "10272"
+    },
+    {
+        "name": "amd radeon (tm) r9 m375",
+        "score": "10167"
+    },
+    {
+        "name": "amd radeon(tm) rx vega11 graphics",
+        "score": "10164"
+    },
+    {
+        "name": "amd radeon hd verde pro prototype compute engine",
+        "score": "10137"
+    },
+    {
+        "name": "amd radeon pro wx 2100",
+        "score": "10122"
+    },
+    {
+        "name": "quadro 6000",
+        "score": "10019"
+    },
+    {
+        "name": "nvidia geforce gt 1030",
+        "score": "9995"
+    },
+    {
+        "name": "geforce gtx 860m",
+        "score": "9965"
+    },
+    {
+        "name": "amd radeon(tm) rx vega 10 graphics",
+        "score": "9958"
+    },
+    {
+        "name": "amd radeon(tm) rx 540",
+        "score": "9938"
+    },
+    {
+        "name": "nvidia geforce gtx 750",
+        "score": "9922"
+    },
+    {
+        "name": "amd radeon r9 m370x compute engine",
+        "score": "9882"
+    },
+    {
+        "name": "amd radeon 550x",
+        "score": "9874"
+    },
+    {
+        "name": "amd radeon pro wx3200 graphics",
+        "score": "9869"
+    },
+    {
+        "name": "quadro k4100m",
+        "score": "9810"
+    },
+    {
+        "name": "geforce gt 1030",
+        "score": "9776"
+    },
+    {
+        "name": "amd radeon (tm) r9 350",
+        "score": "9759"
+    },
+    {
+        "name": "ati radeon pro 450 compute engine",
+        "score": "9754"
+    },
+    {
+        "name": "nvidia geforce mx150",
+        "score": "9723"
+    },
+    {
+        "name": "tesla c2070",
+        "score": "9716"
+    },
+    {
+        "name": "amd radeon pro wx 3100",
+        "score": "9655"
+    },
+    {
+        "name": "amd radeon r7 200 series",
+        "score": "9586"
+    },
+    {
+        "name": "geforce gtx 850m",
+        "score": "9586"
+    },
+    {
+        "name": "quadro m1200",
+        "score": "9571"
+    },
+    {
+        "name": "nvidia geforce gtx 850m",
+        "score": "9535"
+    },
+    {
+        "name": "amd radeon(tm) vega 10 graphics",
+        "score": "9521"
+    },
+    {
+        "name": "amd radeon r7 250 series",
+        "score": "9500"
+    },
+    {
+        "name": "geforce gtx 950m",
+        "score": "9464"
+    },
+    {
+        "name": "amd radeont rx 640",
+        "score": "9428"
+    },
+    {
+        "name": "nvidia geforce gtx 650 ti boost",
+        "score": "9409"
+    },
+    {
+        "name": "nvidia geforce gtx 950m",
+        "score": "9408"
+    },
+    {
+        "name": "mali g715 immortalis mc11 r1p2",
+        "score": "9385"
+    },
+    {
+        "name": "amd radeon r9 m370x",
+        "score": "9364"
+    },
+    {
+        "name": "amd 15d8:cb",
+        "score": "9362"
+    },
+    {
+        "name": "radeon 550x series",
+        "score": "9351"
+    },
+    {
+        "name": "geforce gtx 750",
+        "score": "9346"
+    },
+    {
+        "name": "amd radeon r7 450",
+        "score": "9335"
+    },
+    {
+        "name": "nvidia geforce mx330",
+        "score": "9325"
+    },
+    {
+        "name": "amd radeon r7 350 series",
+        "score": "9309"
+    },
+    {
+        "name": "amd radeon (tm) r9 m375x",
+        "score": "9271"
+    },
+    {
+        "name": "geforce mx150",
+        "score": "9261"
+    },
+    {
+        "name": "intel(r) graphics gen12lp [0x9a49]",
+        "score": "9252"
+    },
+    {
+        "name": "amd radeon(tm) vega 9 graphics",
+        "score": "9214"
+    },
+    {
+        "name": "intel(r) iris(tm) pro graphics p580",
+        "score": "9182"
+    },
+    {
+        "name": "geforce gtx 650 ti boost",
+        "score": "9128"
+    },
+    {
+        "name": "tesla m10",
+        "score": "9074"
+    },
+    {
+        "name": "amd radeon hd 8870m",
+        "score": "9065"
+    },
+    {
+        "name": "nvidia geforce mx250",
+        "score": "8946"
+    },
+    {
+        "name": "geforce gtx 560",
+        "score": "8918"
+    },
+    {
+        "name": "geforce gtx 465",
+        "score": "8895"
+    },
+    {
+        "name": "nvidia quadro m1000m",
+        "score": "8849"
+    },
+    {
+        "name": "geforce mx250",
+        "score": "8848"
+    },
+    {
+        "name": "radeon(tm) 540 graphics",
+        "score": "8846"
+    },
+    {
+        "name": "amd radeon (tm) r9 m360",
+        "score": "8820"
+    },
+    {
+        "name": "quadro m2000m",
+        "score": "8776"
+    },
+    {
+        "name": "amd radeon pro 450",
+        "score": "8734"
+    },
+    {
+        "name": "amd radeon(tm) vega 8 graphics",
+        "score": "8695"
+    },
+    {
+        "name": "quadro k1200",
+        "score": "8665"
+    },
+    {
+        "name": "intel(r) iris(r) pro graphics 580",
+        "score": "8604"
+    },
+    {
+        "name": "amd radeon hd venus xtx prototype compute engine",
+        "score": "8489"
+    },
+    {
+        "name": "intel(r) graphics [0xa780]",
+        "score": "8484"
+    },
+    {
+        "name": "geforce gtx 770m",
+        "score": "8475"
+    },
+    {
+        "name": "ati radeon hd verde pro prototype compute engine",
+        "score": "8464"
+    },
+    {
+        "name": "quadro m1000m",
+        "score": "8335"
+    },
+    {
+        "name": "amd radeon(tm) 540x",
+        "score": "8254"
+    },
+    {
+        "name": "radeon (tm) rx 550x",
+        "score": "8246"
+    },
+    {
+        "name": "samsung xclipse 920",
+        "score": "8176"
+    },
+    {
+        "name": "geforce 945m",
+        "score": "8099"
+    },
+    {
+        "name": "quadro m620",
+        "score": "8036"
+    },
+    {
+        "name": "nvidia geforce gtx 650 ti",
+        "score": "8021"
+    },
+    {
+        "name": "geforce gtx 460",
+        "score": "7977"
+    },
+    {
+        "name": "radeon 540x series",
+        "score": "7928"
+    },
+    {
+        "name": "geforce gtx 650 ti",
+        "score": "7842"
+    },
+    {
+        "name": "intel(r) raptorlake s mobile graphics controller",
+        "score": "7836"
+    },
+    {
+        "name": "amd radeon r9 m200x series",
+        "score": "7827"
+    },
+    {
+        "name": "amd radeon(tm) vega 8 mobile graphics",
+        "score": "7782"
+    },
+    {
+        "name": "amd radeon (tm) r7 350",
+        "score": "7652"
+    },
+    {
+        "name": "radeon (tm) pro wx 4130 graphics",
+        "score": "7533"
+    },
+    {
+        "name": "amd radeon hd 8700m series",
+        "score": "7496"
+    },
+    {
+        "name": "nvidia geforce gpu",
+        "score": "7483"
+    },
+    {
+        "name": "intel(r) iris(r) plus graphics 645",
+        "score": "7427"
+    },
+    {
+        "name": "amd radeon (tm) r7 m370",
+        "score": "7398"
+    },
+    {
+        "name": "intel(r) iris(r) plus graphics 655",
+        "score": "7393"
+    },
+    {
+        "name": "intel(r) iris(r) plus graphics",
+        "score": "7381"
+    },
+    {
+        "name": "radeon 500 series",
+        "score": "7370"
+    },
+    {
+        "name": "geforce mx230",
+        "score": "7352"
+    },
+    {
+        "name": "intel(r) uhd graphics 770",
+        "score": "7323"
+    },
+    {
+        "name": "amd radeon hd chelsea pro prototype compute engine",
+        "score": "7269"
+    },
+    {
+        "name": "intel(r) iris(r) graphics 550",
+        "score": "7221"
+    },
+    {
+        "name": "amd radeon(tm) 540 graphics",
+        "score": "7196"
+    },
+    {
+        "name": "geforce gtx 765m",
+        "score": "7152"
+    },
+    {
+        "name": "intel(r) uhd graphics [0x9a78]",
+        "score": "7144"
+    },
+    {
+        "name": "amd radeon(tm) vega 6 graphics",
+        "score": "7075"
+    },
+    {
+        "name": "amd firepro w5170m",
+        "score": "7053"
+    },
+    {
+        "name": "amd radeon r5 435",
+        "score": "7050"
+    },
+    {
+        "name": "quadro p520",
+        "score": "6973"
+    },
+    {
+        "name": "amd radeon r7 graphics + r7 200 dual graphics",
+        "score": "6922"
+    },
+    {
+        "name": "amd radeon(tm) 740m",
+        "score": "6911"
+    },
+    {
+        "name": "nvidia quadro k4000",
+        "score": "6816"
+    },
+    {
+        "name": "quadro 5000",
+        "score": "6793"
+    },
+    {
+        "name": "radeon (tm) 535",
+        "score": "6758"
+    },
+    {
+        "name": "intel(r) uhd graphics 750",
+        "score": "6718"
+    },
+    {
+        "name": "intel(r) iris(r) plus graphics 650",
+        "score": "6712"
+    },
+    {
+        "name": "radeon pro wx 3100",
+        "score": "6708"
+    },
+    {
+        "name": "amd radeon r7 m370",
+        "score": "6700"
+    },
+    {
+        "name": "amd radeon hd 5800 series",
+        "score": "6674"
+    },
+    {
+        "name": "renoir",
+        "score": "6666"
+    },
+    {
+        "name": "intel(r) alderlake s mobile graphics controller",
+        "score": "6637"
+    },
+    {
+        "name": "geforce gtx 670m",
+        "score": "6636"
+    },
+    {
+        "name": "nvidia geforce mx130",
+        "score": "6598"
+    },
+    {
+        "name": "intel(r) iris(tm) plus graphics 655",
+        "score": "6564"
+    },
+    {
+        "name": "quadro k4000",
+        "score": "6556"
+    },
+    {
+        "name": "quadro k620",
+        "score": "6545"
+    },
+    {
+        "name": "intel(r) iris(tm) plus graphics 645",
+        "score": "6491"
+    },
+    {
+        "name": "amd radeon r7 m460",
+        "score": "6453"
+    },
+    {
+        "name": "intel(r) iris(tm) plus graphics 650",
+        "score": "6444"
+    },
+    {
+        "name": "geforce mx130",
+        "score": "6423"
+    },
+    {
+        "name": "geforce gpu",
+        "score": "6416"
+    },
+    {
+        "name": "quadro k3100m",
+        "score": "6383"
+    },
+    {
+        "name": "intel(r) iris(r) plus graphics 640",
+        "score": "6373"
+    },
+    {
+        "name": "amd radeon hd 6900 series",
+        "score": "6361"
+    },
+    {
+        "name": "amd radeon r7 m265 series",
+        "score": "6357"
+    },
+    {
+        "name": "amd radeon(tm) r7 200 series graphics",
+        "score": "6336"
+    },
+    {
+        "name": "amd radeon(tm) 535",
+        "score": "6333"
+    },
+    {
+        "name": "nvidia geforce mx230",
+        "score": "6308"
+    },
+    {
+        "name": "amd radeon r7 graphics",
+        "score": "6301"
+    },
+    {
+        "name": "intel(r) uhd graphics p630 [0x3e96]",
+        "score": "6248"
+    },
+    {
+        "name": "radeon (tm) 530",
+        "score": "6246"
+    },
+    {
+        "name": "amd radeon hd 8750m",
+        "score": "6235"
+    },
+    {
+        "name": "nvidia geforce 940mx",
+        "score": "6147"
+    },
+    {
+        "name": "intel(r) iris(r) graphics 540",
+        "score": "6126"
+    },
+    {
+        "name": "amd radeon vega 11 compute engine",
+        "score": "6126"
+    },
+    {
+        "name": "geforce 940mx",
+        "score": "6119"
+    },
+    {
+        "name": "amd radeon hd 8600/8700m",
+        "score": "6113"
+    },
+    {
+        "name": "nvidia geforce gtx 745",
+        "score": "6090"
+    },
+    {
+        "name": "intel(r) iris(tm) graphics 650",
+        "score": "6046"
+    },
+    {
+        "name": "amd radeon (tm) r7 m350",
+        "score": "6026"
+    },
+    {
+        "name": "intel(r) uhd graphics",
+        "score": "6023"
+    },
+    {
+        "name": "nvidia geforce 940m",
+        "score": "6014"
+    },
+    {
+        "name": "quadro k620m",
+        "score": "5984"
+    },
+    {
+        "name": "radeon (tm) 520",
+        "score": "5970"
+    },
+    {
+        "name": "amd radeon vega 8 compute engine",
+        "score": "5963"
+    },
+    {
+        "name": "geforce gtx 670mx",
+        "score": "5926"
+    },
+    {
+        "name": "intel(r) iris(tm) graphics 550",
+        "score": "5897"
+    },
+    {
+        "name": "amd radeon r5 m330",
+        "score": "5887"
+    },
+    {
+        "name": "amd radeon r5 430",
+        "score": "5886"
+    },
+    {
+        "name": "amd radeon r5 m445 series",
+        "score": "5875"
+    },
+    {
+        "name": "intel(r) iris(tm) plus graphics 640",
+        "score": "5871"
+    },
+    {
+        "name": "quadro m500m",
+        "score": "5869"
+    },
+    {
+        "name": "amd radeon r7 430",
+        "score": "5868"
+    },
+    {
+        "name": "geforce gtx 550 ti",
+        "score": "5834"
+    },
+    {
+        "name": "quadro m520",
+        "score": "5826"
+    },
+    {
+        "name": "amd radeon r7 a360",
+        "score": "5809"
+    },
+    {
+        "name": "amd radeon r5 m200 series",
+        "score": "5794"
+    },
+    {
+        "name": "quadro p500",
+        "score": "5768"
+    },
+    {
+        "name": "mali g710 mc10 r0p0",
+        "score": "5746"
+    },
+    {
+        "name": "nvidia geforce 840m",
+        "score": "5736"
+    },
+    {
+        "name": "quadro k4000m",
+        "score": "5720"
+    },
+    {
+        "name": "intel(r) uhd graphics 730",
+        "score": "5719"
+    },
+    {
+        "name": "amd radeon hd 7700m series",
+        "score": "5689"
+    },
+    {
+        "name": "geforce 940m",
+        "score": "5660"
+    },
+    {
+        "name": "mali g78 r0p1",
+        "score": "5634"
+    },
+    {
+        "name": "geforce gtx880m",
+        "score": "5622"
+    },
+    {
+        "name": "intel(r) hd graphics gen9",
+        "score": "5603"
+    },
+    {
+        "name": "amd radeon r7 m260 series",
+        "score": "5599"
+    },
+    {
+        "name": "radeon (tm) r7 m440",
+        "score": "5598"
+    },
+    {
+        "name": "geforce 840a",
+        "score": "5596"
+    },
+    {
+        "name": "intel(r) iris(tm) graphics 540",
+        "score": "5593"
+    },
+    {
+        "name": "intel(r) uhd graphics p630",
+        "score": "5591"
+    },
+    {
+        "name": "geforce 840m",
+        "score": "5584"
+    },
+    {
+        "name": "geforce gtx 760m",
+        "score": "5539"
+    },
+    {
+        "name": "amd radeon r5 graphics",
+        "score": "5533"
+    },
+    {
+        "name": "radeon 530 series",
+        "score": "5529"
+    },
+    {
+        "name": "intel(r) gen12 mobile graphics controller",
+        "score": "5521"
+    },
+    {
+        "name": "nvidia geforce 930mx",
+        "score": "5519"
+    },
+    {
+        "name": "quadro p400",
+        "score": "5512"
+    },
+    {
+        "name": "amd radeon hd 8670m",
+        "score": "5497"
+    },
+    {
+        "name": "amd radeon(tm) r5 340x",
+        "score": "5478"
+    },
+    {
+        "name": "amd radeon hd 8600m series",
+        "score": "5466"
+    },
+    {
+        "name": "amd radeon r7 m360",
+        "score": "5454"
+    },
+    {
+        "name": "radeon(tm) 520",
+        "score": "5429"
+    },
+    {
+        "name": "radeon (tm) hd 8670m",
+        "score": "5396"
+    },
+    {
+        "name": "amd radeon r7 m440",
+        "score": "5392"
+    },
+    {
+        "name": "geforce 930mx",
+        "score": "5388"
+    },
+    {
+        "name": "radeon(tm) 530",
+        "score": "5371"
+    },
+    {
+        "name": "amd radeon (tm) 535dx",
+        "score": "5369"
+    },
+    {
+        "name": "intel(r) uhd graphics 630 [0x3e91]",
+        "score": "5363"
+    },
+    {
+        "name": "amd firepro w4100",
+        "score": "5360"
+    },
+    {
+        "name": "radeon 520",
+        "score": "5352"
+    },
+    {
+        "name": "radeon (tm) r5 m430",
+        "score": "5332"
+    },
+    {
+        "name": "amd radeon 610 series",
+        "score": "5329"
+    },
+    {
+        "name": "geforce 930a",
+        "score": "5317"
+    },
+    {
+        "name": "amd radeon (tm) r5 m335",
+        "score": "5287"
+    },
+    {
+        "name": "amd radeon(tm) 530 series",
+        "score": "5285"
+    },
+    {
+        "name": "amd firepro w4100 graphics adapter",
+        "score": "5243"
+    },
+    {
+        "name": "intel(r) graphics [0x9b41]",
+        "score": "5242"
+    },
+    {
+        "name": "amd radeon r7 240",
+        "score": "5234"
+    },
+    {
+        "name": "amd firepro w5130m",
+        "score": "5224"
+    },
+    {
+        "name": "amd radeon hd 8500 series",
+        "score": "5216"
+    },
+    {
+        "name": "intel(r) uhd graphics 620 [0x3ea0]",
+        "score": "5199"
+    },
+    {
+        "name": "amd radeon r7 m340",
+        "score": "5198"
+    },
+    {
+        "name": "intel(r) iris(tm) plus graphics",
+        "score": "5191"
+    },
+    {
+        "name": "amd firepro (tm) w4190m",
+        "score": "5185"
+    },
+    {
+        "name": "amd radeon(tm) r8 m445dx",
+        "score": "5183"
+    },
+    {
+        "name": "geforce 930m",
+        "score": "5182"
+    },
+    {
+        "name": "amd radeon(tm) r5 m430",
+        "score": "5158"
+    },
+    {
+        "name": "quadro 4000m",
+        "score": "5135"
+    },
+    {
+        "name": "amd radeon r7 240 series",
+        "score": "5125"
+    },
+    {
+        "name": "amd radeon(tm) r5 240",
+        "score": "5109"
+    },
+    {
+        "name": "amd radeon (tm) r5 m330",
+        "score": "5103"
+    },
+    {
+        "name": "amd radeon (tm) hd 8500m/8700m",
+        "score": "5094"
+    },
+    {
+        "name": "mali g715 r1p2",
+        "score": "5072"
+    },
+    {
+        "name": "amd radeon (tm) r5 340",
+        "score": "5064"
+    },
+    {
+        "name": "amd radeon(tm) 530",
+        "score": "5045"
+    },
+    {
+        "name": "amd radeon r5 m230 series",
+        "score": "5042"
+    },
+    {
+        "name": "intel(r) iris(tm) pro graphics 5200",
+        "score": "5029"
+    },
+    {
+        "name": "intel(r) hd graphics 620 [0x5916]",
+        "score": "5022"
+    },
+    {
+        "name": "intel(r) graphics [0x5917]",
+        "score": "4994"
+    },
+    {
+        "name": "amd radeon (tm) r7 m360",
+        "score": "4984"
+    },
+    {
+        "name": "amd radeon(tm) r7 graphics",
+        "score": "4970"
+    },
+    {
+        "name": "geforce gt 755m",
+        "score": "4963"
+    },
+    {
+        "name": "intel(r) hd graphics p630",
+        "score": "4962"
+    },
+    {
+        "name": "amd radeon (tm) r5 m430",
+        "score": "4956"
+    },
+    {
+        "name": "nvidia geforce gtx 645",
+        "score": "4941"
+    },
+    {
+        "name": "radeon (tm) rx 550",
+        "score": "4938"
+    },
+    {
+        "name": "nvidia geforce 930m",
+        "score": "4917"
+    },
+    {
+        "name": "amd radeon hd 8500m series",
+        "score": "4904"
+    },
+    {
+        "name": "quadro 4000",
+        "score": "4897"
+    },
+    {
+        "name": "ati firepro v7800 (firegl) graphics adapter",
+        "score": "4894"
+    },
+    {
+        "name": "intel(r) graphics gen9 [0x5916]",
+        "score": "4884"
+    },
+    {
+        "name": "amd radeon (tm) r7 m340",
+        "score": "4870"
+    },
+    {
+        "name": "geforce gts 450",
+        "score": "4830"
+    },
+    {
+        "name": "amd radeon hd 6800 series",
+        "score": "4816"
+    },
+    {
+        "name": "amd firepro w4190m",
+        "score": "4756"
+    },
+    {
+        "name": "qualcomm adreno(tm)",
+        "score": "4719"
+    },
+    {
+        "name": "amd radeon(tm) r5 m330",
+        "score": "4703"
+    },
+    {
+        "name": "intel(r) hd graphics 520 [0x1916]",
+        "score": "4695"
+    },
+    {
+        "name": "intel(r) uhd graphics 630",
+        "score": "4686"
+    },
+    {
+        "name": "intel(r) graphics [0x3ea0]",
+        "score": "4685"
+    },
+    {
+        "name": "geforce gtx 560m",
+        "score": "4635"
+    },
+    {
+        "name": "amd radeon hd 8790m",
+        "score": "4629"
+    },
+    {
+        "name": "intel(r) hd graphics p530",
+        "score": "4623"
+    },
+    {
+        "name": "intel(r) iris(tm) graphics 5100",
+        "score": "4623"
+    },
+    {
+        "name": "amd radeon r7 m260",
+        "score": "4606"
+    },
+    {
+        "name": "intel(r) hd graphics 630",
+        "score": "4593"
+    },
+    {
+        "name": "intel(r) uhd graphics 620",
+        "score": "4559"
+    },
+    {
+        "name": "iris pro",
+        "score": "4530"
+    },
+    {
+        "name": "quadro k2100m",
+        "score": "4524"
+    },
+    {
+        "name": "intel(r) iris(tm) pro graphics 6200",
+        "score": "4500"
+    },
+    {
+        "name": "ati firepro v (firegl v) graphics adapter",
+        "score": "4495"
+    },
+    {
+        "name": "amd radeon r5 m255",
+        "score": "4447"
+    },
+    {
+        "name": "nvidia geforce gtx 650",
+        "score": "4445"
+    },
+    {
+        "name": "geforce gtx 650",
+        "score": "4423"
+    },
+    {
+        "name": "intel(r) hd graphics 530",
+        "score": "4405"
+    },
+    {
+        "name": "mali g77 mc9 r0p1",
+        "score": "4387"
+    },
+    {
+        "name": "radeon(tm) vega 3 graphics",
+        "score": "4342"
+    },
+    {
+        "name": "geforce 830m",
+        "score": "4340"
+    },
+    {
+        "name": "nvidia geforce 830a",
+        "score": "4315"
+    },
+    {
+        "name": "geforce gt 750m",
+        "score": "4280"
+    },
+    {
+        "name": "geforce mx110",
+        "score": "4252"
+    },
+    {
+        "name": "amd radeon hd 8500m",
+        "score": "4249"
+    },
+    {
+        "name": "nvidia geforce mx110",
+        "score": "4235"
+    },
+    {
+        "name": "geforce gt 740",
+        "score": "4189"
+    },
+    {
+        "name": "quadro k3000m",
+        "score": "4183"
+    },
+    {
+        "name": "nvidia geforce gt 740",
+        "score": "4116"
+    },
+    {
+        "name": "intel(r) hd graphics 620",
+        "score": "4109"
+    },
+    {
+        "name": "amd radeon(tm) 610m",
+        "score": "4087"
+    },
+    {
+        "name": "intel(r) lakefield mobile graphics controller",
+        "score": "4083"
+    },
+    {
+        "name": "nvidia quadro k2000",
+        "score": "4071"
+    },
+    {
+        "name": "nvidia geforce 920mx",
+        "score": "4063"
+    },
+    {
+        "name": "nvidia geforce 830m",
+        "score": "4061"
+    },
+    {
+        "name": "mali g77 r0p1",
+        "score": "4060"
+    },
+    {
+        "name": "geforce 920mx",
+        "score": "4028"
+    },
+    {
+        "name": "intel(r) hd graphics 520",
+        "score": "4019"
+    },
+    {
+        "name": "geforce gtx 460m",
+        "score": "4012"
+    },
+    {
+        "name": "geforce gtx 660m",
+        "score": "4002"
+    },
+    {
+        "name": "kbl graphics",
+        "score": "3985"
+    },
+    {
+        "name": "amd radeon hd 6850 x2",
+        "score": "3977"
+    },
+    {
+        "name": "mali g710 r0p0",
+        "score": "3951"
+    },
+    {
+        "name": "amd radeon (tm) r5 m315",
+        "score": "3930"
+    },
+    {
+        "name": "amd radeon(tm) vega 3 graphics",
+        "score": "3926"
+    },
+    {
+        "name": "quadro k2000",
+        "score": "3921"
+    },
+    {
+        "name": "quadro 2000",
+        "score": "3901"
+    },
+    {
+        "name": "geforce gt 650m",
+        "score": "3861"
+    },
+    {
+        "name": "iris",
+        "score": "3844"
+    },
+    {
+        "name": "geforce gt 740m",
+        "score": "3803"
+    },
+    {
+        "name": "quadro 3000m",
+        "score": "3789"
+    },
+    {
+        "name": "amd firepro w2100",
+        "score": "3770"
+    },
+    {
+        "name": "geforce gt 640",
+        "score": "3754"
+    },
+    {
+        "name": "geforce gt 545",
+        "score": "3691"
+    },
+    {
+        "name": "mali g610 mc6 r0p0",
+        "score": "3680"
+    },
+    {
+        "name": "nvidia geforce gt 640",
+        "score": "3679"
+    },
+    {
+        "name": "mali g76 r0p0",
+        "score": "3654"
+    },
+    {
+        "name": "amd radeon r6 graphics",
+        "score": "3626"
+    },
+    {
+        "name": "amd firepro w2100 graphics adapter",
+        "score": "3618"
+    },
+    {
+        "name": "skl graphics",
+        "score": "3579"
+    },
+    {
+        "name": "amd radeon r5 m335",
+        "score": "3576"
+    },
+    {
+        "name": "geforce 920m",
+        "score": "3576"
+    },
+    {
+        "name": "amd radeon hd 6900m series",
+        "score": "3559"
+    },
+    {
+        "name": "nvidia geforce gt 730",
+        "score": "3553"
+    },
+    {
+        "name": "amd radeon hd 6700 series",
+        "score": "3505"
+    },
+    {
+        "name": "amd radeon hd 5700 series",
+        "score": "3481"
+    },
+    {
+        "name": "mali g610 mc4 r0p0",
+        "score": "3480"
+    },
+    {
+        "name": "intel(r) hd graphics 6000",
+        "score": "3449"
+    },
+    {
+        "name": "amd radeon hd 6770",
+        "score": "3390"
+    },
+    {
+        "name": "intel(r) hd graphics p4600",
+        "score": "3333"
+    },
+    {
+        "name": "mali lodx r0p0",
+        "score": "3321"
+    },
+    {
+        "name": "quadro 2000m",
+        "score": "3316"
+    },
+    {
+        "name": "geforce gt 730m",
+        "score": "3292"
+    },
+    {
+        "name": "maleoon 910",
+        "score": "3291"
+    },
+    {
+        "name": "mali g610 r0p0",
+        "score": "3285"
+    },
+    {
+        "name": "hd graphics 5000",
+        "score": "3279"
+    },
+    {
+        "name": "intel(r) gen8 hd graphics neo",
+        "score": "3277"
+    },
+    {
+        "name": "intel(r) uhd graphics 617",
+        "score": "3269"
+    },
+    {
+        "name": "intel(r) uhd graphics 615",
+        "score": "3243"
+    },
+    {
+        "name": "intel(r) hd graphics 4600",
+        "score": "3215"
+    },
+    {
+        "name": "amd radeon(tm) vega 2 graphics",
+        "score": "3208"
+    },
+    {
+        "name": "amd radeon(tm) r6 graphics",
+        "score": "3197"
+    },
+    {
+        "name": "geforce gt 640m",
+        "score": "3191"
+    },
+    {
+        "name": "mesa intel(r) uhd graphics (cml gt2)",
+        "score": "3132"
+    },
+    {
+        "name": "intel(r) hd graphics 5000",
+        "score": "3075"
+    },
+    {
+        "name": "geforce gt 745m",
+        "score": "3036"
+    },
+    {
+        "name": "intel(r) hd graphics 615",
+        "score": "3029"
+    },
+    {
+        "name": "intel(r) iris(tm) graphics 6100",
+        "score": "3009"
+    },
+    {
+        "name": "amd radeon (tm) r6 graphics",
+        "score": "2974"
+    },
+    {
+        "name": "amd radeon r6",
+        "score": "2934"
+    },
+    {
+        "name": "geforce gt 555m",
+        "score": "2924"
+    },
+    {
+        "name": "geforce gt 730",
+        "score": "2884"
+    },
+    {
+        "name": "amd mobility radeon hd 5800 series",
+        "score": "2852"
+    },
+    {
+        "name": "amd radeon(tm) r5 graphics",
+        "score": "2849"
+    },
+    {
+        "name": "intel(r) hd graphics 515",
+        "score": "2849"
+    },
+    {
+        "name": "quadro k2000m",
+        "score": "2831"
+    },
+    {
+        "name": "quadro k1100m",
+        "score": "2791"
+    },
+    {
+        "name": "mali g57 mc5 r0p0",
+        "score": "2725"
+    },
+    {
+        "name": "intel(r) uhd graphics 610",
+        "score": "2697"
+    },
+    {
+        "name": "geforce 820m",
+        "score": "2669"
+    },
+    {
+        "name": "geforce gt 720m",
+        "score": "2620"
+    },
+    {
+        "name": "geforce gt 440",
+        "score": "2612"
+    },
+    {
+        "name": "intel(r) gen9 hd graphics neo",
+        "score": "2594"
+    },
+    {
+        "name": "intel(r) hd graphics gen11",
+        "score": "2557"
+    },
+    {
+        "name": "intel(r) uhd graphics 710",
+        "score": "2520"
+    },
+    {
+        "name": "geforce gt 635m",
+        "score": "2519"
+    },
+    {
+        "name": "mali g68 r1p1",
+        "score": "2519"
+    },
+    {
+        "name": "intel(r) hd graphics 510",
+        "score": "2490"
+    },
+    {
+        "name": "geforce gt 820m",
+        "score": "2473"
+    },
+    {
+        "name": "intel(r) hd graphics 610",
+        "score": "2472"
+    },
+    {
+        "name": "nvs 5400m",
+        "score": "2457"
+    },
+    {
+        "name": "geforce gt 630",
+        "score": "2415"
+    },
+    {
+        "name": "geforce gt 645m",
+        "score": "2413"
+    },
+    {
+        "name": "geforce 710m",
+        "score": "2391"
+    },
+    {
+        "name": "geforce gt 630m",
+        "score": "2347"
+    },
+    {
+        "name": "mali g68 mc4 r1p1",
+        "score": "2341"
+    },
+    {
+        "name": "geforce gt 550m",
+        "score": "2339"
+    },
+    {
+        "name": "nvidia geforce gt 630",
+        "score": "2325"
+    },
+    {
+        "name": "amd radeon (tm) r5 graphics",
+        "score": "2316"
+    },
+    {
+        "name": "geforce gt 640m le",
+        "score": "2296"
+    },
+    {
+        "name": "intel(r) hd graphics 5500",
+        "score": "2277"
+    },
+    {
+        "name": "geforce gt 430",
+        "score": "2244"
+    },
+    {
+        "name": "nvs 5200m",
+        "score": "2231"
+    },
+    {
+        "name": "geforce gt 530",
+        "score": "2202"
+    },
+    {
+        "name": "intel(r) hd graphics 4400",
+        "score": "2172"
+    },
+    {
+        "name": "amd radeon(tm) r4 graphics",
+        "score": "2170"
+    },
+    {
+        "name": "nvidia geforce gt 720",
+        "score": "2128"
+    },
+    {
+        "name": "geforce gt 540m",
+        "score": "2116"
+    },
+    {
+        "name": "amd radeon hd 7660d",
+        "score": "2115"
+    },
+    {
+        "name": "quadro 1000m",
+        "score": "2075"
+    },
+    {
+        "name": "geforce gt 620m",
+        "score": "2072"
+    },
+    {
+        "name": "mali g57 r0p0",
+        "score": "2068"
+    },
+    {
+        "name": "amd radeon hd 8670d",
+        "score": "2066"
+    },
+    {
+        "name": "quadro 600",
+        "score": "2023"
+    },
+    {
+        "name": "geforce gt625m",
+        "score": "1994"
+    },
+    {
+        "name": "grid k1",
+        "score": "1976"
+    },
+    {
+        "name": "quadro k610m",
+        "score": "1937"
+    },
+    {
+        "name": "nvidia geforce gt 710",
+        "score": "1936"
+    },
+    {
+        "name": "geforce gt 525m",
+        "score": "1921"
+    },
+    {
+        "name": "mali g57 mc4 r0p0",
+        "score": "1913"
+    },
+    {
+        "name": "mali g76 mc4 r0p0",
+        "score": "1895"
+    },
+    {
+        "name": "geforce gt 710",
+        "score": "1894"
+    },
+    {
+        "name": "amd radeon hd 6670",
+        "score": "1884"
+    },
+    {
+        "name": "intel(r) hd graphics 4200",
+        "score": "1850"
+    },
+    {
+        "name": "ati radeon hd 5870",
+        "score": "1849"
+    },
+    {
+        "name": "geforce gt 425m",
+        "score": "1843"
+    },
+    {
+        "name": "mali g610 mc3 r0p0",
+        "score": "1832"
+    },
+    {
+        "name": "quadro k600",
+        "score": "1829"
+    },
+    {
+        "name": "amd radeon hd 8650g",
+        "score": "1828"
+    },
+    {
+        "name": "geforce 810a",
+        "score": "1828"
+    },
+    {
+        "name": "quadro k420",
+        "score": "1782"
+    },
+    {
+        "name": "amd radeon hd 7660g",
+        "score": "1768"
+    },
+    {
+        "name": "geforce gt 720",
+        "score": "1690"
+    },
+    {
+        "name": "intel(r) hd graphics 405",
+        "score": "1689"
+    },
+    {
+        "name": "ati firepro v4800 (firegl) graphics adapter",
+        "score": "1668"
+    },
+    {
+        "name": "amd radeon hd 5670",
+        "score": "1661"
+    },
+    {
+        "name": "nvs 510",
+        "score": "1655"
+    },
+    {
+        "name": "mali g57 mc3 r0p0",
+        "score": "1622"
+    },
+    {
+        "name": "quadro k1000m",
+        "score": "1620"
+    },
+    {
+        "name": "amd radeon hd 6700m series",
+        "score": "1587"
+    },
+    {
+        "name": "amd radeon(tm) hd 8610g",
+        "score": "1587"
+    },
+    {
+        "name": "amd radeon hd 7500 series",
+        "score": "1569"
+    },
+    {
+        "name": "amd radeon hd 6570",
+        "score": "1545"
+    },
+    {
+        "name": "intel(r) hd graphics 5300",
+        "score": "1524"
+    },
+    {
+        "name": "mali g72",
+        "score": "1506"
+    },
+    {
+        "name": "amd radeon hd 7570",
+        "score": "1505"
+    },
+    {
+        "name": "geforce gt 620",
+        "score": "1503"
+    },
+    {
+        "name": "amd radeon hd 7600 series",
+        "score": "1497"
+    },
+    {
+        "name": "amd radeon hd 8570d",
+        "score": "1487"
+    },
+    {
+        "name": "mali g76",
+        "score": "1479"
+    },
+    {
+        "name": "mali g71",
+        "score": "1463"
+    },
+    {
+        "name": "quadro 410",
+        "score": "1446"
+    },
+    {
+        "name": "intel(r) hd graphics 505",
+        "score": "1427"
+    },
+    {
+        "name": "amd radeon(tm) r3 graphics",
+        "score": "1419"
+    },
+    {
+        "name": "amd radeon hd 7570m/hd 7670m graphics",
+        "score": "1416"
+    },
+    {
+        "name": "amd radeon hd 7600m series",
+        "score": "1414"
+    },
+    {
+        "name": "amd radeon hd 7670m",
+        "score": "1406"
+    },
+    {
+        "name": "intel(r) uhd graphics 605",
+        "score": "1405"
+    },
+    {
+        "name": "amd radeon hd 5570",
+        "score": "1400"
+    },
+    {
+        "name": "amd radeon hd 7560d",
+        "score": "1392"
+    },
+    {
+        "name": "geforce gt 705",
+        "score": "1381"
+    },
+    {
+        "name": "amd radeon hd 6550d",
+        "score": "1363"
+    },
+    {
+        "name": "ati firepro 3800 (firegl) graphics adapter",
+        "score": "1350"
+    },
+    {
+        "name": "amd radeon 6600m and 6700m series",
+        "score": "1348"
+    },
+    {
+        "name": "geforce gt 625 (oem)",
+        "score": "1345"
+    },
+    {
+        "name": "ati radeon barts xt prototype",
+        "score": "1333"
+    },
+    {
+        "name": "mali g72 r0p1",
+        "score": "1318"
+    },
+    {
+        "name": "geforce 610m",
+        "score": "1311"
+    },
+    {
+        "name": "geforce gt 610",
+        "score": "1274"
+    },
+    {
+        "name": "amd radeon hd 6600a series",
+        "score": "1274"
+    },
+    {
+        "name": "amd radeon hd 8400 / r3 series",
+        "score": "1273"
+    },
+    {
+        "name": "mali g57 mc2 r0p1",
+        "score": "1263"
+    },
+    {
+        "name": "amd radeon(tm) hd 7650a graphics",
+        "score": "1261"
+    },
+    {
+        "name": "amd radeon hd 6500 series",
+        "score": "1256"
+    },
+    {
+        "name": "ati radeon hd 6970m",
+        "score": "1247"
+    },
+    {
+        "name": "geforce gt 520",
+        "score": "1243"
+    },
+    {
+        "name": "amd radeon hd 7690m",
+        "score": "1242"
+    },
+    {
+        "name": "amd radeon hd 8400",
+        "score": "1227"
+    },
+    {
+        "name": "amd radeon(tm) r2 graphics",
+        "score": "1226"
+    },
+    {
+        "name": "amd mobility radeon hd 5000",
+        "score": "1226"
+    },
+    {
+        "name": "amd radeon(tm) hd 8330e",
+        "score": "1214"
+    },
+    {
+        "name": "amd radeon(tm) hd 8280e",
+        "score": "1210"
+    },
+    {
+        "name": "amd radeon hd 7640g",
+        "score": "1202"
+    },
+    {
+        "name": "mali g72 mp3 r0p3",
+        "score": "1192"
+    },
+    {
+        "name": "amd mobility radeon hd 5570",
+        "score": "1185"
+    },
+    {
+        "name": "geforce gt 520m",
+        "score": "1182"
+    },
+    {
+        "name": "amd radeon hd 7500m/7600m series",
+        "score": "1174"
+    },
+    {
+        "name": "amd firepro m2000",
+        "score": "1171"
+    },
+    {
+        "name": "ati radeon hd 5770",
+        "score": "1165"
+    },
+    {
+        "name": "geforce gt 420",
+        "score": "1159"
+    },
+    {
+        "name": "mali g52",
+        "score": "1143"
+    },
+    {
+        "name": "intel(r) hd graphics",
+        "score": "1124"
+    },
+    {
+        "name": "amd mobility radeon hd 5000 series",
+        "score": "1107"
+    },
+    {
+        "name": "intel(r) hd graphics 400",
+        "score": "1090"
+    },
+    {
+        "name": "amd radeon hd 7570m",
+        "score": "1068"
+    },
+    {
+        "name": "amd radeon hd 8470d",
+        "score": "1061"
+    },
+    {
+        "name": "amd radeon hd 8330",
+        "score": "1058"
+    },
+    {
+        "name": "mali g57 mc2 r0p0",
+        "score": "1049"
+    },
+    {
+        "name": "geforce 410m",
+        "score": "1041"
+    },
+    {
+        "name": "intel(r) uhd graphics 600",
+        "score": "1039"
+    },
+    {
+        "name": "geforce gt 625",
+        "score": "1026"
+    },
+    {
+        "name": "mali t880",
+        "score": "1015"
+    },
+    {
+        "name": "amd radeon hd 7500/7600 series",
+        "score": "968"
+    },
+    {
+        "name": "mali g52 r1p0",
+        "score": "896"
+    },
+    {
+        "name": "amd radeon hd 8200 / r3 series",
+        "score": "889"
+    },
+    {
+        "name": "ati radeon hd 5750",
+        "score": "885"
+    },
+    {
+        "name": "amd radeon hd 6530d",
+        "score": "882"
+    },
+    {
+        "name": "mali g52 mc2 r1p0",
+        "score": "852"
+    },
+    {
+        "name": "amd radeon hd 6620g",
+        "score": "837"
+    },
+    {
+        "name": "intel(r) uhd graphics 600 [0x3185]",
+        "score": "822"
+    },
+    {
+        "name": "intel(r) hd graphics 500",
+        "score": "820"
+    },
+    {
+        "name": "amd radeon(tm) hd8490",
+        "score": "814"
+    },
+    {
+        "name": "mali g76 mc4",
+        "score": "813"
+    },
+    {
+        "name": "mali g71 r0p0",
+        "score": "803"
+    },
+    {
+        "name": "mali g57 r0p1",
+        "score": "798"
+    },
+    {
+        "name": "amd radeon hd 8470",
+        "score": "785"
+    },
+    {
+        "name": "geforce 510",
+        "score": "758"
+    },
+    {
+        "name": "amd radeon hd 7400m series",
+        "score": "756"
+    },
+    {
+        "name": "amd radeon hd 6470m",
+        "score": "755"
+    },
+    {
+        "name": "geforce gt 415m",
+        "score": "751"
+    },
+    {
+        "name": "amd radeon hd 6520g",
+        "score": "747"
+    },
+    {
+        "name": "amd radeon hd 7000 series",
+        "score": "746"
+    },
+    {
+        "name": "mali t760",
+        "score": "691"
+    },
+    {
+        "name": "amd radeon hd 6480g",
+        "score": "676"
+    },
+    {
+        "name": "amd radeon hd 7480d",
+        "score": "676"
+    },
+    {
+        "name": "amd radeon hd 7420g",
+        "score": "675"
+    },
+    {
+        "name": "amd radeon(tm) hd 7450a graphics",
+        "score": "668"
+    },
+    {
+        "name": "amd radeon hd 7400 series",
+        "score": "643"
+    },
+    {
+        "name": "amd radeon hd 6450",
+        "score": "642"
+    },
+    {
+        "name": "asus r5 230 series",
+        "score": "641"
+    },
+    {
+        "name": "amd radeon hd 7450",
+        "score": "637"
+    },
+    {
+        "name": "amd radeon r5 200 series",
+        "score": "633"
+    },
+    {
+        "name": "amd radeon hd 7450 graphics",
+        "score": "633"
+    },
+    {
+        "name": "ati radeon hd 6770m",
+        "score": "574"
+    },
+    {
+        "name": "amd radeon(tm) hd 6480g",
+        "score": "568"
+    },
+    {
+        "name": "hd graphics 4000",
+        "score": "539"
+    },
+    {
+        "name": "intel(r) hd graphics 4000",
+        "score": "538"
+    },
+    {
+        "name": "mali g72 mp3",
+        "score": "508"
+    },
+    {
+        "name": "ati radeon hd 6750m",
+        "score": "483"
+    },
+    {
+        "name": "amd radeon hd 7450m",
+        "score": "476"
+    },
+    {
+        "name": "mali g51",
+        "score": "436"
+    },
+    {
+        "name": "mali g52 r0p0",
+        "score": "434"
+    },
+    {
+        "name": "mali t860",
+        "score": "422"
+    },
+    {
+        "name": "amd radeon hd 5450",
+        "score": "409"
+    },
+    {
+        "name": "mali t628",
+        "score": "399"
+    },
+    {
+        "name": "amd radeon hd 7340 graphics",
+        "score": "361"
+    },
+    {
+        "name": "ati radeon hd 6630m",
+        "score": "328"
+    },
+    {
+        "name": "amd radeon hd 6310 graphics",
+        "score": "258"
+    },
+    {
+        "name": "mali t830",
+        "score": "257"
+    },
+    {
+        "name": "intel(r) hd graphics 2500",
+        "score": "250"
+    },
+    {
+        "name": "powervr bxm 8 256",
+        "score": "156"
+    },
+    {
+        "name": "microsoft basic render driver",
+        "score": "3"
+    },
+    {
+        "name": "qualcomm(r) adreno(tm) 8cx gen 3",
+        "score": "3"
+    },
+    {
+        "name": "qualcomm(r) adreno(tm) 680 gpu",
+        "score": "3"
+    },
+    {
+        "name": "qualcomm(r) adreno(tm) 618 gpu",
+        "score": "3"
+    },
+    {
+        "name": "qualcomm(r) adreno(tm) 8cx gen 3 gpu",
+        "score": "3"
+    }
+]
