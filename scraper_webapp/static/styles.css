@@ -5,21 +5,39 @@ body {
     padding: 0;
 }
 
-.form-container {
-    margin-top: 50px;
-    display: flex;
-    justify-content: center;
+.cursor-pointer {
+    cursor: pointer;
 }
 
-form {
-    display: flex;
-    flex-direction: column;
-    width: 300px;
-    padding: 20px;
-    background-color: white;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+.arrow-down {
+    display: inline-block;
+    margin-left: 10px;
+    transition: transform 0.3s ease;
 }
+
+.info-band-content {
+    transition: max-height 0.5s ease, opacity 0.5s ease, padding 0.5s ease;
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    padding: 0; /* Set padding to 0 to reduce space when collapsed */
+}
+
+.info-band-trigger, .info-band-content {
+    background-color: #007bff; /* Use the same color for both elements */
+    color: white; /* Set the text color to white for better readability */
+}
+
+.section-spacing {
+    margin-top: 30px;
+}
+
+.custom-width {
+    width: 80%; /* or whatever width you prefer */
+    max-width: 1300px; /* optional, prevents it from becoming too wide on large screens */
+    margin: 0 auto; /* centers the div */
+}
+
 
 input[type="text"] {
     margin-bottom: 20px;

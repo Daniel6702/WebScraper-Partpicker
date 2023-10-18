@@ -1,29 +1,17 @@
-from django.shortcuts import render
+from django.shortcuts import render,redirect
 from .forms import ScraperForm
 from Scraper_Package.picker import select_components
+from .forms import PCBuilderForm
+from django.http import HttpResponseRedirect
 
-budget_distribution = {
-    'cpu': 0.2,     
-    'mb': 0.1,      
-    'ram': 0.1,     
-    'cooler': 0.05, 
-    'gpu': 0.35,    
-    'drive': 0.1,   
-    'case': 0.05,   
-    'psu': 0.05,    
-}
-
-def scraper_view(request):
+def pc_builder(request):
     if request.method == 'POST':
-        form = ScraperForm(request.POST)
+        form = PCBuilderForm(request.POST)
         if form.is_valid():
-            budget = float(form.cleaned_data['budget'])
-            dict_with_components_data = select_components(budget_distribution,budget)
-            print(dict_with_components_data)
-
-            return render(request, 'scraper_webapp/scraper.html', {'form': form})
-
+            # Process and save the data
+            # For example, you can filter out PC builds based on the form data
+            # and display them on a new results page.
+            return redirect('pc_build_results')
     else:
-        form = ScraperForm()
-
-    return render(request, 'scraper_webapp/scraper.html', {'form': form})
+        form = PCBuilderForm()
+    return render(request, 'scraper_webapp/pc_builder.html', {'form': form})
