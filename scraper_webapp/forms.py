@@ -1,18 +1,25 @@
 from django import forms
 
-class ScraperForm(forms.Form):
-    budget = forms.CharField(label='Budget', max_length=500)
-
-class BudgetForm(forms.Form):
-    lower_budget = forms.IntegerField()
-    upper_budget = forms.IntegerField()
-
 class PCBuilderForm(forms.Form):
     USAGE_CHOICES = [
         ('gaming', 'Gaming'),
-        ('productivity', 'Productivity'),
+        ('productivity', 'General Productivity'),
+        ('server', 'Server or networking tasks'),
         ('streaming', 'Streaming'),
-        ('vr', 'VR'),
+        ('vr', 'Virtual reality'),
+        ('video_editing', 'Video Editing'),
+        ('3d_modeling', '3D Modeling and CAD'), 
+        ('graphic_design', 'Graphic design'),
+        ('programming', 'Software development'),
+        ('casual', 'Casual Use'),
     ]
-    usage = forms.MultipleChoiceField(choices=USAGE_CHOICES, widget=forms.CheckboxSelectMultiple)
+    
+    usage = forms.ChoiceField(choices=USAGE_CHOICES, widget=forms.Select(attrs={'class': 'form-control custom-select'}))
 
+    small_form_factor = forms.BooleanField(required=False)
+    rgb = forms.BooleanField(required=False)
+    wireless_connectivity = forms.BooleanField(required=False)
+    overclocking_capabilities = forms.BooleanField(required=False)
+
+    cooling_capability = forms.IntegerField(widget=forms.NumberInput(attrs={'type': 'range'}), required=False)
+    quality_vs_performance = forms.IntegerField(widget=forms.NumberInput(attrs={'type': 'range'}), required=False)

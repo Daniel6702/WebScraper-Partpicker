@@ -1,0 +1,83 @@
+/*Priority slider quality/performance*/
+#priority-slider {
+    margin-top: 20px;
+}
+
+#budget-slider {
+    margin-top: 0px;
+}
+
+/*Primary use selector drop down menu*/
+.custom-select {
+    width: 130px;  
+    height: 35px;  
+}
+
+/*Advanved Options menu*/
+#advancedOptions {
+    padding-bottom: 0px;
+}
+.advanced-options-btn {
+    display: inline-block;
+    cursor: pointer;
+    padding: 2px 8px;
+    border: 1px solid #007BFF;  
+    color: #007BFF;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.2s;
+}
+.advanced-options-btn:hover {
+    background-color: #007BFF;
+    color: #ffffff;
+}
+.advanced-slider {
+    margin-top: 0px;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.collapsing {
+    transition: height 0.35s ease;  /* Adjust the duration and timing function as needed */
+}
+
+.handle-value {
+    background: #fff; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    padding: 1px;
+    font-size: 0.9em; 
+    white-space: nowrap; 
+    color: #333; 
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.section-spacing {
+    margin-top: 30px;
+}
+
+.custom-width {
+    width: 80%; 
+    max-width: 1300px; 
+    margin: 0 auto; 
+}
+
+.sliders-container {
+    display: grid;
+    grid-template-columns: 1fr; /* Makes one column */
+    grid-gap: 10px; /* Adjust space between the rows */
+    /* Add additional styles like padding, background etc., if necessary */
+}
+.slider-group {
+    display: grid;
+
+    /* Styles for your slider group, if any */
+}
+
+

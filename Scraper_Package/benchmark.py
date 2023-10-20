@@ -3,6 +3,11 @@ import os
 from bs4 import BeautifulSoup
 import json
 
+#https://github.com/toUpperCase78/intel-processors
+#https://www.amd.com/en/products/specifications/processors/11776+1736+1896+2466
+#https://ark.intel.com/content/www/us/en/ark.html#@PanelLabel122139
+#https://www.techpowerup.com/cpu-specs/?sort=name
+
 def get_path_of_data_folder():
     return os.path.join(os.path.dirname(__file__), '..', 'Data')
 

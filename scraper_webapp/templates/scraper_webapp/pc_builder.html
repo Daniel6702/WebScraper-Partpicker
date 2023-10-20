@@ -6,164 +6,150 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PC Builder</title>
     {% load static %}
-    <!-- Add Bootstrap CSS for styling -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Add jQuery UI CSS for the slider -->
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-    <link rel="stylesheet" type="text/css" href="{% static 'styles.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'css\styles.css' %}">
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    
 </head>
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-<body>
 
-<div class="" style="margin-top: 75px;">
-</div>
-
-<div class="container mt-5 custom-width">
+<div class="container mt-5 custom-width" style="padding-top: 75px; padding-bottom: 25px;">
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-6" >
+
+            <!--Images and text left side-->
             <h2>Build Your Perfect PC </h2>
             <p>BuildPicker will recommend a system based on your budget and needs.</p>
             <div class="row">
-                <!-- Adjust 'col' classes as needed to change image width, ensure they add up to 12 -->
                 <div class="col-6">
-                    <img src="{% static 'scraper_webapp/images/pc1.png' %}" alt="Image 1" class="img-fluid mb-2">
+                    <img src="{% static 'images/pc1.png' %}" alt="Image 1" class="img-fluid mb-2">
                 </div>
                 <div class="col-6">
-                    <img src="{% static 'scraper_webapp/images/pc2.png' %}" alt="Image 2" class="img-fluid mb-2">
+                    <img src="{% static 'images/pc2.png' %}" alt="Image 2" class="img-fluid mb-2">
                 </div>
-                <!-- Add more images with additional 'col' divs if needed -->
             </div>
         </div>
+
         <div class="col-md-6">
-            
             <form method="POST" id="pcBuilderForm" class="mt-4">
                 {% csrf_token %}
                 {{ form.non_field_errors }}
-                
-                <div class="form-group">
-                    <label>What is the budget for your PC?</label>
-                    <div id="budget-slider"></div>
-                    <!-- Hidden inputs for budget -->
+                <label>What is the budget for your PC?</label>
+
+                <!--Budget Slider-->
+                <div class="form-group" style="padding-top: 30px;" >
+                    <div id="budget-slider" >
+                        <div id="lower-handle-value" class="handle-value" style="position: absolute;"></div>
+                        <div id="upper-handle-value" class="handle-value" style="position: absolute;"></div>
+                    </div>
+                    <div id="slider-scale" class="d-flex justify-content-between"></div>
                     {{ form.lower_budget }}
                     {{ form.upper_budget }}
-                    <p class="mt-2">Budget Range: <span id="budget-range"></span></p>
                 </div>
                 
-                <div class="form-group">
-                    <label>Usage:</label>
-                    <div>
-                        {{ form.usage.errors }}
-                        {{ form.usage }}
+                <div class="container mt-4" style="padding-top: 5px; padding-bottom: 25px;">
+                    <div class="row">
+                        <!-- Column for the ChoiceField -->
+                        <div class="col-md-6">
+                            <label for="id_usage">Primary Usage:</label>
+                            <div>
+                                {{ form.usage.errors }}
+                                {{ form.usage }}
+                            </div>
+                        </div>
+                
+                        <!-- Column for the Slider -->
+                        <div class="col-md-6">
+                            <label for="priority-slider">Priority: Quality vs Performance</label>
+                            <div id="priority-slider" class="mt-2"></div>
+                        </div>
                     </div>
                 </div>
 
-                <button type="submit" class="btn btn-primary">Submit</button>
+                <!-- Advanced section -->        
+                <div class="form-group">
+                    <a class="advanced-options-btn" data-toggle="collapse" href="#advancedOptions" role="button" aria-expanded="false" aria-controls="advancedOptions">
+                        Advanced Options
+                    </a>
+                    <div class="collapse" id="advancedOptions">
+
+                        <div class="container mt-4">
+                            <div class="row">
+                            <!-- Checkbox Options -->
+                                <div class="col-md-6">
+                                    <div class="form-check">
+                                        <input type="checkbox" name="small_form_factor" id="small_form_factor">
+
+                                        <label class="form-check-label" for="smallFormFactor">Small Form Factor</label>
+                                    </div>
+                                    <div class="form-check">
+                                        <input type="checkbox" name="rgb" id="rgb">
+                                        <label class="form-check-label" for="rgb">RGB</label>
+                                    </div>
+                                    <div class="form-check">
+                                        <input type="checkbox" value="wireless_connectivity" id="wireless_connectivity">
+                                        <label class="form-check-label" for="wirelessConnectivity">Wireless Connectivity</label>
+                                    </div>
+                                    <div class="form-check">
+                                        <input type="checkbox" value="overclocking_capabilities" id="overclocking_capabilities">
+                                        <label class="form-check-label" for="overclockingCapabilities">Overclocking Capabilities</label>
+                                    </div>
+                                </div>
+                    
+                                
+                                <div class="col-md-6">
+                                    <div class="sliders-container">
+                                        <!-- Slider for Cooling Capabilities -->
+                                        <div class="slider-group">
+                                            <label>Cooling Capabilities:</label>
+                                            <div id="cooling-slider" class="advanced-slider"></div>
+                                            <input type="hidden" name="cooling_capability" id="coolingValue">
+                                        </div>
+                                        
+                                        <!-- Slider for Aesthetics -->
+                                        <div class="slider-group">
+                                            <label>Aesthetics:</label>
+                                            <div id="aesthetics-slider" class="advanced-slider"></div>
+                                            <input type="hidden" name="aesthetics_capability" id="aestheticsValue">
+                                        </div>
+                                    </div>
+ 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> 
+                <button type="submit" class="btn btn-primary">Build my PC</button>
                 <button type="reset" class="btn btn-secondary" onclick="resetForm()">Reset</button>
             </form>
         </div>
     </div>
 </div>
 
-<div class="info-band-trigger py-2 text-center cursor-pointer section-spacing" data-toggle="info-dropdown" style="background-color: #007bff; color: white;">
-    <span>How this works</span>
-    <i class="arrow-down">&#x25BC;</i>
-</div>
-<div class="info-band-content d-none text-white py-3" style="background-color: #007bff;">
+<div class="text-white py-3" style=" background-color: #007bff;">
     <div class="container">
+        <h4>How this works</h4>
         <div class="row">
             <div class="col-md-3">
-                <h4>Step 1</h4>
-                <p>Information about step 1...</p>
+                <p>Our software collects information, specifications, and performance benchmarks for thousands of components, from different sources. Thus, the data reflects the latest advancements in technology.</p>            
             </div>
             <div class="col-md-3">
-                <h4>Step 2</h4>
-                <p>Information about step 2...</p>
+                <p>Scouring the internet, our system continuously identifies components that are not only available in stock but also the most affordable, saving you time and ensuring you get value for your money.</p>           
             </div>
             <div class="col-md-3">
-                <h4>Step 3</h4>
-                <p>Information about step 3...</p>
+                <p>Utilizing an advanced algorithm, our platform processes this extensive data to concoct the most cost-efficient computer build tailored to your specific budget, balancing performance and economy.</p>       
             </div>
             <div class="col-md-3">
-                <h4>Step 4</h4>
-                <p>Information about step 4...</p>
+                <p>Modify your computer setup as you desire. Once you're satisfied, request a non-binding offer. Sit back and relax, as we expedite the procurement of components and assembly of your custom computer.</p>         
             </div>
         </div>
     </div>
 </div>
-
-
 <!-- Add jQuery, jQuery UI and Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
-<script>
-    $(function() {
-        // Set up the jQuery UI slider
-        $("#budget-slider").slider({
-            range: true,
-            min: 0,
-            max: 5000,
-            values: [1000, 3000],  // Initial range values
-            slide: function(event, ui) {
-                // Update the displayed budget range and hidden inputs when slider changes
-                $("#budget-range").text("$" + ui.values[0] + " - $" + ui.values[1]);
-                $("input[name='lower_budget']").val(ui.values[0]);
-                $("input[name='upper_budget']").val(ui.values[1]);
-            }
-        });
-
-        // Set the initial displayed budget range based on initial slider values
-        $("#budget-range").text("$" + $("#budget-slider").slider("values", 0) +
-            " - $" + $("#budget-slider").slider("values", 1));
-    });
-
-    function resetForm() {
-        // This function resets the form inputs and the slider
-        $('#pcBuilderForm')[0].reset();
-        $("#budget-slider").slider("values", [1000, 3000]); // Reset slider to initial values
-        $("#budget-range").text("$1000 - $3000"); // Reset budget range text
-    }
-
-   
-    $(document).ready(function() {
-    $('[data-toggle="info-dropdown"]').on('click', function() {
-        const content = $('.info-band-content');
-        const arrow = $('.arrow-down');
-
-        // Function to force browser to recalculate the style, ensuring the transition is triggered
-        const forceReflow = (element) => {
-            element[0].offsetHeight; // Accessing this property forces a reflow
-        };
-
-        if (content.css('opacity') === '0') {
-            content.removeClass('d-none');
-            forceReflow(content); // Force reflow before setting the properties to ensure transition is triggered
-            content.css({
-                'max-height': '1500px', // Adjust value if needed, or calculate actual height
-                'opacity': '1',
-                'padding': '', // Reset padding to default
-            });
-            arrow.css('transform', 'rotate(180deg)');
-        } else {
-            //content.css('max-height', '0');
-            content.css('opacity', '0');
-            setTimeout(() => {  // Delay the opacity change by a bit
-                content.css('max-height', '0');
-                
-                forceReflow(content);
-            }, 200); 
-            // Set a timeout that matches the transition duration before adding 'd-none'
-            setTimeout(() => {
-                content.addClass('d-none');
-                forceReflow(content); // Force reflow after setting the properties to ensure transition is triggered
-            }, 500); // This should match the transition duration
-            arrow.css('transform', 'rotate(0deg)');
-        }
-    });
-});
-
-</script>
+{% load static %}
+<script src="{% static 'js/script.js' %}"></script>
 </body>
 </html>
