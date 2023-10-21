@@ -1,0 +1,5 @@
+- Style the table with components
+- Scrape cpu data from website
+- Add function to combine all cpu data  (same for gpu) 
+- update reset function
+- Work on algorithm

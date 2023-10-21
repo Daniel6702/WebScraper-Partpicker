@@ -43,10 +43,10 @@
                     <div id="budget-slider" >
                         <div id="lower-handle-value" class="handle-value" style="position: absolute;"></div>
                         <div id="upper-handle-value" class="handle-value" style="position: absolute;"></div>
+                        <input type="hidden" name="lower_budget" value="8000"> <!-- Default value is 8000 as per your script -->
+                        <input type="hidden" name="upper_budget" value="10000">
                     </div>
                     <div id="slider-scale" class="d-flex justify-content-between"></div>
-                    {{ form.lower_budget }}
-                    {{ form.upper_budget }}
                 </div>
                 
                 <div class="container mt-4" style="padding-top: 5px; padding-bottom: 25px;">
@@ -62,12 +62,14 @@
                 
                         <!-- Column for the Slider -->
                         <div class="col-md-6">
-                            <label for="priority-slider">Priority: Quality vs Performance</label>
-                            <div id="priority-slider" class="mt-2"></div>
+                            <div class="slider-group">
+                                <label>Priority:</label>
+                                <div id="priority-slider" class="advanced-slider"></div>
+                                <input type="hidden" name="priority" id="priorityValue">
+                            </div>
                         </div>
                     </div>
                 </div>
-
                 <!-- Advanced section -->        
                 <div class="form-group">
                     <a class="advanced-options-btn" data-toggle="collapse" href="#advancedOptions" role="button" aria-expanded="false" aria-controls="advancedOptions">
@@ -97,7 +99,6 @@
                                         <label class="form-check-label" for="overclockingCapabilities">Overclocking Capabilities</label>
                                     </div>
                                 </div>
-                    
                                 
                                 <div class="col-md-6">
                                     <div class="sliders-container">
@@ -112,10 +113,9 @@
                                         <div class="slider-group">
                                             <label>Aesthetics:</label>
                                             <div id="aesthetics-slider" class="advanced-slider"></div>
-                                            <input type="hidden" name="aesthetics_capability" id="aestheticsValue">
+                                            <input type="hidden" name="aesthetics" id="aestheticsValue">
                                         </div>
                                     </div>
- 
                                 </div>
                             </div>
                         </div>
@@ -126,6 +126,10 @@
             </form>
         </div>
     </div>
+</div>
+
+<div id="computer-table-container" style="padding-top: 25px; padding-bottom: 25px; padding-left: 25px;">
+
 </div>
 
 <div class="text-white py-3" style=" background-color: #007bff;">
@@ -147,6 +151,70 @@
         </div>
     </div>
 </div>
+
+    
+
+<script>
+function updateComputerTable(computer) {
+    const container = document.getElementById('computer-table-container');
+    // Clear the previous data
+    container.innerHTML = '';
+
+    // Create a table element
+    const table = document.createElement('table');
+
+    // Add table header
+    const thead = document.createElement('thead');
+    const headerRow = document.createElement('tr');
+    ['Component', 'Name', 'Price', 'Performance', 'URL'].forEach(text => {
+        const th = document.createElement('th');
+        th.appendChild(document.createTextNode(text));
+        headerRow.appendChild(th);
+    });
+    thead.appendChild(headerRow);
+    table.appendChild(thead);
+
+    // Add table body
+    const tbody = document.createElement('tbody');
+
+    // Loop through each component in the 'computer' object
+    for (const [componentType, componentData] of Object.entries(computer)) {
+        const row = document.createElement('tr');
+
+        // Component type (e.g., 'cpu', 'gpu')
+        const typeCell = document.createElement('td');
+        typeCell.appendChild(document.createTextNode(componentType));
+        row.appendChild(typeCell);
+
+        // Component details (e.g., 'name', 'price', etc.)
+        ['name', 'price', 'performance', 'url'].forEach(key => {
+            const cell = document.createElement('td');
+            if (key === 'url') {
+                // If this is the URL, make it a clickable link
+                const a = document.createElement('a');
+                a.href = componentData[key];
+                a.textContent = 'Link';
+                a.target = '_blank'; // to open in a new tab
+                cell.appendChild(a);
+            } else {
+                // Otherwise, just add the text
+                cell.appendChild(document.createTextNode(componentData[key]));
+            }
+            row.appendChild(cell);
+        });
+
+        tbody.appendChild(row);
+    }
+
+    table.appendChild(tbody);
+    container.appendChild(table);
+}
+</script>
+
+{% block javascript %}
+<script src="{% static 'js/ajax.js' %}"></script>
+{% endblock %}
+
 <!-- Add jQuery, jQuery UI and Bootstrap JS -->
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
 {% load static %}

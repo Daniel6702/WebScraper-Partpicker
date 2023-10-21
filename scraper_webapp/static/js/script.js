@@ -1,4 +1,5 @@
 $(function() {
+
     $("#budget-slider").slider({
         range: true,
         min: 0,
@@ -13,7 +14,6 @@ $(function() {
             positionHandleValues(ui.values);
         }
     });
-
     $("#budget-range").text("Kr" + $("#budget-slider").slider("values", 0) + " - Kr" + $("#budget-slider").slider("values", 1));
 
     function positionHandleValues(values) {
@@ -42,54 +42,60 @@ $(function() {
         }
     }
 
-    function resetForm() {
-        
-        $('#pcBuilderForm')[0].reset();
-        $("#budget-slider").slider("values", [8000, 10000]); // Reset slider to initial values
-        positionHandleValues($("#budget-slider").slider("values"));
-    }
+    
 
-    $("#priority-slider").slider({
-        range: "min",
-        min: 0,
-        max: 100,
-        value: 50,  // Setting the initial value to 50 (midway) as an example.
-        slide: function(event, ui) {
-            // Any logic you want to add while sliding.
-        }
+    //priority slider
+    $(document).ready(function() {
+        $("#priority-slider").slider({
+            range: "min",
+            min: 1,
+            max: 10, 
+            value: 5, 
+            slide: function(event, ui) {
+                $("#priorityValue").val(ui.value);
+            }
+        });
+    
+        $("#priorityValue").val($("#priority-slider").slider("value"));
     });
-
+    //Cooling slider
     $(document).ready(function() {
         $("#cooling-slider").slider({
             range: "min",
             min: 1,
-            max: 10,  // Adjust the max value based on your requirements.
-            value: 5, // Default value at initialization
+            max: 10, 
+            value: 5, 
             slide: function(event, ui) {
-                // Update the hidden input value when the slider value changes
                 $("#coolingValue").val(ui.value);
             }
         });
-    
-        // Initialize the hidden input value with the slider's initial value
         $("#coolingValue").val($("#cooling-slider").slider("value"));
     });
 
+    //Aesthetics slider
     $(document).ready(function() {
         $("#aesthetics-slider").slider({
             range: "min",
             min: 1,
-            max: 10,  // Adjust the max value based on your requirements.
-            value: 5, // Default value at initialization
+            max: 10,  
+            value: 5, 
             slide: function(event, ui) {
-                // Update the hidden input value when the slider value changes
                 $("#aestheticsValue").val(ui.value);
             }
         });
-    
-        // Initialize the hidden input value with the slider's initial value
         $("#aestheticsValue").val($("#aesthetics-slider").slider("value"));
-    });
+    }); 
+
+
+    function resetForm() {
+        $('#pcBuilderForm')[0].reset();
+        $("#budget-slider").slider("values", [8000, 10000]); // Reset slider to initial values
+        $("#priority-slider").slider("value", 5);
+        $("#cooling-slider").slider("value", 5);
+        $("#aesthetics-slider").slider("value", 5);
+        positionHandleValues($("#budget-slider").slider("values"));
+    }
+
 
     createSliderScale(0, 20000, 5000);
     window.resetForm = resetForm;

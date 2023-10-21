@@ -10,7 +10,10 @@ class Component:
     price: int
     performance: float
     url: str
-    
+
+    def __post_init__(self):
+        if len(self.name) > 50:
+            self.name = self.name[:20]
 
 budget = {
     'cpu': 0.25,     
@@ -31,7 +34,16 @@ def get_component_data(filename):
     with open(get_file_path(filename), 'r', encoding='utf-8') as f:
         return json.load(f)
 
-def select_components(budget_distribution, budget=10000):
+def buildComputer(budget_distribution={
+    'cpu': 0.25,     
+    'mb': 0.1,      
+    'ram': 0.05,     
+    'cooler': 0.05, 
+    'gpu': 0.35,    
+    'drive': 0.1,   
+    'case': 0.05,   
+    'psu': 0.05,    
+}, budget=10000):
     cpu_data = get_component_data('cpu_data.json')
     cpu, socket = get_cpu_component(cpu_data, budget_distribution['cpu'] * budget)
     
@@ -144,5 +156,5 @@ def get_cooler_component(cooler_list, cooler_budget, socket):
     
 
 
-my_dict = select_components(budget)
-print(json.dumps(my_dict, indent=4))
+#my_dict = select_components(budget)
+#print(json.dumps(my_dict, indent=4))

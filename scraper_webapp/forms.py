@@ -1,6 +1,9 @@
 from django import forms
 
 class PCBuilderForm(forms.Form):
+    lower_budget = forms.IntegerField(required=True)
+    upper_budget = forms.IntegerField(required=True)
+
     USAGE_CHOICES = [
         ('gaming', 'Gaming'),
         ('productivity', 'General Productivity'),
@@ -20,6 +23,11 @@ class PCBuilderForm(forms.Form):
     rgb = forms.BooleanField(required=False)
     wireless_connectivity = forms.BooleanField(required=False)
     overclocking_capabilities = forms.BooleanField(required=False)
-
+    
     cooling_capability = forms.IntegerField(widget=forms.NumberInput(attrs={'type': 'range'}), required=False)
-    quality_vs_performance = forms.IntegerField(widget=forms.NumberInput(attrs={'type': 'range'}), required=False)
+    aesthetics = forms.IntegerField(widget=forms.NumberInput(attrs={'type': 'range'}), required=False)
+    priority = forms.IntegerField(widget=forms.NumberInput(attrs={'type': 'range'}), required=False)
+
+    
+
+    

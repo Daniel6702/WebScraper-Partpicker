@@ -1,7 +1,4 @@
 /*Priority slider quality/performance*/
-#priority-slider {
-    margin-top: 20px;
-}
 
 #budget-slider {
     margin-top: 0px;
@@ -9,7 +6,7 @@
 
 /*Primary use selector drop down menu*/
 .custom-select {
-    width: 130px;  
+    width: 230px;  
     height: 35px;  
 }
 
