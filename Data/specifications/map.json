@@ -1,0 +1,56 @@
+{
+    "fclga4677": [
+        "Intel W790 Chipset"
+    ],
+    "fclga1700": [
+        "Intel B760 Chipset",
+        "Intel H770 Chipset",
+        "Intel Z790 Chipset",
+        "Intel W680 Chipset",
+        "Intel Q670 Chipset",
+        "Intel H610 Chipset",
+        "Intel H670 Chipset",
+        "Intel B660 Chipset",
+        "Intel Z690 Chipset",
+        "Intel H610E Chipset",
+        "Intel R680E Chipset",
+        "Intel Q670E Chipset"
+    ],
+    "fclga1200": [
+        "Intel Q470 Chipset",
+        "Intel W480 Chipset",
+        "Intel Z490 Chipset",
+        "Intel H470 Chipset",
+        "Intel W580 Chipset",
+        "Intel Q570 Chipset",
+        "Intel Z590 Chipset",
+        "Intel H570 Chipset",
+        "Intel B560 Chipset",
+        "Intel H510 Chipset",
+        "Intel B460 Chipset",
+        "Intel H410 Chipset"
+    ],
+    "fclga1151": [
+        "Intel B365 Chipset",
+        "Intel Z390 Chipset",
+        "Intel B360 Chipset",
+        "Intel H310 Chipset",
+        "Intel Q370 Chipset",
+        "Intel H370 Chipset",
+        "Intel Z370 Chipset",
+        "Intel Q250 Chipset",
+        "Intel B250 Chipset",
+        "Intel Q270 Chipset",
+        "Intel Z270 Chipset",
+        "Intel H270 Chipset",
+        "Intel Q170 Chipset",
+        "Intel Q150 Chipset",
+        "Intel H110 Chipset",
+        "Intel B150 Chipset",
+        "Intel H170 Chipset",
+        "Intel Z170 Chipset"
+    ],
+    "fclga2066": [
+        "Intel X299 Chipset"
+    ]
+}
