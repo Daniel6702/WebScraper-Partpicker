@@ -3,15 +3,11 @@ import os
 from bs4 import BeautifulSoup
 import json
 
-#https://github.com/toUpperCase78/intel-processors
-#https://www.amd.com/en/products/specifications/processors/11776+1736+1896+2466
-#https://ark.intel.com/content/www/us/en/ark.html#@PanelLabel122139
-#https://www.techpowerup.com/cpu-specs/?sort=name
-
 def get_path_of_data_folder():
     return os.path.join(os.path.dirname(__file__), '..', 'Data')
 
-def download_userbenchmark(folder_path=f'{get_path_of_data_folder()}/benchmarks'):
+def download_userbenchmark(data_path=get_path_of_data_folder()):
+    folder_path = data_path + "/benchmarks"
     urls = ["https://www.userbenchmark.com/resources/download/csv/GPU_UserBenchmarks.csv",
            "https://www.userbenchmark.com/resources/download/csv/CPU_UserBenchmarks.csv"]
     
@@ -28,7 +24,8 @@ def download_userbenchmark(folder_path=f'{get_path_of_data_folder()}/benchmarks'
         else:
             print(f"Failed to retrieve the data from {url}")
 
-def scrape_geekbench_cpu(folder_path=f'{get_path_of_data_folder()}/benchmarks'):
+def scrape_geekbench_cpu(data_path=get_path_of_data_folder()):
+    folder_path = data_path + "/benchmarks"
     page = requests.get('https://browser.geekbench.com/processor-benchmarks/')
     soup = BeautifulSoup(page.content, "html.parser")
     cpus = soup.find_all('tr')
@@ -44,7 +41,8 @@ def scrape_geekbench_cpu(folder_path=f'{get_path_of_data_folder()}/benchmarks'):
     with open(os.path.join(folder_path, 'geekbench_cpu.json'), 'w', encoding='utf-8') as f:
         json.dump(cpu_data, f, ensure_ascii=False, indent=4)
 
-def scrape_geekbench_gpu(folder_path=f'{get_path_of_data_folder()}/benchmarks'):
+def scrape_geekbench_gpu(data_path=get_path_of_data_folder()):
+    folder_path = data_path + "/benchmarks"
     page = requests.get('https://browser.geekbench.com/opencl-benchmarks')
     soup = BeautifulSoup(page.content, "html.parser")
     gpus = soup.find_all('tr')
@@ -60,4 +58,3 @@ def scrape_geekbench_gpu(folder_path=f'{get_path_of_data_folder()}/benchmarks'):
     with open(os.path.join(folder_path, 'geekbench_gpu.json'), 'w', encoding='utf-8') as f:
         json.dump(gpu_data, f, ensure_ascii=False, indent=4)
 
-download_userbenchmark()
